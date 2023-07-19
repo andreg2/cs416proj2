@@ -17,10 +17,10 @@ function loadScene1() {
         .data(worldpopFiltered)
         .enter()
         .append("rect")
-        .attr("x", function(d) { return x(+d.Year); })
-        .attr("y", function(d) { return y(+d.Population); })
+        .attr("x", function(d) { return x(d.Year); })
+        .attr("y", function(d) { return y(d.Population); })
         .attr("width", x.bandwidth())
-        .attr("height", function(d) { return 200 - y(+d.Population); });
+        .attr("height", function(d) { return 200 - y(d.Population); });
 
     d3.select("svg").append("g")
         .attr("transform", "translate(50,50)")
