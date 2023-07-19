@@ -17,6 +17,7 @@ function handleMouseOut() {
 
 function loadScene1() {
     worldpopFiltered = worldpop.filter((entry) => entry.Type == 'World');
+    console.log(worldpopFiltered);
 
     var x = d3.scaleBand().domain([2017,2018,2019,2020,2021]).range([0,200]);
     var y = d3.scaleLinear().domain([0,8000000]).range([200,0]);
