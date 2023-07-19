@@ -18,17 +18,14 @@ function loadScene1() {
         .enter()
         .append("rect")
         .attr("x", function(d) { 
-            console.log(d.Year);
             return x(d.Year); 
         })
         .attr("y", function(d) {
-            console.log(d.Population);
-            return y(d.Population); 
+            return y(Number(d.Population)); 
         })
         .attr("width", x.bandwidth())
         .attr("height", function(d) { 
-            console.log(d);
-            return 200 - y(d.Population); 
+            return 200 - y(Number(d.Population)); 
         });
 
     d3.select("svg").append("g")
