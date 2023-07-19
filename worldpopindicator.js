@@ -2,10 +2,7 @@ var worldpop = new Array();
 var worldpopFiltered = new Array();
 
 function loadScene1() {
-    worldpopFiltered = worldpop.filter(function(entry) { 
-        console.log(entry);
-        return entry.Type != "World"; 
-    });
+    worldpopFiltered = worldpop.filter((entry) => entry.Type == 'World');
     console.log(worldpopFiltered);
 
     var x = d3.scaleBand().domain([2017,2018,2019,2020,2021]).range([0,200]);
