@@ -3,7 +3,7 @@ var worldpopFiltered = new Array();
 
 function loadScene1() {
     worldpopFiltered = worldpop.filter((entry) => entry.Type == 'World');
-    console.log(worldpopFiltered);
+    // console.log(worldpopFiltered);
 
     var x = d3.scaleBand().domain([2017,2018,2019,2020,2021]).range([0,200]);
     var y = d3.scaleLinear().domain([0,8000000]).range([200,0]);
@@ -40,6 +40,7 @@ function loadScene1() {
 async function init() {
     // Fetch cars data
     worldpop = await d3.csv("world_pop_filtered.csv");
+    console.log(worldpop);
 
     // Load scene 1
     loadScene1();
