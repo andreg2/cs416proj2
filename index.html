@@ -2,11 +2,27 @@
     <script src='https://d3js.org/d3.v5.min.js'></script>
     <script src="worldpopindicator.js"></script>
     <style> 
-        circle {fill: lightblue; stroke: black;}
+        rect {
+            fill: steelblue;
+        }
+
+        .tooltip {
+            position: absolute;
+            padding: 6px;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            font-size: 12px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
     </style>
     <body>
-        <h2>World Population from 2017 to 2021.</h2>
-        <svg width=300 height=300></svg>
+        <h2>World Population from 2017 to 2021 </h2>
+        <div class="scene">
+            <svg width=300 height=300></svg>
+            <div class="tooltip"></div>
+        </div>
     </body>
 </html>
 
