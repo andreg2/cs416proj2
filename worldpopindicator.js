@@ -4,7 +4,7 @@ var worldpopFiltered = new Array();
 function loadScene1() {
     worldpopFiltered = worldpop.filter(function(entry) { 
         console.log(entry);
-        return entry.Type == "World"; 
+        return entry.Type != "World"; 
     });
     console.log(worldpopFiltered);
 
