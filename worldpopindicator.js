@@ -31,7 +31,7 @@ function getCountriesData(data) {
 
 function loadScene3(data) {
     let countries = getCountriesData(data);
-    console.log(countries);
+    // console.log(countries);
 
     d3.select("h2")
         .html("World Population x Deaths of " + data.region + " for " + data.year);
@@ -40,11 +40,11 @@ function loadScene3(data) {
     d3.selectAll("g").remove();
 
     // update chart
-    let deathsDomain = [0,Math.max(...countries.map((country) => country.deaths))];
-    let populationDomain = [0,Math.max(...countries.map((country) => country.population))];
+    let deathsDomain = [0,Math.max(...countries.map((country) => country.deaths))*1000];
+    let populationDomain = [0,Math.max(...countries.map((country) => country.population))*1000];
 
-    x = d3.scaleLog().domain(deathsDomain).range([0,1000]);
-    y = d3.scaleLog().domain(populationDomain).range([500,0]);
+    x = d3.scaleLinear().domain(deathsDomain).range([0,1000]);
+    y = d3.scaleLinear().domain(populationDomain).range([500,0]);
 
     d3.select("svg")
         .append("g")
@@ -54,12 +54,12 @@ function loadScene3(data) {
         .enter()
         .append("circle")
         .attr("cx", function(d) {
-            return x(d.deaths);
+            return x(d.deaths*1000);
         })
         .attr("cy", function(d) {
-            return y(d.population);
+            return y(d.population*1000);
         })
-        .attr("r", 10);
+        .attr("r", 5);
     
     d3.select("svg")
         .append("g")
@@ -70,6 +70,11 @@ function loadScene3(data) {
         .append("g")
         .attr("transform", "translate(100,550)")
         .call(d3.axisBottom(x));
+
+    // Adds mouse events
+    d3.selectAll("circle")
+        .on("mouseover", handleMouseOver3)
+        .on("mouseout", handleMouseOut);
 }
 
 function loadScene2(d) {
@@ -127,6 +132,22 @@ function loadScene2(d) {
         .on("mouseout", handleMouseOut)
         .on("click", loadScene3);
 }   
+
+function handleMouseOver3(d) {
+    d3.select(this)
+        .style("fill", "blue");
+
+    d3.select(".tooltip")
+        .transition()
+        .duration(200)
+        .style("opacity", 0.9)
+        .style("visibility", "visible");
+
+    d3.select(".tooltip")
+        .html(`<strong>Region:</strong> ${d.region}<br><strong>Total Population:</strong> ${d.population*1000}<br><strong>Total Deaths:</strong> ${d.deaths*1000}<br>`)
+        .style("left", `${d3.event.pageX}px`)
+        .style("top", `${d3.event.pageY}px`);
+}
 
 function handleMouseOver2(d) {
     d3.select(this)
