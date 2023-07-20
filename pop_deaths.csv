@@ -1,0 +1,3169 @@
+,variant,region,location_code,type,parent_code,year,population,deaths
+60,Estimates,WORLD,900,World,0,2010,6941951,54329
+61,Estimates,WORLD,900,World,0,2011,7029255,54394
+62,Estimates,WORLD,900,World,0,2012,7116996,54790
+63,Estimates,WORLD,900,World,0,2013,7206400,55034
+64,Estimates,WORLD,900,World,0,2014,7294787,55218
+65,Estimates,WORLD,900,World,0,2015,7383240,55893
+66,Estimates,WORLD,900,World,0,2016,7469955,56201
+67,Estimates,WORLD,900,World,0,2017,7556993,56966
+68,Estimates,WORLD,900,World,0,2018,7642651,57352
+69,Estimates,WORLD,900,World,0,2019,7724928,57939
+70,Estimates,WORLD,900,World,0,2020,7804974,63174
+71,Estimates,WORLD,900,World,0,2021,7876932,69248
+1648,Estimates,AFRICA,903,Region,1840,2010,1041484,10652
+1649,Estimates,AFRICA,903,Region,1840,2011,1068983,10594
+1650,Estimates,AFRICA,903,Region,1840,2012,1096369,10562
+1651,Estimates,AFRICA,903,Region,1840,2013,1125226,10569
+1652,Estimates,AFRICA,903,Region,1840,2014,1155136,10590
+1653,Estimates,AFRICA,903,Region,1840,2015,1185463,10647
+1654,Estimates,AFRICA,903,Region,1840,2016,1216753,10652
+1655,Estimates,AFRICA,903,Region,1840,2017,1247470,10695
+1656,Estimates,AFRICA,903,Region,1840,2018,1279198,10763
+1657,Estimates,AFRICA,903,Region,1840,2019,1311332,10841
+1658,Estimates,AFRICA,903,Region,1840,2020,1344070,11390
+1659,Estimates,AFRICA,903,Region,1840,2021,1377285,12038
+1720,Estimates,Eastern Africa,910,Subregion,903,2010,337822,3243
+1721,Estimates,Eastern Africa,910,Subregion,903,2011,347659,3181
+1722,Estimates,Eastern Africa,910,Subregion,903,2012,357366,3116
+1723,Estimates,Eastern Africa,910,Subregion,903,2013,367556,3068
+1724,Estimates,Eastern Africa,910,Subregion,903,2014,377967,3046
+1725,Estimates,Eastern Africa,910,Subregion,903,2015,388060,3026
+1726,Estimates,Eastern Africa,910,Subregion,903,2016,398638,3004
+1727,Estimates,Eastern Africa,910,Subregion,903,2017,409506,3007
+1728,Estimates,Eastern Africa,910,Subregion,903,2018,420329,3004
+1729,Estimates,Eastern Africa,910,Subregion,903,2019,431567,3017
+1730,Estimates,Eastern Africa,910,Subregion,903,2020,443357,3160
+1731,Estimates,Eastern Africa,910,Subregion,903,2021,455228,3372
+1792,Estimates,Burundi,108,Country/Area,910,2010,8956,96
+1793,Estimates,Burundi,108,Country/Area,910,2011,9298,96
+1794,Estimates,Burundi,108,Country/Area,910,2012,9614,94
+1795,Estimates,Burundi,108,Country/Area,910,2013,9977,93
+1796,Estimates,Burundi,108,Country/Area,910,2014,10322,92
+1797,Estimates,Burundi,108,Country/Area,910,2015,10668,93
+1798,Estimates,Burundi,108,Country/Area,910,2016,10787,90
+1799,Estimates,Burundi,108,Country/Area,910,2017,11020,87
+1800,Estimates,Burundi,108,Country/Area,910,2018,11291,88
+1801,Estimates,Burundi,108,Country/Area,910,2019,11696,87
+1802,Estimates,Burundi,108,Country/Area,910,2020,12054,92
+1803,Estimates,Burundi,108,Country/Area,910,2021,12387,94
+1864,Estimates,Comoros,174,Country/Area,910,2010,649,6
+1865,Estimates,Comoros,174,Country/Area,910,2011,663,6
+1866,Estimates,Comoros,174,Country/Area,910,2012,677,6
+1867,Estimates,Comoros,174,Country/Area,910,2013,692,6
+1868,Estimates,Comoros,174,Country/Area,910,2014,707,6
+1869,Estimates,Comoros,174,Country/Area,910,2015,722,6
+1870,Estimates,Comoros,174,Country/Area,910,2016,738,6
+1871,Estimates,Comoros,174,Country/Area,910,2017,754,6
+1872,Estimates,Comoros,174,Country/Area,910,2018,769,6
+1873,Estimates,Comoros,174,Country/Area,910,2019,784,7
+1874,Estimates,Comoros,174,Country/Area,910,2020,798,7
+1875,Estimates,Comoros,174,Country/Area,910,2021,814,7
+1936,Estimates,Djibouti,262,Country/Area,910,2010,910,8
+1937,Estimates,Djibouti,262,Country/Area,910,2011,928,8
+1938,Estimates,Djibouti,262,Country/Area,910,2012,946,9
+1939,Estimates,Djibouti,262,Country/Area,910,2013,963,9
+1940,Estimates,Djibouti,262,Country/Area,910,2014,980,9
+1941,Estimates,Djibouti,262,Country/Area,910,2015,998,9
+1942,Estimates,Djibouti,262,Country/Area,910,2016,1015,9
+1943,Estimates,Djibouti,262,Country/Area,910,2017,1032,9
+1944,Estimates,Djibouti,262,Country/Area,910,2018,1049,9
+1945,Estimates,Djibouti,262,Country/Area,910,2019,1066,9
+1946,Estimates,Djibouti,262,Country/Area,910,2020,1082,10
+1947,Estimates,Djibouti,262,Country/Area,910,2021,1098,10
+2008,Estimates,Eritrea,232,Country/Area,910,2010,3113,24
+2009,Estimates,Eritrea,232,Country/Area,910,2011,3182,23
+2010,Estimates,Eritrea,232,Country/Area,910,2012,3233,23
+2011,Estimates,Eritrea,232,Country/Area,910,2013,3272,23
+2012,Estimates,Eritrea,232,Country/Area,910,2014,3320,23
+2013,Estimates,Eritrea,232,Country/Area,910,2015,3327,22
+2014,Estimates,Eritrea,232,Country/Area,910,2016,3353,22
+2015,Estimates,Eritrea,232,Country/Area,910,2017,3377,22
+2016,Estimates,Eritrea,232,Country/Area,910,2018,3417,22
+2017,Estimates,Eritrea,232,Country/Area,910,2019,3474,22
+2018,Estimates,Eritrea,232,Country/Area,910,2020,3524,23
+2019,Estimates,Eritrea,232,Country/Area,910,2021,3588,24
+2080,Estimates,Ethiopia,231,Country/Area,910,2010,87970,803
+2081,Estimates,Ethiopia,231,Country/Area,910,2011,90506,782
+2082,Estimates,Ethiopia,231,Country/Area,910,2012,93130,766
+2083,Estimates,Ethiopia,231,Country/Area,910,2013,95772,751
+2084,Estimates,Ethiopia,231,Country/Area,910,2014,98396,748
+2085,Estimates,Ethiopia,231,Country/Area,910,2015,101097,739
+2086,Estimates,Ethiopia,231,Country/Area,910,2016,103847,729
+2087,Estimates,Ethiopia,231,Country/Area,910,2017,106740,732
+2088,Estimates,Ethiopia,231,Country/Area,910,2018,109656,730
+2089,Estimates,Ethiopia,231,Country/Area,910,2019,112603,735
+2090,Estimates,Ethiopia,231,Country/Area,910,2020,115638,775
+2091,Estimates,Ethiopia,231,Country/Area,910,2021,118743,815
+2152,Estimates,Kenya,404,Country/Area,910,2010,40950,314
+2153,Estimates,Kenya,404,Country/Area,910,2011,42086,317
+2154,Estimates,Kenya,404,Country/Area,910,2012,43185,326
+2155,Estimates,Kenya,404,Country/Area,910,2013,44267,332
+2156,Estimates,Kenya,404,Country/Area,910,2014,45318,335
+2157,Estimates,Kenya,404,Country/Area,910,2015,46346,345
+2158,Estimates,Kenya,404,Country/Area,910,2016,47357,352
+2159,Estimates,Kenya,404,Country/Area,910,2017,48432,357
+2160,Estimates,Kenya,404,Country/Area,910,2018,49464,365
+2161,Estimates,Kenya,404,Country/Area,910,2019,50443,372
+2162,Estimates,Kenya,404,Country/Area,910,2020,51460,388
+2163,Estimates,Kenya,404,Country/Area,910,2021,52511,427
+2224,Estimates,Madagascar,450,Country/Area,910,2010,21423,168
+2225,Estimates,Madagascar,450,Country/Area,910,2011,22039,166
+2226,Estimates,Madagascar,450,Country/Area,910,2012,22657,170
+2227,Estimates,Madagascar,450,Country/Area,910,2013,23275,170
+2228,Estimates,Madagascar,450,Country/Area,910,2014,23901,171
+2229,Estimates,Madagascar,450,Country/Area,910,2015,24531,175
+2230,Estimates,Madagascar,450,Country/Area,910,2016,25171,174
+2231,Estimates,Madagascar,450,Country/Area,910,2017,25833,178
+2232,Estimates,Madagascar,450,Country/Area,910,2018,26506,181
+2233,Estimates,Madagascar,450,Country/Area,910,2019,27187,179
+2234,Estimates,Madagascar,450,Country/Area,910,2020,27879,192
+2235,Estimates,Madagascar,450,Country/Area,910,2021,28571,205
+2296,Estimates,Malawi,454,Country/Area,910,2010,14507,168
+2297,Estimates,Malawi,454,Country/Area,910,2011,14930,161
+2298,Estimates,Malawi,454,Country/Area,910,2012,15362,153
+2299,Estimates,Malawi,454,Country/Area,910,2013,15801,146
+2300,Estimates,Malawi,454,Country/Area,910,2014,16249,138
+2301,Estimates,Malawi,454,Country/Area,910,2015,16707,136
+2302,Estimates,Malawi,454,Country/Area,910,2016,17171,131
+2303,Estimates,Malawi,454,Country/Area,910,2017,17640,128
+2304,Estimates,Malawi,454,Country/Area,910,2018,18122,128
+2305,Estimates,Malawi,454,Country/Area,910,2019,18614,125
+2306,Estimates,Malawi,454,Country/Area,910,2020,19121,130
+2307,Estimates,Malawi,454,Country/Area,910,2021,19633,139
+2368,Estimates,Mauritius,480,Country/Area,910,2010,1282,9
+2369,Estimates,Mauritius,480,Country/Area,910,2011,1285,9
+2370,Estimates,Mauritius,480,Country/Area,910,2012,1288,9
+2371,Estimates,Mauritius,480,Country/Area,910,2013,1290,9
+2372,Estimates,Mauritius,480,Country/Area,910,2014,1291,10
+2373,Estimates,Mauritius,480,Country/Area,910,2015,1293,10
+2374,Estimates,Mauritius,480,Country/Area,910,2016,1294,10
+2375,Estimates,Mauritius,480,Country/Area,910,2017,1294,11
+2376,Estimates,Mauritius,480,Country/Area,910,2018,1295,11
+2377,Estimates,Mauritius,480,Country/Area,910,2019,1296,11
+2378,Estimates,Mauritius,480,Country/Area,910,2020,1297,11
+2379,Estimates,Mauritius,480,Country/Area,910,2021,1299,13
+2440,Estimates,Mayotte,175,Country/Area,910,2010,209,0
+2441,Estimates,Mayotte,175,Country/Area,910,2011,215,0
+2442,Estimates,Mayotte,175,Country/Area,910,2012,220,1
+2443,Estimates,Mayotte,175,Country/Area,910,2013,227,1
+2444,Estimates,Mayotte,175,Country/Area,910,2014,235,1
+2445,Estimates,Mayotte,175,Country/Area,910,2015,244,1
+2446,Estimates,Mayotte,175,Country/Area,910,2016,255,1
+2447,Estimates,Mayotte,175,Country/Area,910,2017,266,1
+2448,Estimates,Mayotte,175,Country/Area,910,2018,277,1
+2449,Estimates,Mayotte,175,Country/Area,910,2019,289,1
+2450,Estimates,Mayotte,175,Country/Area,910,2020,300,1
+2451,Estimates,Mayotte,175,Country/Area,910,2021,311,1
+2512,Estimates,Mozambique,508,Country/Area,910,2010,22741,275
+2513,Estimates,Mozambique,508,Country/Area,910,2011,23407,273
+2514,Estimates,Mozambique,508,Country/Area,910,2012,24114,269
+2515,Estimates,Mozambique,508,Country/Area,910,2013,24861,265
+2516,Estimates,Mozambique,508,Country/Area,910,2014,25642,260
+2517,Estimates,Mozambique,508,Country/Area,910,2015,26435,255
+2518,Estimates,Mozambique,508,Country/Area,910,2016,27251,250
+2519,Estimates,Mozambique,508,Country/Area,910,2017,28142,248
+2520,Estimates,Mozambique,508,Country/Area,910,2018,28997,245
+2521,Estimates,Mozambique,508,Country/Area,910,2019,29850,244
+2522,Estimates,Mozambique,508,Country/Area,910,2020,30721,250
+2523,Estimates,Mozambique,508,Country/Area,910,2021,31636,282
+2584,Estimates,Réunion,638,Country/Area,910,2010,887,4
+2585,Estimates,Réunion,638,Country/Area,910,2011,893,4
+2586,Estimates,Réunion,638,Country/Area,910,2012,900,4
+2587,Estimates,Réunion,638,Country/Area,910,2013,904,4
+2588,Estimates,Réunion,638,Country/Area,910,2014,909,5
+2589,Estimates,Réunion,638,Country/Area,910,2015,920,5
+2590,Estimates,Réunion,638,Country/Area,910,2016,925,5
+2591,Estimates,Réunion,638,Country/Area,910,2017,928,5
+2592,Estimates,Réunion,638,Country/Area,910,2018,937,5
+2593,Estimates,Réunion,638,Country/Area,910,2019,945,5
+2594,Estimates,Réunion,638,Country/Area,910,2020,954,5
+2595,Estimates,Réunion,638,Country/Area,910,2021,962,6
+2656,Estimates,Rwanda,646,Country/Area,910,2010,10175,83
+2657,Estimates,Rwanda,646,Country/Area,910,2011,10443,83
+2658,Estimates,Rwanda,646,Country/Area,910,2012,10711,82
+2659,Estimates,Rwanda,646,Country/Area,910,2013,10970,81
+2660,Estimates,Rwanda,646,Country/Area,910,2014,11233,79
+2661,Estimates,Rwanda,646,Country/Area,910,2015,11504,78
+2662,Estimates,Rwanda,646,Country/Area,910,2016,11782,77
+2663,Estimates,Rwanda,646,Country/Area,910,2017,12080,78
+2664,Estimates,Rwanda,646,Country/Area,910,2018,12381,78
+2665,Estimates,Rwanda,646,Country/Area,910,2019,12683,79
+2666,Estimates,Rwanda,646,Country/Area,910,2020,12987,79
+2667,Estimates,Rwanda,646,Country/Area,910,2021,13305,85
+2728,Estimates,Seychelles,690,Country/Area,910,2010,92,1
+2729,Estimates,Seychelles,690,Country/Area,910,2011,93,1
+2730,Estimates,Seychelles,690,Country/Area,910,2012,95,1
+2731,Estimates,Seychelles,690,Country/Area,910,2013,96,1
+2732,Estimates,Seychelles,690,Country/Area,910,2014,97,1
+2733,Estimates,Seychelles,690,Country/Area,910,2015,99,1
+2734,Estimates,Seychelles,690,Country/Area,910,2016,100,1
+2735,Estimates,Seychelles,690,Country/Area,910,2017,101,1
+2736,Estimates,Seychelles,690,Country/Area,910,2018,102,1
+2737,Estimates,Seychelles,690,Country/Area,910,2019,104,1
+2738,Estimates,Seychelles,690,Country/Area,910,2020,105,1
+2739,Estimates,Seychelles,690,Country/Area,910,2021,106,1
+2800,Estimates,Somalia,706,Country/Area,910,2010,11876,185
+2801,Estimates,Somalia,706,Country/Area,910,2011,12178,184
+2802,Estimates,Somalia,706,Country/Area,910,2012,12256,169
+2803,Estimates,Somalia,706,Country/Area,910,2013,12625,169
+2804,Estimates,Somalia,706,Country/Area,910,2014,13080,170
+2805,Estimates,Somalia,706,Country/Area,910,2015,13538,171
+2806,Estimates,Somalia,706,Country/Area,910,2016,13990,175
+2807,Estimates,Somalia,706,Country/Area,910,2017,14596,177
+2808,Estimates,Somalia,706,Country/Area,910,2018,15132,176
+2809,Estimates,Somalia,706,Country/Area,910,2019,15690,176
+2810,Estimates,Somalia,706,Country/Area,910,2020,16273,188
+2811,Estimates,Somalia,706,Country/Area,910,2021,16801,198
+2872,Estimates,South Sudan,728,Country/Area,910,2010,9428,112
+2873,Estimates,South Sudan,728,Country/Area,910,2011,10000,118
+2874,Estimates,South Sudan,728,Country/Area,910,2012,10486,118
+2875,Estimates,South Sudan,728,Country/Area,910,2013,10918,123
+2876,Estimates,South Sudan,728,Country/Area,910,2014,11294,132
+2877,Estimates,South Sudan,728,Country/Area,910,2015,11132,125
+2878,Estimates,South Sudan,728,Country/Area,910,2016,11257,125
+2879,Estimates,South Sudan,728,Country/Area,910,2017,10876,121
+2880,Estimates,South Sudan,728,Country/Area,910,2018,10441,112
+2881,Estimates,South Sudan,728,Country/Area,910,2019,10350,110
+2882,Estimates,South Sudan,728,Country/Area,910,2020,10545,115
+2883,Estimates,South Sudan,728,Country/Area,910,2021,10667,119
+2944,Estimates,Uganda,800,Country/Area,910,2010,31871,286
+2945,Estimates,Uganda,800,Country/Area,910,2011,32813,278
+2946,Estimates,Uganda,800,Country/Area,910,2012,33779,270
+2947,Estimates,Uganda,800,Country/Area,910,2013,34768,260
+2948,Estimates,Uganda,800,Country/Area,910,2014,35779,254
+2949,Estimates,Uganda,800,Country/Area,910,2015,36894,249
+2950,Estimates,Uganda,800,Country/Area,910,2016,38061,246
+2951,Estimates,Uganda,800,Country/Area,910,2017,39436,247
+2952,Estimates,Uganda,800,Country/Area,910,2018,40818,246
+2953,Estimates,Uganda,800,Country/Area,910,2019,42212,250
+2954,Estimates,Uganda,800,Country/Area,910,2020,43686,260
+2955,Estimates,Uganda,800,Country/Area,910,2021,45123,269
+3016,Estimates,United Republic of Tanzania,834,Country/Area,910,2010,44475,401
+3017,Estimates,United Republic of Tanzania,834,Country/Area,910,2011,45746,392
+3018,Estimates,United Republic of Tanzania,834,Country/Area,910,2012,47086,382
+3019,Estimates,United Republic of Tanzania,834,Country/Area,910,2013,48487,375
+3020,Estimates,United Republic of Tanzania,834,Country/Area,910,2014,50021,369
+3021,Estimates,United Republic of Tanzania,834,Country/Area,910,2015,51608,365
+3022,Estimates,United Republic of Tanzania,834,Country/Area,910,2016,53477,361
+3023,Estimates,United Republic of Tanzania,834,Country/Area,910,2017,55326,360
+3024,Estimates,United Republic of Tanzania,834,Country/Area,910,2018,57208,359
+3025,Estimates,United Republic of Tanzania,834,Country/Area,910,2019,58973,360
+3026,Estimates,United Republic of Tanzania,834,Country/Area,910,2020,60772,381
+3027,Estimates,United Republic of Tanzania,834,Country/Area,910,2021,62637,396
+3088,Estimates,Zambia,894,Country/Area,910,2010,13556,127
+3089,Estimates,Zambia,894,Country/Area,910,2011,14028,125
+3090,Estimates,Zambia,894,Country/Area,910,2012,14504,122
+3091,Estimates,Zambia,894,Country/Area,910,2013,14986,119
+3092,Estimates,Zambia,894,Country/Area,910,2014,15484,117
+3093,Estimates,Zambia,894,Country/Area,910,2015,15991,117
+3094,Estimates,Zambia,894,Country/Area,910,2016,16505,116
+3095,Estimates,Zambia,894,Country/Area,910,2017,17030,118
+3096,Estimates,Zambia,894,Country/Area,910,2018,17566,120
+3097,Estimates,Zambia,894,Country/Area,910,2019,18106,121
+3098,Estimates,Zambia,894,Country/Area,910,2020,18655,125
+3099,Estimates,Zambia,894,Country/Area,910,2021,19201,136
+3160,Estimates,Zimbabwe,716,Country/Area,910,2010,12753,171
+3161,Estimates,Zimbabwe,716,Country/Area,910,2011,12927,155
+3162,Estimates,Zimbabwe,716,Country/Area,910,2012,13125,142
+3163,Estimates,Zimbabwe,716,Country/Area,910,2013,13406,133
+3164,Estimates,Zimbabwe,716,Country/Area,910,2014,13705,127
+3165,Estimates,Zimbabwe,716,Country/Area,910,2015,14006,124
+3166,Estimates,Zimbabwe,716,Country/Area,910,2016,14304,122
+3167,Estimates,Zimbabwe,716,Country/Area,910,2017,14602,122
+3168,Estimates,Zimbabwe,716,Country/Area,910,2018,14900,120
+3169,Estimates,Zimbabwe,716,Country/Area,910,2019,15204,124
+3170,Estimates,Zimbabwe,716,Country/Area,910,2020,15505,128
+3171,Estimates,Zimbabwe,716,Country/Area,910,2021,15834,145
+3232,Estimates,Middle Africa,911,Subregion,903,2010,131414,1568
+3233,Estimates,Middle Africa,911,Subregion,903,2011,135813,1568
+3234,Estimates,Middle Africa,911,Subregion,903,2012,140385,1578
+3235,Estimates,Middle Africa,911,Subregion,903,2013,144976,1581
+3236,Estimates,Middle Africa,911,Subregion,903,2014,149878,1587
+3237,Estimates,Middle Africa,911,Subregion,903,2015,154849,1595
+3238,Estimates,Middle Africa,911,Subregion,903,2016,159947,1597
+3239,Estimates,Middle Africa,911,Subregion,903,2017,165395,1611
+3240,Estimates,Middle Africa,911,Subregion,903,2018,170763,1616
+3241,Estimates,Middle Africa,911,Subregion,903,2019,176203,1635
+3242,Estimates,Middle Africa,911,Subregion,903,2020,181717,1708
+3243,Estimates,Middle Africa,911,Subregion,903,2021,187423,1792
+3304,Estimates,Angola,24,Country/Area,911,2010,22925,261
+3305,Estimates,Angola,24,Country/Area,911,2011,23803,257
+3306,Estimates,Angola,24,Country/Area,911,2012,24715,252
+3307,Estimates,Angola,24,Country/Area,911,2013,25662,251
+3308,Estimates,Angola,24,Country/Area,911,2014,26632,249
+3309,Estimates,Angola,24,Country/Area,911,2015,27624,248
+3310,Estimates,Angola,24,Country/Area,911,2016,28631,249
+3311,Estimates,Angola,24,Country/Area,911,2017,29678,249
+3312,Estimates,Angola,24,Country/Area,911,2018,30739,250
+3313,Estimates,Angola,24,Country/Area,911,2019,31808,253
+3314,Estimates,Angola,24,Country/Area,911,2020,32899,261
+3315,Estimates,Angola,24,Country/Area,911,2021,33958,276
+3376,Estimates,Cameroon,120,Country/Area,911,2010,19595,219
+3377,Estimates,Cameroon,120,Country/Area,911,2011,20161,218
+3378,Estimates,Cameroon,120,Country/Area,911,2012,20736,215
+3379,Estimates,Cameroon,120,Country/Area,911,2013,21329,213
+3380,Estimates,Cameroon,120,Country/Area,911,2014,21937,212
+3381,Estimates,Cameroon,120,Country/Area,911,2015,22662,211
+3382,Estimates,Cameroon,120,Country/Area,911,2016,23363,211
+3383,Estimates,Cameroon,120,Country/Area,911,2017,24060,210
+3384,Estimates,Cameroon,120,Country/Area,911,2018,24726,210
+3385,Estimates,Cameroon,120,Country/Area,911,2019,25428,210
+3386,Estimates,Cameroon,120,Country/Area,911,2020,26137,223
+3387,Estimates,Cameroon,120,Country/Area,911,2021,26845,233
+3448,Estimates,Central African Republic,140,Country/Area,911,2010,4614,68
+3449,Estimates,Central African Republic,140,Country/Area,911,2011,4706,67
+3450,Estimates,Central African Republic,140,Country/Area,911,2012,4758,66
+3451,Estimates,Central African Republic,140,Country/Area,911,2013,4788,65
+3452,Estimates,Central African Republic,140,Country/Area,911,2014,4817,66
+3453,Estimates,Central African Republic,140,Country/Area,911,2015,4781,59
+3454,Estimates,Central African Republic,140,Country/Area,911,2016,4858,58
+3455,Estimates,Central African Republic,140,Country/Area,911,2017,4951,58
+3456,Estimates,Central African Republic,140,Country/Area,911,2018,5043,58
+3457,Estimates,Central African Republic,140,Country/Area,911,2019,5147,57
+3458,Estimates,Central African Republic,140,Country/Area,911,2020,5272,59
+3459,Estimates,Central African Republic,140,Country/Area,911,2021,5414,63
+3520,Estimates,Chad,148,Country/Area,911,2010,11691,183
+3521,Estimates,Chad,148,Country/Area,911,2011,12098,185
+3522,Estimates,Chad,148,Country/Area,911,2012,12537,187
+3523,Estimates,Chad,148,Country/Area,911,2013,12973,190
+3524,Estimates,Chad,148,Country/Area,911,2014,13461,192
+3525,Estimates,Chad,148,Country/Area,911,2015,13933,194
+3526,Estimates,Chad,148,Country/Area,911,2016,14347,194
+3527,Estimates,Chad,148,Country/Area,911,2017,14838,197
+3528,Estimates,Chad,148,Country/Area,911,2018,15334,197
+3529,Estimates,Chad,148,Country/Area,911,2019,15875,200
+3530,Estimates,Chad,148,Country/Area,911,2020,16379,208
+3531,Estimates,Chad,148,Country/Area,911,2021,16910,215
+3592,Estimates,Congo,178,Country/Area,911,2010,4364,36
+3593,Estimates,Congo,178,Country/Area,911,2011,4512,36
+3594,Estimates,Congo,178,Country/Area,911,2012,4656,37
+3595,Estimates,Congo,178,Country/Area,911,2013,4770,36
+3596,Estimates,Congo,178,Country/Area,911,2014,4886,36
+3597,Estimates,Congo,178,Country/Area,911,2015,5004,37
+3598,Estimates,Congo,178,Country/Area,911,2016,5125,36
+3599,Estimates,Congo,178,Country/Area,911,2017,5249,37
+3600,Estimates,Congo,178,Country/Area,911,2018,5376,37
+3601,Estimates,Congo,178,Country/Area,911,2019,5506,41
+3602,Estimates,Congo,178,Country/Area,911,2020,5635,39
+3603,Estimates,Congo,178,Country/Area,911,2021,5769,41
+3664,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2010,65295,774
+3665,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2011,67487,776
+3666,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2012,69821,793
+3667,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2013,72174,797
+3668,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2014,74746,802
+3669,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2015,77326,818
+3670,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2016,79988,820
+3671,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2017,82874,832
+3672,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2018,85693,835
+3673,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2019,88482,844
+3674,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2020,91332,886
+3675,Estimates,Democratic Republic of the Congo,180,Country/Area,911,2021,94374,931
+3736,Estimates,Equatorial Guinea,226,Country/Area,911,2010,1069,12
+3737,Estimates,Equatorial Guinea,226,Country/Area,911,2011,1120,12
+3738,Estimates,Equatorial Guinea,226,Country/Area,911,2012,1169,13
+3739,Estimates,Equatorial Guinea,226,Country/Area,911,2013,1219,13
+3740,Estimates,Equatorial Guinea,226,Country/Area,911,2014,1269,13
+3741,Estimates,Equatorial Guinea,226,Country/Area,911,2015,1321,13
+3742,Estimates,Equatorial Guinea,226,Country/Area,911,2016,1373,13
+3743,Estimates,Equatorial Guinea,226,Country/Area,911,2017,1425,13
+3744,Estimates,Equatorial Guinea,226,Country/Area,911,2018,1476,13
+3745,Estimates,Equatorial Guinea,226,Country/Area,911,2019,1528,13
+3746,Estimates,Equatorial Guinea,226,Country/Area,911,2020,1578,14
+3747,Estimates,Equatorial Guinea,226,Country/Area,911,2021,1614,15
+3808,Estimates,Gabon,266,Country/Area,911,2010,1681,14
+3809,Estimates,Gabon,266,Country/Area,911,2011,1741,14
+3810,Estimates,Gabon,266,Country/Area,911,2012,1804,14
+3811,Estimates,Gabon,266,Country/Area,911,2013,1869,15
+3812,Estimates,Gabon,266,Country/Area,911,2014,1935,15
+3813,Estimates,Gabon,266,Country/Area,911,2015,1999,15
+3814,Estimates,Gabon,266,Country/Area,911,2016,2058,15
+3815,Estimates,Gabon,266,Country/Area,911,2017,2114,15
+3816,Estimates,Gabon,266,Country/Area,911,2018,2166,15
+3817,Estimates,Gabon,266,Country/Area,911,2019,2218,15
+3818,Estimates,Gabon,266,Country/Area,911,2020,2268,16
+3819,Estimates,Gabon,266,Country/Area,911,2021,2317,17
+3880,Estimates,Sao Tome and Principe,678,Country/Area,911,2010,180,1
+3881,Estimates,Sao Tome and Principe,678,Country/Area,911,2011,184,1
+3882,Estimates,Sao Tome and Principe,678,Country/Area,911,2012,188,1
+3883,Estimates,Sao Tome and Principe,678,Country/Area,911,2013,192,1
+3884,Estimates,Sao Tome and Principe,678,Country/Area,911,2014,196,1
+3885,Estimates,Sao Tome and Principe,678,Country/Area,911,2015,199,1
+3886,Estimates,Sao Tome and Principe,678,Country/Area,911,2016,203,1
+3887,Estimates,Sao Tome and Principe,678,Country/Area,911,2017,206,1
+3888,Estimates,Sao Tome and Principe,678,Country/Area,911,2018,210,1
+3889,Estimates,Sao Tome and Principe,678,Country/Area,911,2019,213,1
+3890,Estimates,Sao Tome and Principe,678,Country/Area,911,2020,216,1
+3891,Estimates,Sao Tome and Principe,678,Country/Area,911,2021,221,1
+3952,Estimates,Northern Africa,912,Subregion,903,2010,205176,1239
+3953,Estimates,Northern Africa,912,Subregion,903,2011,209052,1258
+3954,Estimates,Northern Africa,912,Subregion,903,2012,212382,1265
+3955,Estimates,Northern Africa,912,Subregion,903,2013,216625,1292
+3956,Estimates,Northern Africa,912,Subregion,903,2014,221217,1296
+3957,Estimates,Northern Africa,912,Subregion,903,2015,226001,1314
+3958,Estimates,Northern Africa,912,Subregion,903,2016,230720,1325
+3959,Estimates,Northern Africa,912,Subregion,903,2017,235442,1326
+3960,Estimates,Northern Africa,912,Subregion,903,2018,240243,1351
+3961,Estimates,Northern Africa,912,Subregion,903,2019,244831,1381
+3962,Estimates,Northern Africa,912,Subregion,903,2020,249216,1505
+3963,Estimates,Northern Africa,912,Subregion,903,2021,253619,1572
+4024,Estimates,Algeria,12,Country/Area,912,2010,35519,171
+4025,Estimates,Algeria,12,Country/Area,912,2011,36193,172
+4026,Estimates,Algeria,12,Country/Area,912,2012,36894,178
+4027,Estimates,Algeria,12,Country/Area,912,2013,37627,178
+4028,Estimates,Algeria,12,Country/Area,912,2014,38374,177
+4029,Estimates,Algeria,12,Country/Area,912,2015,39146,176
+4030,Estimates,Algeria,12,Country/Area,912,2016,39940,181
+4031,Estimates,Algeria,12,Country/Area,912,2017,40739,187
+4032,Estimates,Algeria,12,Country/Area,912,2018,41534,188
+4033,Estimates,Algeria,12,Country/Area,912,2019,42320,188
+4034,Estimates,Algeria,12,Country/Area,912,2020,43091,235
+4035,Estimates,Algeria,12,Country/Area,912,2021,43812,201
+4096,Estimates,Egypt,818,Country/Area,912,2010,86339,525
+4097,Estimates,Egypt,818,Country/Area,912,2011,88166,531
+4098,Estimates,Egypt,818,Country/Area,912,2012,90234,539
+4099,Estimates,Egypt,818,Country/Area,912,2013,92247,557
+4100,Estimates,Egypt,818,Country/Area,912,2014,94509,557
+4101,Estimates,Egypt,818,Country/Area,912,2015,96675,569
+4102,Estimates,Egypt,818,Country/Area,912,2016,98772,565
+4103,Estimates,Egypt,818,Country/Area,912,2017,100796,558
+4104,Estimates,Egypt,818,Country/Area,912,2018,102783,572
+4105,Estimates,Egypt,818,Country/Area,912,2019,104699,590
+4106,Estimates,Egypt,818,Country/Area,912,2020,106539,629
+4107,Estimates,Egypt,818,Country/Area,912,2021,108392,691
+4168,Estimates,Libya,434,Country/Area,912,2010,6425,29
+4169,Estimates,Libya,434,Country/Area,912,2011,6559,36
+4170,Estimates,Libya,434,Country/Area,912,2012,5818,29
+4171,Estimates,Libya,434,Country/Area,912,2013,5922,30
+4172,Estimates,Libya,434,Country/Area,912,2014,6048,33
+4173,Estimates,Libya,434,Country/Area,912,2015,6147,34
+4174,Estimates,Libya,434,Country/Area,912,2016,6237,34
+4175,Estimates,Libya,434,Country/Area,912,2017,6327,34
+4176,Estimates,Libya,434,Country/Area,912,2018,6429,34
+4177,Estimates,Libya,434,Country/Area,912,2019,6526,36
+4178,Estimates,Libya,434,Country/Area,912,2020,6612,37
+4179,Estimates,Libya,434,Country/Area,912,2021,6696,41
+4240,Estimates,Morocco,504,Country/Area,912,2010,32249,194
+4241,Estimates,Morocco,504,Country/Area,912,2011,32680,195
+4242,Estimates,Morocco,504,Country/Area,912,2012,33127,196
+4243,Estimates,Morocco,504,Country/Area,912,2013,33577,196
+4244,Estimates,Morocco,504,Country/Area,912,2014,34030,197
+4245,Estimates,Morocco,504,Country/Area,912,2015,34468,198
+4246,Estimates,Morocco,504,Country/Area,912,2016,34893,199
+4247,Estimates,Morocco,504,Country/Area,912,2017,35321,201
+4248,Estimates,Morocco,504,Country/Area,912,2018,35735,203
+4249,Estimates,Morocco,504,Country/Area,912,2019,36120,206
+4250,Estimates,Morocco,504,Country/Area,912,2020,36489,223
+4251,Estimates,Morocco,504,Country/Area,912,2021,36889,229
+4312,Estimates,Sudan,729,Country/Area,912,2010,33400,259
+4313,Estimates,Sudan,729,Country/Area,912,2011,34080,261
+4314,Estimates,Sudan,729,Country/Area,912,2012,34759,258
+4315,Estimates,Sudan,729,Country/Area,912,2013,35561,266
+4316,Estimates,Sudan,729,Country/Area,912,2014,36421,264
+4317,Estimates,Sudan,729,Country/Area,912,2015,37586,268
+4318,Estimates,Sudan,729,Country/Area,912,2016,38757,274
+4319,Estimates,Sudan,729,Country/Area,912,2017,39998,273
+4320,Estimates,Sudan,729,Country/Area,912,2018,41362,279
+4321,Estimates,Sudan,729,Country/Area,912,2019,42636,285
+4322,Estimates,Sudan,729,Country/Area,912,2020,43828,296
+4323,Estimates,Sudan,729,Country/Area,912,2021,45053,311
+4384,Estimates,Tunisia,788,Country/Area,912,2010,10838,58
+4385,Estimates,Tunisia,788,Country/Area,912,2011,10952,60
+4386,Estimates,Tunisia,788,Country/Area,912,2012,11113,62
+4387,Estimates,Tunisia,788,Country/Area,912,2013,11236,63
+4388,Estimates,Tunisia,788,Country/Area,912,2014,11364,65
+4389,Estimates,Tunisia,788,Country/Area,912,2015,11493,67
+4390,Estimates,Tunisia,788,Country/Area,912,2016,11622,69
+4391,Estimates,Tunisia,788,Country/Area,912,2017,11749,71
+4392,Estimates,Tunisia,788,Country/Area,912,2018,11874,72
+4393,Estimates,Tunisia,788,Country/Area,912,2019,11992,74
+4394,Estimates,Tunisia,788,Country/Area,912,2020,12106,82
+4395,Estimates,Tunisia,788,Country/Area,912,2021,12217,97
+4456,Estimates,Western Sahara,732,Country/Area,912,2010,405,3
+4457,Estimates,Western Sahara,732,Country/Area,912,2011,421,3
+4458,Estimates,Western Sahara,732,Country/Area,912,2012,437,3
+4459,Estimates,Western Sahara,732,Country/Area,912,2013,454,3
+4460,Estimates,Western Sahara,732,Country/Area,912,2014,471,3
+4461,Estimates,Western Sahara,732,Country/Area,912,2015,485,3
+4462,Estimates,Western Sahara,732,Country/Area,912,2016,499,3
+4463,Estimates,Western Sahara,732,Country/Area,912,2017,512,3
+4464,Estimates,Western Sahara,732,Country/Area,912,2018,526,3
+4465,Estimates,Western Sahara,732,Country/Area,912,2019,539,3
+4466,Estimates,Western Sahara,732,Country/Area,912,2020,551,3
+4467,Estimates,Western Sahara,732,Country/Area,912,2021,561,3
+4528,Estimates,Southern Africa,913,Subregion,903,2010,58732,680
+4529,Estimates,Southern Africa,913,Subregion,903,2011,59465,650
+4530,Estimates,Southern Africa,913,Subregion,903,2012,60240,623
+4531,Estimates,Southern Africa,913,Subregion,903,2013,61068,614
+4532,Estimates,Southern Africa,913,Subregion,903,2014,61908,600
+4533,Estimates,Southern Africa,913,Subregion,903,2015,63000,596
+4534,Estimates,Southern Africa,913,Subregion,903,2016,64433,586
+4535,Estimates,Southern Africa,913,Subregion,903,2017,64336,575
+4536,Estimates,Southern Africa,913,Subregion,903,2018,65123,580
+4537,Estimates,Southern Africa,913,Subregion,903,2019,65987,577
+4538,Estimates,Southern Africa,913,Subregion,903,2020,66871,633
+4539,Estimates,Southern Africa,913,Subregion,903,2021,67674,776
+4600,Estimates,Botswana,72,Country/Area,913,2010,2070,19
+4601,Estimates,Botswana,72,Country/Area,913,2011,2113,19
+4602,Estimates,Botswana,72,Country/Area,913,2012,2155,19
+4603,Estimates,Botswana,72,Country/Area,913,2013,2196,18
+4604,Estimates,Botswana,72,Country/Area,913,2014,2239,18
+4605,Estimates,Botswana,72,Country/Area,913,2015,2282,17
+4606,Estimates,Botswana,72,Country/Area,913,2016,2328,16
+4607,Estimates,Botswana,72,Country/Area,913,2017,2377,15
+4608,Estimates,Botswana,72,Country/Area,913,2018,2427,17
+4609,Estimates,Botswana,72,Country/Area,913,2019,2476,17
+4610,Estimates,Botswana,72,Country/Area,913,2020,2524,18
+4611,Estimates,Botswana,72,Country/Area,913,2021,2569,24
+4672,Estimates,Eswatini,748,Country/Area,913,2010,1097,18
+4673,Estimates,Eswatini,748,Country/Area,913,2011,1103,17
+4674,Estimates,Eswatini,748,Country/Area,913,2012,1108,16
+4675,Estimates,Eswatini,748,Country/Area,913,2013,1115,15
+4676,Estimates,Eswatini,748,Country/Area,913,2014,1122,14
+4677,Estimates,Eswatini,748,Country/Area,913,2015,1130,13
+4678,Estimates,Eswatini,748,Country/Area,913,2016,1138,12
+4679,Estimates,Eswatini,748,Country/Area,913,2017,1147,11
+4680,Estimates,Eswatini,748,Country/Area,913,2018,1156,11
+4681,Estimates,Eswatini,748,Country/Area,913,2019,1165,10
+4682,Estimates,Eswatini,748,Country/Area,913,2020,1174,11
+4683,Estimates,Eswatini,748,Country/Area,913,2021,1187,14
+4744,Estimates,Lesotho,426,Country/Area,913,2010,2016,38
+4745,Estimates,Lesotho,426,Country/Area,913,2011,2030,36
+4746,Estimates,Lesotho,426,Country/Area,913,2012,2046,35
+4747,Estimates,Lesotho,426,Country/Area,913,2013,2064,34
+4748,Estimates,Lesotho,426,Country/Area,913,2014,2084,33
+4749,Estimates,Lesotho,426,Country/Area,913,2015,2106,31
+4750,Estimates,Lesotho,426,Country/Area,913,2016,2131,30
+4751,Estimates,Lesotho,426,Country/Area,913,2017,2157,30
+4752,Estimates,Lesotho,426,Country/Area,913,2018,2184,29
+4753,Estimates,Lesotho,426,Country/Area,913,2019,2212,29
+4754,Estimates,Lesotho,426,Country/Area,913,2020,2240,29
+4755,Estimates,Lesotho,426,Country/Area,913,2021,2269,32
+4816,Estimates,Namibia,516,Country/Area,913,2010,2083,23
+4817,Estimates,Namibia,516,Country/Area,913,2011,2115,23
+4818,Estimates,Namibia,516,Country/Area,913,2012,2149,23
+4819,Estimates,Namibia,516,Country/Area,913,2013,2186,22
+4820,Estimates,Namibia,516,Country/Area,913,2014,2223,21
+4821,Estimates,Namibia,516,Country/Area,913,2015,2263,21
+4822,Estimates,Namibia,516,Country/Area,913,2016,2303,20
+4823,Estimates,Namibia,516,Country/Area,913,2017,2344,20
+4824,Estimates,Namibia,516,Country/Area,913,2018,2385,20
+4825,Estimates,Namibia,516,Country/Area,913,2019,2426,20
+4826,Estimates,Namibia,516,Country/Area,913,2020,2467,21
+4827,Estimates,Namibia,516,Country/Area,913,2021,2511,27
+4888,Estimates,South Africa,710,Country/Area,913,2010,51466,583
+4889,Estimates,South Africa,710,Country/Area,913,2011,52104,555
+4890,Estimates,South Africa,710,Country/Area,913,2012,52782,531
+4891,Estimates,South Africa,710,Country/Area,913,2013,53508,526
+4892,Estimates,South Africa,710,Country/Area,913,2014,54240,515
+4893,Estimates,South Africa,710,Country/Area,913,2015,55220,514
+4894,Estimates,South Africa,710,Country/Area,913,2016,56533,507
+4895,Estimates,South Africa,710,Country/Area,913,2017,56311,499
+4896,Estimates,South Africa,710,Country/Area,913,2018,56971,503
+4897,Estimates,South Africa,710,Country/Area,913,2019,57708,500
+4898,Estimates,South Africa,710,Country/Area,913,2020,58466,554
+4899,Estimates,South Africa,710,Country/Area,913,2021,59138,679
+4960,Estimates,Western Africa,914,Subregion,903,2010,308340,3922
+4961,Estimates,Western Africa,914,Subregion,903,2011,316993,3937
+4962,Estimates,Western Africa,914,Subregion,903,2012,325996,3980
+4963,Estimates,Western Africa,914,Subregion,903,2013,335002,4013
+4964,Estimates,Western Africa,914,Subregion,903,2014,344165,4061
+4965,Estimates,Western Africa,914,Subregion,903,2015,353552,4114
+4966,Estimates,Western Africa,914,Subregion,903,2016,363016,4140
+4967,Estimates,Western Africa,914,Subregion,903,2017,372791,4175
+4968,Estimates,Western Africa,914,Subregion,903,2018,382739,4213
+4969,Estimates,Western Africa,914,Subregion,903,2019,392744,4231
+4970,Estimates,Western Africa,914,Subregion,903,2020,402909,4384
+4971,Estimates,Western Africa,914,Subregion,903,2021,413341,4525
+5032,Estimates,Benin,204,Country/Area,914,2010,9307,99
+5033,Estimates,Benin,204,Country/Area,914,2011,9584,101
+5034,Estimates,Benin,204,Country/Area,914,2012,9869,102
+5035,Estimates,Benin,204,Country/Area,914,2013,10159,104
+5036,Estimates,Benin,204,Country/Area,914,2014,10458,106
+5037,Estimates,Benin,204,Country/Area,914,2015,10772,108
+5038,Estimates,Benin,204,Country/Area,914,2016,11094,110
+5039,Estimates,Benin,204,Country/Area,914,2017,11426,111
+5040,Estimates,Benin,204,Country/Area,914,2018,11767,113
+5041,Estimates,Benin,204,Country/Area,914,2019,12114,114
+5042,Estimates,Benin,204,Country/Area,914,2020,12467,118
+5043,Estimates,Benin,204,Country/Area,914,2021,12819,123
+5104,Estimates,Burkina Faso,854,Country/Area,914,2010,15880,182
+5105,Estimates,Burkina Faso,854,Country/Area,914,2011,16354,180
+5106,Estimates,Burkina Faso,854,Country/Area,914,2012,16852,180
+5107,Estimates,Burkina Faso,854,Country/Area,914,2013,17376,182
+5108,Estimates,Burkina Faso,854,Country/Area,914,2014,17897,181
+5109,Estimates,Burkina Faso,854,Country/Area,914,2015,18443,180
+5110,Estimates,Burkina Faso,854,Country/Area,914,2016,18993,180
+5111,Estimates,Burkina Faso,854,Country/Area,914,2017,19558,181
+5112,Estimates,Burkina Faso,854,Country/Area,914,2018,20114,180
+5113,Estimates,Burkina Faso,854,Country/Area,914,2019,20671,183
+5114,Estimates,Burkina Faso,854,Country/Area,914,2020,21232,190
+5115,Estimates,Burkina Faso,854,Country/Area,914,2021,21813,198
+5176,Estimates,Cabo Verde,132,Country/Area,914,2010,518,3
+5177,Estimates,Cabo Verde,132,Country/Area,914,2011,524,3
+5178,Estimates,Cabo Verde,132,Country/Area,914,2012,531,3
+5179,Estimates,Cabo Verde,132,Country/Area,914,2013,537,3
+5180,Estimates,Cabo Verde,132,Country/Area,914,2014,543,3
+5181,Estimates,Cabo Verde,132,Country/Area,914,2015,549,3
+5182,Estimates,Cabo Verde,132,Country/Area,914,2016,555,3
+5183,Estimates,Cabo Verde,132,Country/Area,914,2017,562,3
+5184,Estimates,Cabo Verde,132,Country/Area,914,2018,568,3
+5185,Estimates,Cabo Verde,132,Country/Area,914,2019,574,3
+5186,Estimates,Cabo Verde,132,Country/Area,914,2020,580,3
+5187,Estimates,Cabo Verde,132,Country/Area,914,2021,585,4
+5248,Estimates,Côte d'Ivoire,384,Country/Area,914,2010,20896,237
+5249,Estimates,Côte d'Ivoire,384,Country/Area,914,2011,21344,236
+5250,Estimates,Côte d'Ivoire,384,Country/Area,914,2012,21782,232
+5251,Estimates,Côte d'Ivoire,384,Country/Area,914,2013,22239,229
+5252,Estimates,Côte d'Ivoire,384,Country/Area,914,2014,22699,227
+5253,Estimates,Côte d'Ivoire,384,Country/Area,914,2015,23292,225
+5254,Estimates,Côte d'Ivoire,384,Country/Area,914,2016,23902,227
+5255,Estimates,Côte d'Ivoire,384,Country/Area,914,2017,24526,228
+5256,Estimates,Côte d'Ivoire,384,Country/Area,914,2018,25170,229
+5257,Estimates,Côte d'Ivoire,384,Country/Area,914,2019,25818,228
+5258,Estimates,Côte d'Ivoire,384,Country/Area,914,2020,26478,236
+5259,Estimates,Côte d'Ivoire,384,Country/Area,914,2021,27146,247
+5320,Estimates,Gambia,270,Country/Area,914,2010,1907,17
+5321,Estimates,Gambia,270,Country/Area,914,2011,1967,17
+5322,Estimates,Gambia,270,Country/Area,914,2012,2029,17
+5323,Estimates,Gambia,270,Country/Area,914,2013,2093,17
+5324,Estimates,Gambia,270,Country/Area,914,2014,2157,17
+5325,Estimates,Gambia,270,Country/Area,914,2015,2221,17
+5326,Estimates,Gambia,270,Country/Area,914,2016,2285,17
+5327,Estimates,Gambia,270,Country/Area,914,2017,2349,18
+5328,Estimates,Gambia,270,Country/Area,914,2018,2413,18
+5329,Estimates,Gambia,270,Country/Area,914,2019,2477,18
+5330,Estimates,Gambia,270,Country/Area,914,2020,2541,19
+5331,Estimates,Gambia,270,Country/Area,914,2021,2607,20
+5392,Estimates,Ghana,288,Country/Area,914,2010,25265,221
+5393,Estimates,Ghana,288,Country/Area,914,2011,25885,221
+5394,Estimates,Ghana,288,Country/Area,914,2012,26527,221
+5395,Estimates,Ghana,288,Country/Area,914,2013,27190,223
+5396,Estimates,Ghana,288,Country/Area,914,2014,27861,220
+5397,Estimates,Ghana,288,Country/Area,914,2015,28532,225
+5398,Estimates,Ghana,288,Country/Area,914,2016,29210,220
+5399,Estimates,Ghana,288,Country/Area,914,2017,29899,223
+5400,Estimates,Ghana,288,Country/Area,914,2018,30546,228
+5401,Estimates,Ghana,288,Country/Area,914,2019,31195,225
+5402,Estimates,Ghana,288,Country/Area,914,2020,31849,240
+5403,Estimates,Ghana,288,Country/Area,914,2021,32512,250
+5464,Estimates,Guinea,324,Country/Area,914,2010,10144,120
+5465,Estimates,Guinea,324,Country/Area,914,2011,10398,121
+5466,Estimates,Guinea,324,Country/Area,914,2012,10658,121
+5467,Estimates,Guinea,324,Country/Area,914,2013,10919,121
+5468,Estimates,Guinea,324,Country/Area,914,2014,11191,123
+5469,Estimates,Guinea,324,Country/Area,914,2015,11475,125
+5470,Estimates,Guinea,324,Country/Area,914,2016,11777,124
+5471,Estimates,Guinea,324,Country/Area,914,2017,12085,124
+5472,Estimates,Guinea,324,Country/Area,914,2018,12396,125
+5473,Estimates,Guinea,324,Country/Area,914,2019,12713,125
+5474,Estimates,Guinea,324,Country/Area,914,2020,13042,130
+5475,Estimates,Guinea,324,Country/Area,914,2021,13369,135
+5536,Estimates,Guinea-Bissau,624,Country/Area,914,2010,1547,17
+5537,Estimates,Guinea-Bissau,624,Country/Area,914,2011,1588,17
+5538,Estimates,Guinea-Bissau,624,Country/Area,914,2012,1630,17
+5539,Estimates,Guinea-Bissau,624,Country/Area,914,2013,1675,17
+5540,Estimates,Guinea-Bissau,624,Country/Area,914,2014,1721,17
+5541,Estimates,Guinea-Bissau,624,Country/Area,914,2015,1766,17
+5542,Estimates,Guinea-Bissau,624,Country/Area,914,2016,1812,16
+5543,Estimates,Guinea-Bissau,624,Country/Area,914,2017,1857,16
+5544,Estimates,Guinea-Bissau,624,Country/Area,914,2018,1902,16
+5545,Estimates,Guinea-Bissau,624,Country/Area,914,2019,1948,16
+5546,Estimates,Guinea-Bissau,624,Country/Area,914,2020,1993,17
+5547,Estimates,Guinea-Bissau,624,Country/Area,914,2021,2038,18
+5608,Estimates,Liberia,430,Country/Area,914,2010,3962,40
+5609,Estimates,Liberia,430,Country/Area,914,2011,4078,40
+5610,Estimates,Liberia,430,Country/Area,914,2012,4284,42
+5611,Estimates,Liberia,430,Country/Area,914,2013,4379,42
+5612,Estimates,Liberia,430,Country/Area,914,2014,4475,44
+5613,Estimates,Liberia,430,Country/Area,914,2015,4563,45
+5614,Estimates,Liberia,430,Country/Area,914,2016,4661,43
+5615,Estimates,Liberia,430,Country/Area,914,2017,4751,43
+5616,Estimates,Liberia,430,Country/Area,914,2018,4842,43
+5617,Estimates,Liberia,430,Country/Area,914,2019,4936,43
+5618,Estimates,Liberia,430,Country/Area,914,2020,5034,45
+5619,Estimates,Liberia,430,Country/Area,914,2021,5141,46
+5680,Estimates,Mali,466,Country/Area,914,2010,15276,184
+5681,Estimates,Mali,466,Country/Area,914,2011,15782,185
+5682,Estimates,Mali,466,Country/Area,914,2012,16297,186
+5683,Estimates,Mali,466,Country/Area,914,2013,16732,186
+5684,Estimates,Mali,466,Country/Area,914,2014,17276,185
+5685,Estimates,Mali,466,Country/Area,914,2015,17828,185
+5686,Estimates,Mali,466,Country/Area,914,2016,18398,186
+5687,Estimates,Mali,466,Country/Area,914,2017,19002,186
+5688,Estimates,Mali,466,Country/Area,914,2018,19621,188
+5689,Estimates,Mali,466,Country/Area,914,2019,20248,190
+5690,Estimates,Mali,466,Country/Area,914,2020,20887,202
+5691,Estimates,Mali,466,Country/Area,914,2021,21561,203
+5752,Estimates,Mauritania,478,Country/Area,914,2010,3369,28
+5753,Estimates,Mauritania,478,Country/Area,914,2011,3470,30
+5754,Estimates,Mauritania,478,Country/Area,914,2012,3579,31
+5755,Estimates,Mauritania,478,Country/Area,914,2013,3694,32
+5756,Estimates,Mauritania,478,Country/Area,914,2014,3792,32
+5757,Estimates,Mauritania,478,Country/Area,914,2015,3894,32
+5758,Estimates,Mauritania,478,Country/Area,914,2016,3998,31
+5759,Estimates,Mauritania,478,Country/Area,914,2017,4105,31
+5760,Estimates,Mauritania,478,Country/Area,914,2018,4215,31
+5761,Estimates,Mauritania,478,Country/Area,914,2019,4327,31
+5762,Estimates,Mauritania,478,Country/Area,914,2020,4441,34
+5763,Estimates,Mauritania,478,Country/Area,914,2021,4556,34
+5824,Estimates,Niger,562,Country/Area,914,2010,16336,176
+5825,Estimates,Niger,562,Country/Area,914,2011,16959,175
+5826,Estimates,Niger,562,Country/Area,914,2012,17607,174
+5827,Estimates,Niger,562,Country/Area,914,2013,18302,174
+5828,Estimates,Niger,562,Country/Area,914,2014,19004,175
+5829,Estimates,Niger,562,Country/Area,914,2015,19740,177
+5830,Estimates,Niger,562,Country/Area,914,2016,20517,178
+5831,Estimates,Niger,562,Country/Area,914,2017,21327,179
+5832,Estimates,Niger,562,Country/Area,914,2018,22149,182
+5833,Estimates,Niger,562,Country/Area,914,2019,23005,184
+5834,Estimates,Niger,562,Country/Area,914,2020,23882,202
+5835,Estimates,Niger,562,Country/Area,914,2021,24786,206
+5896,Estimates,Nigeria,566,Country/Area,914,2010,158733,2355
+5897,Estimates,Nigeria,566,Country/Area,914,2011,163173,2372
+5898,Estimates,Nigeria,566,Country/Area,914,2012,167755,2414
+5899,Estimates,Nigeria,566,Country/Area,914,2013,172397,2447
+5900,Estimates,Nigeria,566,Country/Area,914,2014,177055,2493
+5901,Estimates,Nigeria,566,Country/Area,914,2015,181703,2541
+5902,Estimates,Nigeria,566,Country/Area,914,2016,186289,2574
+5903,Estimates,Nigeria,566,Country/Area,914,2017,191045,2600
+5904,Estimates,Nigeria,566,Country/Area,914,2018,195947,2627
+5905,Estimates,Nigeria,566,Country/Area,914,2019,200828,2642
+5906,Estimates,Nigeria,566,Country/Area,914,2020,205781,2708
+5907,Estimates,Nigeria,566,Country/Area,914,2021,210874,2793
+5968,Estimates,Saint Helena,654,Country/Area,914,2010,5,0
+5969,Estimates,Saint Helena,654,Country/Area,914,2011,5,0
+5970,Estimates,Saint Helena,654,Country/Area,914,2012,5,0
+5971,Estimates,Saint Helena,654,Country/Area,914,2013,5,0
+5972,Estimates,Saint Helena,654,Country/Area,914,2014,5,0
+5973,Estimates,Saint Helena,654,Country/Area,914,2015,5,0
+5974,Estimates,Saint Helena,654,Country/Area,914,2016,6,0
+5975,Estimates,Saint Helena,654,Country/Area,914,2017,6,0
+5976,Estimates,Saint Helena,654,Country/Area,914,2018,5,0
+5977,Estimates,Saint Helena,654,Country/Area,914,2019,5,0
+5978,Estimates,Saint Helena,654,Country/Area,914,2020,5,0
+5979,Estimates,Saint Helena,654,Country/Area,914,2021,5,0
+6040,Estimates,Senegal,686,Country/Area,914,2010,12360,90
+6041,Estimates,Senegal,686,Country/Area,914,2011,12700,89
+6042,Estimates,Senegal,686,Country/Area,914,2012,13052,90
+6043,Estimates,Senegal,686,Country/Area,914,2013,13412,89
+6044,Estimates,Senegal,686,Country/Area,914,2014,13779,88
+6045,Estimates,Senegal,686,Country/Area,914,2015,14162,88
+6046,Estimates,Senegal,686,Country/Area,914,2016,14551,86
+6047,Estimates,Senegal,686,Country/Area,914,2017,14952,87
+6048,Estimates,Senegal,686,Country/Area,914,2018,15364,87
+6049,Estimates,Senegal,686,Country/Area,914,2019,15786,87
+6050,Estimates,Senegal,686,Country/Area,914,2020,16215,92
+6051,Estimates,Senegal,686,Country/Area,914,2021,16657,100
+6112,Estimates,Sierra Leone,694,Country/Area,914,2010,6350,84
+6113,Estimates,Sierra Leone,694,Country/Area,914,2011,6524,82
+6114,Estimates,Sierra Leone,694,Country/Area,914,2012,6701,81
+6115,Estimates,Sierra Leone,694,Country/Area,914,2013,6876,79
+6116,Estimates,Sierra Leone,694,Country/Area,914,2014,7054,80
+6117,Estimates,Sierra Leone,694,Country/Area,914,2015,7228,78
+6118,Estimates,Sierra Leone,694,Country/Area,914,2016,7402,75
+6119,Estimates,Sierra Leone,694,Country/Area,914,2017,7586,76
+6120,Estimates,Sierra Leone,694,Country/Area,914,2018,7769,73
+6121,Estimates,Sierra Leone,694,Country/Area,914,2019,7953,73
+6122,Estimates,Sierra Leone,694,Country/Area,914,2020,8140,77
+6123,Estimates,Sierra Leone,694,Country/Area,914,2021,8328,77
+6184,Estimates,Togo,768,Country/Area,914,2010,6484,68
+6185,Estimates,Togo,768,Country/Area,914,2011,6660,67
+6186,Estimates,Togo,768,Country/Area,914,2012,6838,68
+6187,Estimates,Togo,768,Country/Area,914,2013,7016,68
+6188,Estimates,Togo,768,Country/Area,914,2014,7197,69
+6189,Estimates,Togo,768,Country/Area,914,2015,7380,69
+6190,Estimates,Togo,768,Country/Area,914,2016,7567,70
+6191,Estimates,Togo,768,Country/Area,914,2017,7756,69
+6192,Estimates,Togo,768,Country/Area,914,2018,7949,71
+6193,Estimates,Togo,768,Country/Area,914,2019,8144,70
+6194,Estimates,Togo,768,Country/Area,914,2020,8342,71
+6195,Estimates,Togo,768,Country/Area,914,2021,8543,71
+6256,Estimates,ASIA,935,Region,1840,2010,4196969,28900
+6257,Estimates,ASIA,935,Region,1840,2011,4245374,29176
+6258,Estimates,ASIA,935,Region,1840,2012,4293874,29395
+6259,Estimates,ASIA,935,Region,1840,2013,4342769,29576
+6260,Estimates,ASIA,935,Region,1840,2014,4390138,29721
+6261,Estimates,ASIA,935,Region,1840,2015,4437209,29934
+6262,Estimates,ASIA,935,Region,1840,2016,4481666,30246
+6263,Estimates,ASIA,935,Region,1840,2017,4526641,30770
+6264,Estimates,ASIA,935,Region,1840,2018,4569966,30949
+6265,Estimates,ASIA,935,Region,1840,2019,4610077,31476
+6266,Estimates,ASIA,935,Region,1840,2020,4647858,33776
+6267,Estimates,ASIA,935,Region,1840,2021,4680790,38150
+6328,Estimates,Central Asia,5500,Subregion,935,2010,63119,455
+6329,Estimates,Central Asia,5500,Subregion,935,2011,64112,452
+6330,Estimates,Central Asia,5500,Subregion,935,2012,65129,455
+6331,Estimates,Central Asia,5500,Subregion,935,2013,66177,456
+6332,Estimates,Central Asia,5500,Subregion,935,2014,67273,457
+6333,Estimates,Central Asia,5500,Subregion,935,2015,68412,460
+6334,Estimates,Central Asia,5500,Subregion,935,2016,69570,465
+6335,Estimates,Central Asia,5500,Subregion,935,2017,70719,463
+6336,Estimates,Central Asia,5500,Subregion,935,2018,71832,471
+6337,Estimates,Central Asia,5500,Subregion,935,2019,72977,475
+6338,Estimates,Central Asia,5500,Subregion,935,2020,74124,548
+6339,Estimates,Central Asia,5500,Subregion,935,2021,75325,544
+6400,Estimates,Kazakhstan,398,Country/Area,5500,2010,16509,155
+6401,Estimates,Kazakhstan,398,Country/Area,5500,2011,16747,153
+6402,Estimates,Kazakhstan,398,Country/Area,5500,2012,16983,152
+6403,Estimates,Kazakhstan,398,Country/Area,5500,2013,17222,149
+6404,Estimates,Kazakhstan,398,Country/Area,5500,2014,17469,148
+6405,Estimates,Kazakhstan,398,Country/Area,5500,2015,17716,147
+6406,Estimates,Kazakhstan,398,Country/Area,5500,2016,17956,150
+6407,Estimates,Kazakhstan,398,Country/Area,5500,2017,18201,148
+6408,Estimates,Kazakhstan,398,Country/Area,5500,2018,18429,151
+6409,Estimates,Kazakhstan,398,Country/Area,5500,2019,18647,153
+6410,Estimates,Kazakhstan,398,Country/Area,5500,2020,18861,179
+6411,Estimates,Kazakhstan,398,Country/Area,5500,2021,19097,196
+6472,Estimates,Kyrgyzstan,417,Country/Area,5500,2010,5453,38
+6473,Estimates,Kyrgyzstan,417,Country/Area,5500,2011,5515,38
+6474,Estimates,Kyrgyzstan,417,Country/Area,5500,2012,5590,37
+6475,Estimates,Kyrgyzstan,417,Country/Area,5500,2013,5674,37
+6476,Estimates,Kyrgyzstan,417,Country/Area,5500,2014,5765,36
+6477,Estimates,Kyrgyzstan,417,Country/Area,5500,2015,5864,36
+6478,Estimates,Kyrgyzstan,417,Country/Area,5500,2016,5966,36
+6479,Estimates,Kyrgyzstan,417,Country/Area,5500,2017,6070,36
+6480,Estimates,Kyrgyzstan,417,Country/Area,5500,2018,6172,36
+6481,Estimates,Kyrgyzstan,417,Country/Area,5500,2019,6275,35
+6482,Estimates,Kyrgyzstan,417,Country/Area,5500,2020,6372,41
+6483,Estimates,Kyrgyzstan,417,Country/Area,5500,2021,6477,40
+6544,Estimates,Tajikistan,762,Country/Area,5500,2010,7543,45
+6545,Estimates,Tajikistan,762,Country/Area,5500,2011,7701,45
+6546,Estimates,Tajikistan,762,Country/Area,5500,2012,7869,45
+6547,Estimates,Tajikistan,762,Country/Area,5500,2013,8044,45
+6548,Estimates,Tajikistan,762,Country/Area,5500,2014,8229,46
+6549,Estimates,Tajikistan,762,Country/Area,5500,2015,8423,46
+6550,Estimates,Tajikistan,762,Country/Area,5500,2016,8625,47
+6551,Estimates,Tajikistan,762,Country/Area,5500,2017,8826,46
+6552,Estimates,Tajikistan,762,Country/Area,5500,2018,9025,46
+6553,Estimates,Tajikistan,762,Country/Area,5500,2019,9231,45
+6554,Estimates,Tajikistan,762,Country/Area,5500,2020,9443,58
+6555,Estimates,Tajikistan,762,Country/Area,5500,2021,9644,44
+6616,Estimates,Turkmenistan,795,Country/Area,5500,2010,5223,34
+6617,Estimates,Turkmenistan,795,Country/Area,5500,2011,5313,34
+6618,Estimates,Turkmenistan,795,Country/Area,5500,2012,5409,35
+6619,Estimates,Turkmenistan,795,Country/Area,5500,2013,5509,36
+6620,Estimates,Turkmenistan,795,Country/Area,5500,2014,5611,37
+6621,Estimates,Turkmenistan,795,Country/Area,5500,2015,5715,38
+6622,Estimates,Turkmenistan,795,Country/Area,5500,2016,5818,39
+6623,Estimates,Turkmenistan,795,Country/Area,5500,2017,5919,39
+6624,Estimates,Turkmenistan,795,Country/Area,5500,2018,6018,40
+6625,Estimates,Turkmenistan,795,Country/Area,5500,2019,6112,41
+6626,Estimates,Turkmenistan,795,Country/Area,5500,2020,6204,43
+6627,Estimates,Turkmenistan,795,Country/Area,5500,2021,6297,42
+6688,Estimates,Uzbekistan,860,Country/Area,5500,2010,28392,183
+6689,Estimates,Uzbekistan,860,Country/Area,5500,2011,28837,182
+6690,Estimates,Uzbekistan,860,Country/Area,5500,2012,29278,185
+6691,Estimates,Uzbekistan,860,Country/Area,5500,2013,29728,189
+6692,Estimates,Uzbekistan,860,Country/Area,5500,2014,30199,191
+6693,Estimates,Uzbekistan,860,Country/Area,5500,2015,30694,193
+6694,Estimates,Uzbekistan,860,Country/Area,5500,2016,31205,193
+6695,Estimates,Uzbekistan,860,Country/Area,5500,2017,31703,195
+6696,Estimates,Uzbekistan,860,Country/Area,5500,2018,32189,198
+6697,Estimates,Uzbekistan,860,Country/Area,5500,2019,32710,200
+6698,Estimates,Uzbekistan,860,Country/Area,5500,2020,33243,226
+6699,Estimates,Uzbekistan,860,Country/Area,5500,2021,33810,220
+6760,Estimates,Eastern Asia,906,Subregion,935,2010,1578568,10714
+6761,Estimates,Eastern Asia,906,Subregion,935,2011,1587975,10907
+6762,Estimates,Eastern Asia,906,Subregion,935,2012,1597405,11063
+6763,Estimates,Eastern Asia,906,Subregion,935,2013,1608155,11222
+6764,Estimates,Eastern Asia,906,Subregion,935,2014,1617735,11390
+6765,Estimates,Eastern Asia,906,Subregion,935,2015,1627529,11566
+6766,Estimates,Eastern Asia,906,Subregion,935,2016,1635892,11784
+6767,Estimates,Eastern Asia,906,Subregion,935,2017,1644647,12188
+6768,Estimates,Eastern Asia,906,Subregion,935,2018,1653008,12142
+6769,Estimates,Eastern Asia,906,Subregion,935,2019,1658318,12361
+6770,Estimates,Eastern Asia,906,Subregion,935,2020,1662451,12660
+6771,Estimates,Eastern Asia,906,Subregion,935,2021,1663908,13022
+6832,Estimates,China,156,Country/Area,906,2010,1343698,8738
+6833,Estimates,China,156,Country/Area,906,2011,1352685,8859
+6834,Estimates,China,156,Country/Area,906,2012,1361506,9001
+6835,Estimates,China,156,Country/Area,906,2013,1371616,9149
+6836,Estimates,China,156,Country/Area,906,2014,1380585,9303
+6837,Estimates,China,156,Country/Area,906,2015,1389795,9450
+6838,Estimates,China,156,Country/Area,906,2016,1397636,9623
+6839,Estimates,China,156,Country/Area,906,2017,1406143,9981
+6840,Estimates,China,156,Country/Area,906,2018,1414409,9887
+6841,Estimates,China,156,Country/Area,906,2019,1419730,10063
+6842,Estimates,China,156,Country/Area,906,2020,1423998,10346
+6843,Estimates,China,156,Country/Area,906,2021,1425862,10618
+6904,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2010,7115,44
+6905,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2011,7150,45
+6906,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2012,7201,46
+6907,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2013,7267,47
+6908,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2014,7326,47
+6909,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2015,7378,48
+6910,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2016,7422,49
+6911,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2017,7450,49
+6912,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2018,7473,49
+6913,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2019,7490,51
+6914,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2020,7502,53
+6915,Estimates,"China, Hong Kong SAR",344,Country/Area,906,2021,7500,54
+6976,Estimates,"China, Macao SAR",446,Country/Area,906,2010,550,2
+6977,Estimates,"China, Macao SAR",446,Country/Area,906,2011,565,2
+6978,Estimates,"China, Macao SAR",446,Country/Area,906,2012,577,2
+6979,Estimates,"China, Macao SAR",446,Country/Area,906,2013,588,2
+6980,Estimates,"China, Macao SAR",446,Country/Area,906,2014,599,2
+6981,Estimates,"China, Macao SAR",446,Country/Area,906,2015,610,2
+6982,Estimates,"China, Macao SAR",446,Country/Area,906,2016,621,2
+6983,Estimates,"China, Macao SAR",446,Country/Area,906,2017,633,2
+6984,Estimates,"China, Macao SAR",446,Country/Area,906,2018,645,2
+6985,Estimates,"China, Macao SAR",446,Country/Area,906,2019,657,3
+6986,Estimates,"China, Macao SAR",446,Country/Area,906,2020,670,3
+6987,Estimates,"China, Macao SAR",446,Country/Area,906,2021,683,3
+7048,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2010,23065,145
+7049,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2011,23101,153
+7050,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2012,23185,154
+7051,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2013,23283,153
+7052,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2014,23377,160
+7053,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2015,23468,159
+7054,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2016,23557,167
+7055,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2017,23632,167
+7056,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2018,23698,166
+7057,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2019,23755,170
+7058,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2020,23801,172
+7059,Estimates,"China, Taiwan Province of China",158,Country/Area,906,2021,23842,177
+7120,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2010,24639,215
+7121,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2011,24734,213
+7122,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2012,24833,211
+7123,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2013,24942,208
+7124,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2014,25061,206
+7125,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2015,25191,204
+7126,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2016,25325,211
+7127,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2017,25454,217
+7128,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2018,25579,224
+7129,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2019,25698,229
+7130,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2020,25813,235
+7131,Estimates,Dem. People's Republic of Korea,408,Country/Area,906,2021,25922,242
+7192,Estimates,Japan,392,Country/Area,906,2010,128131,1296
+7193,Estimates,Japan,392,Country/Area,906,2011,128079,1357
+7194,Estimates,Japan,392,Country/Area,906,2012,127935,1364
+7195,Estimates,Japan,392,Country/Area,906,2013,127772,1377
+7196,Estimates,Japan,392,Country/Area,906,2014,127586,1385
+7197,Estimates,Japan,392,Country/Area,906,2015,127368,1405
+7198,Estimates,Japan,392,Country/Area,906,2016,127134,1428
+7199,Estimates,Japan,392,Country/Area,906,2017,126854,1464
+7200,Estimates,Japan,392,Country/Area,906,2018,126471,1493
+7201,Estimates,Japan,392,Country/Area,906,2019,126041,1519
+7202,Estimates,Japan,392,Country/Area,906,2020,125543,1511
+7203,Estimates,Japan,392,Country/Area,906,2021,124947,1575
+7264,Estimates,Mongolia,496,Country/Area,906,2010,2684,18
+7265,Estimates,Mongolia,496,Country/Area,906,2011,2721,19
+7266,Estimates,Mongolia,496,Country/Area,906,2012,2767,18
+7267,Estimates,Mongolia,496,Country/Area,906,2013,2818,18
+7268,Estimates,Mongolia,496,Country/Area,906,2014,2873,18
+7269,Estimates,Mongolia,496,Country/Area,906,2015,2933,18
+7270,Estimates,Mongolia,496,Country/Area,906,2016,2997,18
+7271,Estimates,Mongolia,496,Country/Area,906,2017,3062,19
+7272,Estimates,Mongolia,496,Country/Area,906,2018,3130,18
+7273,Estimates,Mongolia,496,Country/Area,906,2019,3198,18
+7274,Estimates,Mongolia,496,Country/Area,906,2020,3266,18
+7275,Estimates,Mongolia,496,Country/Area,906,2021,3322,21
+7336,Estimates,Republic of Korea,410,Country/Area,906,2010,48686,256
+7337,Estimates,Republic of Korea,410,Country/Area,906,2011,48940,259
+7338,Estimates,Republic of Korea,410,Country/Area,906,2012,49400,268
+7339,Estimates,Republic of Korea,410,Country/Area,906,2013,49868,268
+7340,Estimates,Republic of Korea,410,Country/Area,906,2014,50328,269
+7341,Estimates,Republic of Korea,410,Country/Area,906,2015,50788,279
+7342,Estimates,Republic of Korea,410,Country/Area,906,2016,51201,284
+7343,Estimates,Republic of Korea,410,Country/Area,906,2017,51419,288
+7344,Estimates,Republic of Korea,410,Country/Area,906,2018,51604,302
+7345,Estimates,Republic of Korea,410,Country/Area,906,2019,51750,309
+7346,Estimates,Republic of Korea,410,Country/Area,906,2020,51858,321
+7347,Estimates,Republic of Korea,410,Country/Area,906,2021,51831,335
+7408,Estimates,Southern Asia,5501,Subregion,935,2010,1723223,12516
+7409,Estimates,Southern Asia,5501,Subregion,935,2011,1748617,12516
+7410,Estimates,Southern Asia,5501,Subregion,935,2012,1773865,12446
+7411,Estimates,Southern Asia,5501,Subregion,935,2013,1798197,12388
+7412,Estimates,Southern Asia,5501,Subregion,935,2014,1822088,12297
+7413,Estimates,Southern Asia,5501,Subregion,935,2015,1845896,12246
+7414,Estimates,Southern Asia,5501,Subregion,935,2016,1868776,12236
+7415,Estimates,Southern Asia,5501,Subregion,935,2017,1891982,12307
+7416,Estimates,Southern Asia,5501,Subregion,935,2018,1914892,12484
+7417,Estimates,Southern Asia,5501,Subregion,935,2019,1937233,12707
+7418,Estimates,Southern Asia,5501,Subregion,935,2020,1958786,13976
+7419,Estimates,Southern Asia,5501,Subregion,935,2021,1980450,17183
+7480,Estimates,Afghanistan,4,Country/Area,5501,2010,27803,233
+7481,Estimates,Afghanistan,4,Country/Area,5501,2011,28576,230
+7482,Estimates,Afghanistan,4,Country/Area,5501,2012,29922,235
+7483,Estimates,Afghanistan,4,Country/Area,5501,2013,31011,236
+7484,Estimates,Afghanistan,4,Country/Area,5501,2014,32072,241
+7485,Estimates,Afghanistan,4,Country/Area,5501,2015,33361,249
+7486,Estimates,Afghanistan,4,Country/Area,5501,2016,34146,245
+7487,Estimates,Afghanistan,4,Country/Area,5501,2017,35126,251
+7488,Estimates,Afghanistan,4,Country/Area,5501,2018,36161,256
+7489,Estimates,Afghanistan,4,Country/Area,5501,2019,37213,257
+7490,Estimates,Afghanistan,4,Country/Area,5501,2020,38326,277
+7491,Estimates,Afghanistan,4,Country/Area,5501,2021,39618,295
+7552,Estimates,Bangladesh,50,Country/Area,5501,2010,147488,907
+7553,Estimates,Bangladesh,50,Country/Area,5501,2011,149295,919
+7554,Estimates,Bangladesh,50,Country/Area,5501,2012,151127,893
+7555,Estimates,Bangladesh,50,Country/Area,5501,2013,153054,921
+7556,Estimates,Bangladesh,50,Country/Area,5501,2014,155006,919
+7557,Estimates,Bangladesh,50,Country/Area,5501,2015,156916,912
+7558,Estimates,Bangladesh,50,Country/Area,5501,2016,158744,900
+7559,Estimates,Bangladesh,50,Country/Area,5501,2017,160825,881
+7560,Estimates,Bangladesh,50,Country/Area,5501,2018,162762,859
+7561,Estimates,Bangladesh,50,Country/Area,5501,2019,164605,875
+7562,Estimates,Bangladesh,50,Country/Area,5501,2020,166427,974
+7563,Estimates,Bangladesh,50,Country/Area,5501,2021,168415,962
+7624,Estimates,Bhutan,64,Country/Area,5501,2010,702,5
+7625,Estimates,Bhutan,64,Country/Area,5501,2011,709,5
+7626,Estimates,Bhutan,64,Country/Area,5501,2012,717,5
+7627,Estimates,Bhutan,64,Country/Area,5501,2013,725,5
+7628,Estimates,Bhutan,64,Country/Area,5501,2014,733,5
+7629,Estimates,Bhutan,64,Country/Area,5501,2015,740,5
+7630,Estimates,Bhutan,64,Country/Area,5501,2016,747,5
+7631,Estimates,Bhutan,64,Country/Area,5501,2017,753,5
+7632,Estimates,Bhutan,64,Country/Area,5501,2018,759,5
+7633,Estimates,Bhutan,64,Country/Area,5501,2019,765,5
+7634,Estimates,Bhutan,64,Country/Area,5501,2020,770,5
+7635,Estimates,Bhutan,64,Country/Area,5501,2021,775,5
+7696,Estimates,India,356,Country/Area,5501,2010,1232085,9162
+7697,Estimates,India,356,Country/Area,5501,2011,1249142,9139
+7698,Estimates,India,356,Country/Area,5501,2012,1266101,9072
+7699,Estimates,India,356,Country/Area,5501,2013,1282874,8987
+7700,Estimates,India,356,Country/Area,5501,2014,1299390,8876
+7701,Estimates,India,356,Country/Area,5501,2015,1315103,8826
+7702,Estimates,India,356,Country/Area,5501,2016,1330630,8839
+7703,Estimates,India,356,Country/Area,5501,2017,1346642,8928
+7704,Estimates,India,356,Country/Area,5501,2018,1361749,9098
+7705,Estimates,India,356,Country/Area,5501,2019,1376258,9281
+7706,Estimates,India,356,Country/Area,5501,2020,1389966,10262
+7707,Estimates,India,356,Country/Area,5501,2021,1402808,13300
+7768,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2010,74834,385
+7769,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2011,75914,381
+7770,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2012,76772,378
+7771,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2013,77877,385
+7772,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2014,79041,391
+7773,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2015,80882,395
+7774,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2016,82699,394
+7775,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2017,83913,396
+7776,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2018,85097,404
+7777,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2019,86138,421
+7778,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2020,86990,486
+7779,Estimates,Iran (Islamic Republic of),364,Country/Area,5501,2021,87590,566
+7840,Estimates,Maldives,462,Country/Area,5501,2010,355,1
+7841,Estimates,Maldives,462,Country/Area,5501,2011,368,1
+7842,Estimates,Maldives,462,Country/Area,5501,2012,381,1
+7843,Estimates,Maldives,462,Country/Area,5501,2013,394,1
+7844,Estimates,Maldives,462,Country/Area,5501,2014,407,1
+7845,Estimates,Maldives,462,Country/Area,5501,2015,426,1
+7846,Estimates,Maldives,462,Country/Area,5501,2016,445,1
+7847,Estimates,Maldives,462,Country/Area,5501,2017,463,1
+7848,Estimates,Maldives,462,Country/Area,5501,2018,481,1
+7849,Estimates,Maldives,462,Country/Area,5501,2019,498,1
+7850,Estimates,Maldives,462,Country/Area,5501,2020,511,2
+7851,Estimates,Maldives,462,Country/Area,5501,2021,518,2
+7912,Estimates,Nepal,524,Country/Area,5501,2010,27095,191
+7913,Estimates,Nepal,524,Country/Area,5501,2011,27228,189
+7914,Estimates,Nepal,524,Country/Area,5501,2012,27305,192
+7915,Estimates,Nepal,524,Country/Area,5501,2013,27356,190
+7916,Estimates,Nepal,524,Country/Area,5501,2014,27407,193
+7917,Estimates,Nepal,524,Country/Area,5501,2015,27517,204
+7918,Estimates,Nepal,524,Country/Area,5501,2016,27703,193
+7919,Estimates,Nepal,524,Country/Area,5501,2017,28019,197
+7920,Estimates,Nepal,524,Country/Area,5501,2018,28348,201
+7921,Estimates,Nepal,524,Country/Area,5501,2019,28666,198
+7922,Estimates,Nepal,524,Country/Area,5501,2020,28999,210
+7923,Estimates,Nepal,524,Country/Area,5501,2021,29698,232
+7984,Estimates,Pakistan,586,Country/Area,5501,2010,192284,1480
+7985,Estimates,Pakistan,586,Country/Area,5501,2011,196625,1498
+7986,Estimates,Pakistan,586,Country/Area,5501,2012,200581,1519
+7987,Estimates,Pakistan,586,Country/Area,5501,2013,203831,1513
+7988,Estimates,Pakistan,586,Country/Area,5501,2014,206844,1522
+7989,Estimates,Pakistan,586,Country/Area,5501,2015,209659,1505
+7990,Estimates,Pakistan,586,Country/Area,5501,2016,212280,1511
+7991,Estimates,Pakistan,586,Country/Area,5501,2017,214770,1496
+7992,Estimates,Pakistan,586,Country/Area,5501,2018,217989,1508
+7993,Estimates,Pakistan,586,Country/Area,5501,2019,221474,1515
+7994,Estimates,Pakistan,586,Country/Area,5501,2020,225113,1606
+7995,Estimates,Pakistan,586,Country/Area,5501,2021,229281,1660
+8056,Estimates,Sri Lanka,144,Country/Area,5501,2010,20577,152
+8057,Estimates,Sri Lanka,144,Country/Area,5501,2011,20761,154
+8058,Estimates,Sri Lanka,144,Country/Area,5501,2012,20959,151
+8059,Estimates,Sri Lanka,144,Country/Area,5501,2013,21075,150
+8060,Estimates,Sri Lanka,144,Country/Area,5501,2014,21188,149
+8061,Estimates,Sri Lanka,144,Country/Area,5501,2015,21291,149
+8062,Estimates,Sri Lanka,144,Country/Area,5501,2016,21383,148
+8063,Estimates,Sri Lanka,144,Country/Area,5501,2017,21468,151
+8064,Estimates,Sri Lanka,144,Country/Area,5501,2018,21545,152
+8065,Estimates,Sri Lanka,144,Country/Area,5501,2019,21616,153
+8066,Estimates,Sri Lanka,144,Country/Area,5501,2020,21683,154
+8067,Estimates,Sri Lanka,144,Country/Area,5501,2021,21747,161
+8128,Estimates,South-Eastern Asia,920,Subregion,935,2010,596070,4082
+8129,Estimates,South-Eastern Asia,920,Subregion,935,2011,603486,4137
+8130,Estimates,South-Eastern Asia,920,Subregion,935,2012,611042,4207
+8131,Estimates,South-Eastern Asia,920,Subregion,935,2013,618583,4254
+8132,Estimates,South-Eastern Asia,920,Subregion,935,2014,625932,4301
+8133,Estimates,South-Eastern Asia,920,Subregion,935,2015,633078,4371
+8134,Estimates,South-Eastern Asia,920,Subregion,935,2016,640211,4444
+8135,Estimates,South-Eastern Asia,920,Subregion,935,2017,647302,4517
+8136,Estimates,South-Eastern Asia,920,Subregion,935,2018,654097,4547
+8137,Estimates,South-Eastern Asia,920,Subregion,935,2019,660671,4618
+8138,Estimates,South-Eastern Asia,920,Subregion,935,2020,667123,5014
+8139,Estimates,South-Eastern Asia,920,Subregion,935,2021,673206,5803
+8200,Estimates,Brunei Darussalam,96,Country/Area,920,2010,393,1
+8201,Estimates,Brunei Darussalam,96,Country/Area,920,2011,399,2
+8202,Estimates,Brunei Darussalam,96,Country/Area,920,2012,404,2
+8203,Estimates,Brunei Darussalam,96,Country/Area,920,2013,409,2
+8204,Estimates,Brunei Darussalam,96,Country/Area,920,2014,414,2
+8205,Estimates,Brunei Darussalam,96,Country/Area,920,2015,419,2
+8206,Estimates,Brunei Darussalam,96,Country/Area,920,2016,424,2
+8207,Estimates,Brunei Darussalam,96,Country/Area,920,2017,428,2
+8208,Estimates,Brunei Darussalam,96,Country/Area,920,2018,432,2
+8209,Estimates,Brunei Darussalam,96,Country/Area,920,2019,436,2
+8210,Estimates,Brunei Darussalam,96,Country/Area,920,2020,440,2
+8211,Estimates,Brunei Darussalam,96,Country/Area,920,2021,444,2
+8272,Estimates,Cambodia,116,Country/Area,920,2010,14259,88
+8273,Estimates,Cambodia,116,Country/Area,920,2011,14468,87
+8274,Estimates,Cambodia,116,Country/Area,920,2012,14680,87
+8275,Estimates,Cambodia,116,Country/Area,920,2013,14894,87
+8276,Estimates,Cambodia,116,Country/Area,920,2014,15106,88
+8277,Estimates,Cambodia,116,Country/Area,920,2015,15316,90
+8278,Estimates,Cambodia,116,Country/Area,920,2016,15519,90
+8279,Estimates,Cambodia,116,Country/Area,920,2017,15730,92
+8280,Estimates,Cambodia,116,Country/Area,920,2018,15931,94
+8281,Estimates,Cambodia,116,Country/Area,920,2019,16119,97
+8282,Estimates,Cambodia,116,Country/Area,920,2020,16296,102
+8283,Estimates,Cambodia,116,Country/Area,920,2021,16497,114
+8344,Estimates,Indonesia,360,Country/Area,920,2010,242499,1807
+8345,Estimates,Indonesia,360,Country/Area,920,2011,245534,1843
+8346,Estimates,Indonesia,360,Country/Area,920,2012,248666,1875
+8347,Estimates,Indonesia,360,Country/Area,920,2013,251780,1889
+8348,Estimates,Indonesia,360,Country/Area,920,2014,254772,1904
+8349,Estimates,Indonesia,360,Country/Area,920,2015,257688,1933
+8350,Estimates,Indonesia,360,Country/Area,920,2016,260496,1972
+8351,Estimates,Indonesia,360,Country/Area,920,2017,263204,2004
+8352,Estimates,Indonesia,360,Country/Area,920,2018,265794,2002
+8353,Estimates,Indonesia,360,Country/Area,920,2019,268340,2032
+8354,Estimates,Indonesia,360,Country/Area,920,2020,270826,2437
+8355,Estimates,Indonesia,360,Country/Area,920,2021,272890,2755
+8416,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2010,6277,51
+8417,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2011,6370,50
+8418,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2012,6463,50
+8419,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2013,6555,50
+8420,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2014,6647,50
+8421,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2015,6736,51
+8422,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2016,6838,49
+8423,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2017,6944,48
+8424,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2018,7052,48
+8425,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2019,7158,47
+8426,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2020,7266,47
+8427,Estimates,Lao People's Democratic Republic,418,Country/Area,920,2021,7373,49
+8488,Estimates,Malaysia,458,Country/Area,920,2010,28489,144
+8489,Estimates,Malaysia,458,Country/Area,920,2011,28947,144
+8490,Estimates,Malaysia,458,Country/Area,920,2012,29421,145
+8491,Estimates,Malaysia,458,Country/Area,920,2013,29899,149
+8492,Estimates,Malaysia,458,Country/Area,920,2014,30371,152
+8493,Estimates,Malaysia,458,Country/Area,920,2015,30842,158
+8494,Estimates,Malaysia,458,Country/Area,920,2016,31295,161
+8495,Estimates,Malaysia,458,Country/Area,920,2017,31757,164
+8496,Estimates,Malaysia,458,Country/Area,920,2018,32194,167
+8497,Estimates,Malaysia,458,Country/Area,920,2019,32604,172
+8498,Estimates,Malaysia,458,Country/Area,920,2020,33004,176
+8499,Estimates,Malaysia,458,Country/Area,920,2021,33396,202
+8560,Estimates,Myanmar,104,Country/Area,920,2010,49197,456
+8561,Estimates,Myanmar,104,Country/Area,920,2011,49585,450
+8562,Estimates,Myanmar,104,Country/Area,920,2012,50004,453
+8563,Estimates,Myanmar,104,Country/Area,920,2013,50432,446
+8564,Estimates,Myanmar,104,Country/Area,920,2014,50865,450
+8565,Estimates,Myanmar,104,Country/Area,920,2015,51280,447
+8566,Estimates,Myanmar,104,Country/Area,920,2016,51688,455
+8567,Estimates,Myanmar,104,Country/Area,920,2017,52097,461
+8568,Estimates,Myanmar,104,Country/Area,920,2018,52480,455
+8569,Estimates,Myanmar,104,Country/Area,920,2019,52852,461
+8570,Estimates,Myanmar,104,Country/Area,920,2020,53228,471
+8571,Estimates,Myanmar,104,Country/Area,920,2021,53618,526
+8632,Estimates,Philippines,608,Country/Area,920,2010,93787,534
+8633,Estimates,Philippines,608,Country/Area,920,2011,95487,546
+8634,Estimates,Philippines,608,Country/Area,920,2012,97189,557
+8635,Estimates,Philippines,608,Country/Area,920,2013,98875,574
+8636,Estimates,Philippines,608,Country/Area,920,2014,100525,579
+8637,Estimates,Philippines,608,Country/Area,920,2015,102126,591
+8638,Estimates,Philippines,608,Country/Area,920,2016,103937,597
+8639,Estimates,Philippines,608,Country/Area,920,2017,105813,605
+8640,Estimates,Philippines,608,Country/Area,920,2018,107664,611
+8641,Estimates,Philippines,608,Country/Area,920,2019,109474,619
+8642,Estimates,Philippines,608,Country/Area,920,2020,111288,625
+8643,Estimates,Philippines,608,Country/Area,920,2021,113094,833
+8704,Estimates,Singapore,702,Country/Area,920,2010,5096,21
+8705,Estimates,Singapore,702,Country/Area,920,2011,5231,21
+8706,Estimates,Singapore,702,Country/Area,920,2012,5332,22
+8707,Estimates,Singapore,702,Country/Area,920,2013,5430,22
+8708,Estimates,Singapore,702,Country/Area,920,2014,5526,23
+8709,Estimates,Singapore,702,Country/Area,920,2015,5615,24
+8710,Estimates,Singapore,702,Country/Area,920,2016,5685,24
+8711,Estimates,Singapore,702,Country/Area,920,2017,5739,25
+8712,Estimates,Singapore,702,Country/Area,920,2018,5790,26
+8713,Estimates,Singapore,702,Country/Area,920,2019,5839,27
+8714,Estimates,Singapore,702,Country/Area,920,2020,5894,30
+8715,Estimates,Singapore,702,Country/Area,920,2021,5926,32
+8776,Estimates,Thailand,764,Country/Area,920,2010,68052,430
+8777,Estimates,Thailand,764,Country/Area,920,2011,68489,439
+8778,Estimates,Thailand,764,Country/Area,920,2012,68937,447
+8779,Estimates,Thailand,764,Country/Area,920,2013,69377,455
+8780,Estimates,Thailand,764,Country/Area,920,2014,69780,463
+8781,Estimates,Thailand,764,Country/Area,920,2015,70142,473
+8782,Estimates,Thailand,764,Country/Area,920,2016,70447,481
+8783,Estimates,Thailand,764,Country/Area,920,2017,70767,489
+8784,Estimates,Thailand,764,Country/Area,920,2018,71029,500
+8785,Estimates,Thailand,764,Country/Area,920,2019,71226,509
+8786,Estimates,Thailand,764,Country/Area,920,2020,71389,519
+8787,Estimates,Thailand,764,Country/Area,920,2021,71562,567
+8848,Estimates,Timor-Leste,626,Country/Area,920,2010,1077,9
+8849,Estimates,Timor-Leste,626,Country/Area,920,2011,1100,9
+8850,Estimates,Timor-Leste,626,Country/Area,920,2012,1125,9
+8851,Estimates,Timor-Leste,626,Country/Area,920,2013,1150,9
+8852,Estimates,Timor-Leste,626,Country/Area,920,2014,1173,9
+8853,Estimates,Timor-Leste,626,Country/Area,920,2015,1196,9
+8854,Estimates,Timor-Leste,626,Country/Area,920,2016,1215,9
+8855,Estimates,Timor-Leste,626,Country/Area,920,2017,1234,9
+8856,Estimates,Timor-Leste,626,Country/Area,920,2018,1253,9
+8857,Estimates,Timor-Leste,626,Country/Area,920,2019,1271,9
+8858,Estimates,Timor-Leste,626,Country/Area,920,2020,1290,9
+8859,Estimates,Timor-Leste,626,Country/Area,920,2021,1310,10
+8920,Estimates,Viet Nam,704,Country/Area,920,2010,86945,541
+8921,Estimates,Viet Nam,704,Country/Area,920,2011,87877,547
+8922,Estimates,Viet Nam,704,Country/Area,920,2012,88821,560
+8923,Estimates,Viet Nam,704,Country/Area,920,2013,89781,571
+8924,Estimates,Viet Nam,704,Country/Area,920,2014,90754,581
+8925,Estimates,Viet Nam,704,Country/Area,920,2015,91717,594
+8926,Estimates,Viet Nam,704,Country/Area,920,2016,92666,605
+8927,Estimates,Viet Nam,704,Country/Area,920,2017,93587,618
+8928,Estimates,Viet Nam,704,Country/Area,920,2018,94479,632
+8929,Estimates,Viet Nam,704,Country/Area,920,2019,95350,642
+8930,Estimates,Viet Nam,704,Country/Area,920,2020,96204,596
+8931,Estimates,Viet Nam,704,Country/Area,920,2021,97094,713
+8992,Estimates,Western Asia,922,Subregion,935,2010,235988,1132
+8993,Estimates,Western Asia,922,Subregion,935,2011,241183,1164
+8994,Estimates,Western Asia,922,Subregion,935,2012,246434,1224
+8995,Estimates,Western Asia,922,Subregion,935,2013,251657,1256
+8996,Estimates,Western Asia,922,Subregion,935,2014,257110,1275
+8997,Estimates,Western Asia,922,Subregion,935,2015,262294,1291
+8998,Estimates,Western Asia,922,Subregion,935,2016,267218,1316
+8999,Estimates,Western Asia,922,Subregion,935,2017,271991,1295
+9000,Estimates,Western Asia,922,Subregion,935,2018,276137,1305
+9001,Estimates,Western Asia,922,Subregion,935,2019,280878,1316
+9002,Estimates,Western Asia,922,Subregion,935,2020,285374,1578
+9003,Estimates,Western Asia,922,Subregion,935,2021,287902,1599
+9064,Estimates,Armenia,51,Country/Area,922,2010,2956,28
+9065,Estimates,Armenia,51,Country/Area,922,2011,2937,28
+9066,Estimates,Armenia,51,Country/Area,922,2012,2921,29
+9067,Estimates,Armenia,51,Country/Area,922,2013,2908,29
+9068,Estimates,Armenia,51,Country/Area,922,2014,2895,28
+9069,Estimates,Armenia,51,Country/Area,922,2015,2885,28
+9070,Estimates,Armenia,51,Country/Area,922,2016,2872,28
+9071,Estimates,Armenia,51,Country/Area,922,2017,2859,28
+9072,Estimates,Armenia,51,Country/Area,922,2018,2844,28
+9073,Estimates,Armenia,51,Country/Area,922,2019,2829,27
+9074,Estimates,Armenia,51,Country/Area,922,2020,2812,36
+9075,Estimates,Armenia,51,Country/Area,922,2021,2799,36
+9136,Estimates,Azerbaijan,31,Country/Area,922,2010,9178,66
+9137,Estimates,Azerbaijan,31,Country/Area,922,2011,9297,66
+9138,Estimates,Azerbaijan,31,Country/Area,922,2012,9421,66
+9139,Estimates,Azerbaijan,31,Country/Area,922,2013,9550,66
+9140,Estimates,Azerbaijan,31,Country/Area,922,2014,9679,67
+9141,Estimates,Azerbaijan,31,Country/Area,922,2015,9805,67
+9142,Estimates,Azerbaijan,31,Country/Area,922,2016,9922,66
+9143,Estimates,Azerbaijan,31,Country/Area,922,2017,10030,66
+9144,Estimates,Azerbaijan,31,Country/Area,922,2018,10113,66
+9145,Estimates,Azerbaijan,31,Country/Area,922,2019,10192,66
+9146,Estimates,Azerbaijan,31,Country/Area,922,2020,10274,110
+9147,Estimates,Azerbaijan,31,Country/Area,922,2021,10296,95
+9208,Estimates,Bahrain,48,Country/Area,922,2010,1214,2
+9209,Estimates,Bahrain,48,Country/Area,922,2011,1214,2
+9210,Estimates,Bahrain,48,Country/Area,922,2012,1211,2
+9211,Estimates,Bahrain,48,Country/Area,922,2013,1239,2
+9212,Estimates,Bahrain,48,Country/Area,922,2014,1284,3
+9213,Estimates,Bahrain,48,Country/Area,922,2015,1338,3
+9214,Estimates,Bahrain,48,Country/Area,922,2016,1386,3
+9215,Estimates,Bahrain,48,Country/Area,922,2017,1433,3
+9216,Estimates,Bahrain,48,Country/Area,922,2018,1480,3
+9217,Estimates,Bahrain,48,Country/Area,922,2019,1494,3
+9218,Estimates,Bahrain,48,Country/Area,922,2020,1494,3
+9219,Estimates,Bahrain,48,Country/Area,922,2021,1461,4
+9280,Estimates,Cyprus,196,Country/Area,922,2010,1120,7
+9281,Estimates,Cyprus,196,Country/Area,922,2011,1139,7
+9282,Estimates,Cyprus,196,Country/Area,922,2012,1151,7
+9283,Estimates,Cyprus,196,Country/Area,922,2013,1162,7
+9284,Estimates,Cyprus,196,Country/Area,922,2014,1172,7
+9285,Estimates,Cyprus,196,Country/Area,922,2015,1182,8
+9286,Estimates,Cyprus,196,Country/Area,922,2016,1192,8
+9287,Estimates,Cyprus,196,Country/Area,922,2017,1203,8
+9288,Estimates,Cyprus,196,Country/Area,922,2018,1214,8
+9289,Estimates,Cyprus,196,Country/Area,922,2019,1224,8
+9290,Estimates,Cyprus,196,Country/Area,922,2020,1234,9
+9291,Estimates,Cyprus,196,Country/Area,922,2021,1241,9
+9352,Estimates,Georgia,268,Country/Area,922,2010,3844,48
+9353,Estimates,Georgia,268,Country/Area,922,2011,3830,48
+9354,Estimates,Georgia,268,Country/Area,922,2012,3814,48
+9355,Estimates,Georgia,268,Country/Area,922,2013,3795,49
+9356,Estimates,Georgia,268,Country/Area,922,2014,3777,48
+9357,Estimates,Georgia,268,Country/Area,922,2015,3772,47
+9358,Estimates,Georgia,268,Country/Area,922,2016,3771,47
+9359,Estimates,Georgia,268,Country/Area,922,2017,3772,48
+9360,Estimates,Georgia,268,Country/Area,922,2018,3772,49
+9361,Estimates,Georgia,268,Country/Area,922,2019,3772,49
+9362,Estimates,Georgia,268,Country/Area,922,2020,3769,53
+9363,Estimates,Georgia,268,Country/Area,922,2021,3763,57
+9424,Estimates,Iraq,368,Country/Area,922,2010,30767,183
+9425,Estimates,Iraq,368,Country/Area,922,2011,31763,182
+9426,Estimates,Iraq,368,Country/Area,922,2012,32994,184
+9427,Estimates,Iraq,368,Country/Area,922,2013,34735,191
+9428,Estimates,Iraq,368,Country/Area,922,2014,36228,190
+9429,Estimates,Iraq,368,Country/Area,922,2015,37265,187
+9430,Estimates,Iraq,368,Country/Area,922,2016,38251,199
+9431,Estimates,Iraq,368,Country/Area,922,2017,39145,184
+9432,Estimates,Iraq,368,Country/Area,922,2018,40097,174
+9433,Estimates,Iraq,368,Country/Area,922,2019,41084,179
+9434,Estimates,Iraq,368,Country/Area,922,2020,42043,223
+9435,Estimates,Iraq,368,Country/Area,922,2021,43071,207
+9496,Estimates,Israel,376,Country/Area,922,2010,7263,39
+9497,Estimates,Israel,376,Country/Area,922,2011,7394,40
+9498,Estimates,Israel,376,Country/Area,922,2012,7525,42
+9499,Estimates,Israel,376,Country/Area,922,2013,7659,41
+9500,Estimates,Israel,376,Country/Area,922,2014,7794,42
+9501,Estimates,Israel,376,Country/Area,922,2015,7933,43
+9502,Estimates,Israel,376,Country/Area,922,2016,8082,43
+9503,Estimates,Israel,376,Country/Area,922,2017,8236,43
+9504,Estimates,Israel,376,Country/Area,922,2018,8383,44
+9505,Estimates,Israel,376,Country/Area,922,2019,8530,45
+9506,Estimates,Israel,376,Country/Area,922,2020,8686,48
+9507,Estimates,Israel,376,Country/Area,922,2021,8829,50
+9568,Estimates,Jordan,400,Country/Area,922,2010,6842,25
+9569,Estimates,Jordan,400,Country/Area,922,2011,7020,26
+9570,Estimates,Jordan,400,Country/Area,922,2012,7200,26
+9571,Estimates,Jordan,400,Country/Area,922,2013,7224,26
+9572,Estimates,Jordan,400,Country/Area,922,2014,8166,28
+9573,Estimates,Jordan,400,Country/Area,922,2015,9151,29
+9574,Estimates,Jordan,400,Country/Area,922,2016,9838,31
+9575,Estimates,Jordan,400,Country/Area,922,2017,10091,32
+9576,Estimates,Jordan,400,Country/Area,922,2018,10339,33
+9577,Estimates,Jordan,400,Country/Area,922,2019,10580,34
+9578,Estimates,Jordan,400,Country/Area,922,2020,10817,38
+9579,Estimates,Jordan,400,Country/Area,922,2021,11040,43
+9640,Estimates,Kuwait,414,Country/Area,922,2010,2868,5
+9641,Estimates,Kuwait,414,Country/Area,922,2011,3019,5
+9642,Estimates,Kuwait,414,Country/Area,922,2012,3269,6
+9643,Estimates,Kuwait,414,Country/Area,922,2013,3520,6
+9644,Estimates,Kuwait,414,Country/Area,922,2014,3773,6
+9645,Estimates,Kuwait,414,Country/Area,922,2015,3751,7
+9646,Estimates,Kuwait,414,Country/Area,922,2016,4067,7
+9647,Estimates,Kuwait,414,Country/Area,922,2017,4029,8
+9648,Estimates,Kuwait,414,Country/Area,922,2018,4221,9
+9649,Estimates,Kuwait,414,Country/Area,922,2019,4414,10
+9650,Estimates,Kuwait,414,Country/Area,922,2020,4468,15
+9651,Estimates,Kuwait,414,Country/Area,922,2021,4253,12
+9712,Estimates,Lebanon,422,Country/Area,922,2010,4982,20
+9713,Estimates,Lebanon,422,Country/Area,922,2011,5009,21
+9714,Estimates,Lebanon,422,Country/Area,922,2012,5081,21
+9715,Estimates,Lebanon,422,Country/Area,922,2013,5276,22
+9716,Estimates,Lebanon,422,Country/Area,922,2014,6082,26
+9717,Estimates,Lebanon,422,Country/Area,922,2015,6467,28
+9718,Estimates,Lebanon,422,Country/Area,922,2016,6331,28
+9719,Estimates,Lebanon,422,Country/Area,922,2017,6186,28
+9720,Estimates,Lebanon,422,Country/Area,922,2018,6032,29
+9721,Estimates,Lebanon,422,Country/Area,922,2019,5869,31
+9722,Estimates,Lebanon,422,Country/Area,922,2020,5695,36
+9723,Estimates,Lebanon,422,Country/Area,922,2021,5631,47
+9784,Estimates,Oman,512,Country/Area,922,2010,2721,7
+9785,Estimates,Oman,512,Country/Area,922,2011,3043,8
+9786,Estimates,Oman,512,Country/Area,922,2012,3371,8
+9787,Estimates,Oman,512,Country/Area,922,2013,3700,9
+9788,Estimates,Oman,512,Country/Area,922,2014,3933,9
+9789,Estimates,Oman,512,Country/Area,922,2015,4085,9
+9790,Estimates,Oman,512,Country/Area,922,2016,4298,9
+9791,Estimates,Oman,512,Country/Area,922,2017,4498,10
+9792,Estimates,Oman,512,Country/Area,922,2018,4586,10
+9793,Estimates,Oman,512,Country/Area,922,2019,4616,10
+9794,Estimates,Oman,512,Country/Area,922,2020,4589,14
+9795,Estimates,Oman,512,Country/Area,922,2021,4498,17
+9856,Estimates,Qatar,634,Country/Area,922,2010,1673,2
+9857,Estimates,Qatar,634,Country/Area,922,2011,1754,2
+9858,Estimates,Qatar,634,Country/Area,922,2012,1855,2
+9859,Estimates,Qatar,634,Country/Area,922,2013,1957,2
+9860,Estimates,Qatar,634,Country/Area,922,2014,2114,2
+9861,Estimates,Qatar,634,Country/Area,922,2015,2315,2
+9862,Estimates,Qatar,634,Country/Area,922,2016,2514,3
+9863,Estimates,Qatar,634,Country/Area,922,2017,2676,3
+9864,Estimates,Qatar,634,Country/Area,922,2018,2748,3
+9865,Estimates,Qatar,634,Country/Area,922,2019,2786,3
+9866,Estimates,Qatar,634,Country/Area,922,2020,2829,3
+9867,Estimates,Qatar,634,Country/Area,922,2021,2692,4
+9928,Estimates,Saudi Arabia,682,Country/Area,922,2010,29009,73
+9929,Estimates,Saudi Arabia,682,Country/Area,922,2011,29815,73
+9930,Estimates,Saudi Arabia,682,Country/Area,922,2012,30487,74
+9931,Estimates,Saudi Arabia,682,Country/Area,922,2013,31156,77
+9932,Estimates,Saudi Arabia,682,Country/Area,922,2014,31809,80
+9933,Estimates,Saudi Arabia,682,Country/Area,922,2015,32442,83
+9934,Estimates,Saudi Arabia,682,Country/Area,922,2016,33058,87
+9935,Estimates,Saudi Arabia,682,Country/Area,922,2017,33775,90
+9936,Estimates,Saudi Arabia,682,Country/Area,922,2018,34612,93
+9937,Estimates,Saudi Arabia,682,Country/Area,922,2019,35425,95
+9938,Estimates,Saudi Arabia,682,Country/Area,922,2020,36230,106
+9939,Estimates,Saudi Arabia,682,Country/Area,922,2021,35764,103
+10000,Estimates,State of Palestine,275,Country/Area,922,2010,3945,14
+10001,Estimates,State of Palestine,275,Country/Area,922,2011,4040,14
+10002,Estimates,State of Palestine,275,Country/Area,922,2012,4136,14
+10003,Estimates,State of Palestine,275,Country/Area,922,2013,4233,14
+10004,Estimates,State of Palestine,275,Country/Area,922,2014,4331,17
+10005,Estimates,State of Palestine,275,Country/Area,922,2015,4430,15
+10006,Estimates,State of Palestine,275,Country/Area,922,2016,4539,15
+10007,Estimates,State of Palestine,275,Country/Area,922,2017,4648,15
+10008,Estimates,State of Palestine,275,Country/Area,922,2018,4754,16
+10009,Estimates,State of Palestine,275,Country/Area,922,2019,4858,16
+10010,Estimates,State of Palestine,275,Country/Area,922,2020,4962,18
+10011,Estimates,State of Palestine,275,Country/Area,922,2021,5077,20
+10072,Estimates,Syrian Arab Republic,760,Country/Area,922,2010,22086,83
+10073,Estimates,Syrian Arab Republic,760,Country/Area,922,2011,22590,90
+10074,Estimates,Syrian Arab Republic,760,Country/Area,922,2012,22872,148
+10075,Estimates,Syrian Arab Republic,760,Country/Area,922,2013,22339,173
+10076,Estimates,Syrian Arab Republic,760,Country/Area,922,2014,20652,168
+10077,Estimates,Syrian Arab Republic,760,Country/Area,922,2015,19492,143
+10078,Estimates,Syrian Arab Republic,760,Country/Area,922,2016,18918,133
+10079,Estimates,Syrian Arab Republic,760,Country/Area,922,2017,19010,115
+10080,Estimates,Syrian Arab Republic,760,Country/Area,922,2018,18956,106
+10081,Estimates,Syrian Arab Republic,760,Country/Area,922,2019,19710,100
+10082,Estimates,Syrian Arab Republic,760,Country/Area,922,2020,20486,103
+10083,Estimates,Syrian Arab Republic,760,Country/Area,922,2021,21059,109
+10144,Estimates,Türkiye,792,Country/Area,922,2010,72703,384
+10145,Estimates,Türkiye,792,Country/Area,922,2011,73687,403
+10146,Estimates,Türkiye,792,Country/Area,922,2012,74660,391
+10147,Estimates,Türkiye,792,Country/Area,922,2013,75894,385
+10148,Estimates,Türkiye,792,Country/Area,922,2014,77258,392
+10149,Estimates,Türkiye,792,Country/Area,922,2015,78966,407
+10150,Estimates,Türkiye,792,Country/Area,922,2016,80326,423
+10151,Estimates,Türkiye,792,Country/Area,922,2017,81713,422
+10152,Estimates,Türkiye,792,Country/Area,922,2018,82467,420
+10153,Estimates,Türkiye,792,Country/Area,922,2019,83152,425
+10154,Estimates,Türkiye,792,Country/Area,922,2020,83812,537
+10155,Estimates,Türkiye,792,Country/Area,922,2021,84459,543
+10216,Estimates,United Arab Emirates,784,Country/Area,922,2010,8434,7
+10217,Estimates,United Arab Emirates,784,Country/Area,922,2011,8530,7
+10218,Estimates,United Arab Emirates,784,Country/Area,922,2012,8621,7
+10219,Estimates,United Arab Emirates,784,Country/Area,922,2013,8709,8
+10220,Estimates,United Arab Emirates,784,Country/Area,922,2014,8795,8
+10221,Estimates,United Arab Emirates,784,Country/Area,922,2015,8877,9
+10222,Estimates,United Arab Emirates,784,Country/Area,922,2016,8957,10
+10223,Estimates,United Arab Emirates,784,Country/Area,922,2017,9032,11
+10224,Estimates,United Arab Emirates,784,Country/Area,922,2018,9105,12
+10225,Estimates,United Arab Emirates,784,Country/Area,922,2019,9176,14
+10226,Estimates,United Arab Emirates,784,Country/Area,922,2020,9248,16
+10227,Estimates,United Arab Emirates,784,Country/Area,922,2021,9327,18
+10288,Estimates,Yemen,887,Country/Area,922,2010,24383,139
+10289,Estimates,Yemen,887,Country/Area,922,2011,25105,142
+10290,Estimates,Yemen,887,Country/Area,922,2012,25846,146
+10291,Estimates,Yemen,887,Country/Area,922,2013,26600,149
+10292,Estimates,Yemen,887,Country/Area,922,2014,27368,155
+10293,Estimates,Yemen,887,Country/Area,922,2015,28139,175
+10294,Estimates,Yemen,887,Country/Area,922,2016,28894,177
+10295,Estimates,Yemen,887,Country/Area,922,2017,29654,183
+10296,Estimates,Yemen,887,Country/Area,922,2018,30415,204
+10297,Estimates,Yemen,887,Country/Area,922,2019,31166,203
+10298,Estimates,Yemen,887,Country/Area,922,2020,31927,210
+10299,Estimates,Yemen,887,Country/Area,922,2021,32641,226
+10360,Estimates,EUROPE,908,Region,1840,2010,735650,8128
+10361,Estimates,EUROPE,908,Region,1840,2011,736903,7959
+10362,Estimates,EUROPE,908,Region,1840,2012,738276,8078
+10363,Estimates,EUROPE,908,Region,1840,2013,739539,8034
+10364,Estimates,EUROPE,908,Region,1840,2014,740488,7956
+10365,Estimates,EUROPE,908,Region,1840,2015,741540,8178
+10366,Estimates,EUROPE,908,Region,1840,2016,742675,8009
+10367,Estimates,EUROPE,908,Region,1840,2017,743962,8076
+10368,Estimates,EUROPE,908,Region,1840,2018,744936,8112
+10369,Estimates,EUROPE,908,Region,1840,2019,745782,8020
+10370,Estimates,EUROPE,908,Region,1840,2020,746597,9119
+10371,Estimates,EUROPE,908,Region,1840,2021,745853,9656
+10432,Estimates,Eastern Europe,923,Subregion,908,2010,294907,3975
+10433,Estimates,Eastern Europe,923,Subregion,908,2011,294510,3821
+10434,Estimates,Eastern Europe,923,Subregion,908,2012,294329,3817
+10435,Estimates,Eastern Europe,923,Subregion,908,2013,294332,3773
+10436,Estimates,Eastern Europe,923,Subregion,908,2014,294270,3736
+10437,Estimates,Eastern Europe,923,Subregion,908,2015,294170,3717
+10438,Estimates,Eastern Europe,923,Subregion,908,2016,294210,3623
+10439,Estimates,Eastern Europe,923,Subregion,908,2017,294241,3572
+10440,Estimates,Eastern Europe,923,Subregion,908,2018,294102,3632
+10441,Estimates,Eastern Europe,923,Subregion,908,2019,293778,3610
+10442,Estimates,Eastern Europe,923,Subregion,908,2020,293362,4179
+10443,Estimates,Eastern Europe,923,Subregion,908,2021,292305,4730
+10504,Estimates,Belarus,112,Country/Area,923,2010,9745,144
+10505,Estimates,Belarus,112,Country/Area,923,2011,9718,142
+10506,Estimates,Belarus,112,Country/Area,923,2012,9696,133
+10507,Estimates,Belarus,112,Country/Area,923,2013,9691,132
+10508,Estimates,Belarus,112,Country/Area,923,2014,9691,128
+10509,Estimates,Belarus,112,Country/Area,923,2015,9697,127
+10510,Estimates,Belarus,112,Country/Area,923,2016,9705,127
+10511,Estimates,Belarus,112,Country/Area,923,2017,9712,127
+10512,Estimates,Belarus,112,Country/Area,923,2018,9704,129
+10513,Estimates,Belarus,112,Country/Area,923,2019,9687,134
+10514,Estimates,Belarus,112,Country/Area,923,2020,9661,159
+10515,Estimates,Belarus,112,Country/Area,923,2021,9606,158
+10576,Estimates,Bulgaria,100,Country/Area,923,2010,7616,116
+10577,Estimates,Bulgaria,100,Country/Area,923,2011,7569,114
+10578,Estimates,Bulgaria,100,Country/Area,923,2012,7517,115
+10579,Estimates,Bulgaria,100,Country/Area,923,2013,7459,110
+10580,Estimates,Bulgaria,100,Country/Area,923,2014,7403,115
+10581,Estimates,Bulgaria,100,Country/Area,923,2015,7341,116
+10582,Estimates,Bulgaria,100,Country/Area,923,2016,7277,113
+10583,Estimates,Bulgaria,100,Country/Area,923,2017,7215,116
+10584,Estimates,Bulgaria,100,Country/Area,923,2018,7150,116
+10585,Estimates,Bulgaria,100,Country/Area,923,2019,7085,115
+10586,Estimates,Bulgaria,100,Country/Area,923,2020,7020,132
+10587,Estimates,Bulgaria,100,Country/Area,923,2021,6938,154
+10648,Estimates,Czechia,203,Country/Area,923,2010,10442,107
+10649,Estimates,Czechia,203,Country/Area,923,2011,10487,107
+10650,Estimates,Czechia,203,Country/Area,923,2012,10506,108
+10651,Estimates,Czechia,203,Country/Area,923,2013,10516,109
+10652,Estimates,Czechia,203,Country/Area,923,2014,10513,106
+10653,Estimates,Czechia,203,Country/Area,923,2015,10522,111
+10654,Estimates,Czechia,203,Country/Area,923,2016,10526,108
+10655,Estimates,Czechia,203,Country/Area,923,2017,10529,111
+10656,Estimates,Czechia,203,Country/Area,923,2018,10533,113
+10657,Estimates,Czechia,203,Country/Area,923,2019,10536,112
+10658,Estimates,Czechia,203,Country/Area,923,2020,10538,125
+10659,Estimates,Czechia,203,Country/Area,923,2021,10524,134
+10720,Estimates,Hungary,348,Country/Area,923,2010,10001,130
+10721,Estimates,Hungary,348,Country/Area,923,2011,9973,128
+10722,Estimates,Hungary,348,Country/Area,923,2012,9934,129
+10723,Estimates,Hungary,348,Country/Area,923,2013,9910,127
+10724,Estimates,Hungary,348,Country/Area,923,2014,9879,126
+10725,Estimates,Hungary,348,Country/Area,923,2015,9857,132
+10726,Estimates,Hungary,348,Country/Area,923,2016,9832,127
+10727,Estimates,Hungary,348,Country/Area,923,2017,9799,132
+10728,Estimates,Hungary,348,Country/Area,923,2018,9779,131
+10729,Estimates,Hungary,348,Country/Area,923,2019,9773,129
+10730,Estimates,Hungary,348,Country/Area,923,2020,9770,141
+10731,Estimates,Hungary,348,Country/Area,923,2021,9731,154
+10792,Estimates,Poland,616,Country/Area,923,2010,38580,379
+10793,Estimates,Poland,616,Country/Area,923,2011,38615,376
+10794,Estimates,Poland,616,Country/Area,923,2012,38627,385
+10795,Estimates,Poland,616,Country/Area,923,2013,38625,388
+10796,Estimates,Poland,616,Country/Area,923,2014,38590,377
+10797,Estimates,Poland,616,Country/Area,923,2015,38574,396
+10798,Estimates,Poland,616,Country/Area,923,2016,38532,389
+10799,Estimates,Poland,616,Country/Area,923,2017,38532,404
+10800,Estimates,Poland,616,Country/Area,923,2018,38534,415
+10801,Estimates,Poland,616,Country/Area,923,2019,38509,411
+10802,Estimates,Poland,616,Country/Area,923,2020,38478,471
+10803,Estimates,Poland,616,Country/Area,923,2021,38379,503
+10864,Estimates,Republic of Moldova,498,Country/Area,923,2010,3718,47
+10865,Estimates,Republic of Moldova,498,Country/Area,923,2011,3638,48
+10866,Estimates,Republic of Moldova,498,Country/Area,923,2012,3552,48
+10867,Estimates,Republic of Moldova,498,Country/Area,923,2013,3462,48
+10868,Estimates,Republic of Moldova,498,Country/Area,923,2014,3371,48
+10869,Estimates,Republic of Moldova,498,Country/Area,923,2015,3306,47
+10870,Estimates,Republic of Moldova,498,Country/Area,923,2016,3249,44
+10871,Estimates,Republic of Moldova,498,Country/Area,923,2017,3201,42
+10872,Estimates,Republic of Moldova,498,Country/Area,923,2018,3160,42
+10873,Estimates,Republic of Moldova,498,Country/Area,923,2019,3124,41
+10874,Estimates,Republic of Moldova,498,Country/Area,923,2020,3095,45
+10875,Estimates,Republic of Moldova,498,Country/Area,923,2021,3075,50
+10936,Estimates,Romania,642,Country/Area,923,2010,20403,251
+10937,Estimates,Romania,642,Country/Area,923,2011,20267,251
+10938,Estimates,Romania,642,Country/Area,923,2012,20173,257
+10939,Estimates,Romania,642,Country/Area,923,2013,20101,249
+10940,Estimates,Romania,642,Country/Area,923,2014,20032,256
+10941,Estimates,Romania,642,Country/Area,923,2015,19959,265
+10942,Estimates,Romania,642,Country/Area,923,2016,19853,260
+10943,Estimates,Romania,642,Country/Area,923,2017,19743,247
+10944,Estimates,Romania,642,Country/Area,923,2018,19655,249
+10945,Estimates,Romania,642,Country/Area,923,2019,19559,247
+10946,Estimates,Romania,642,Country/Area,923,2020,19490,282
+10947,Estimates,Romania,642,Country/Area,923,2021,19394,314
+11008,Estimates,Russian Federation,643,Country/Area,923,2010,143229,2050
+11009,Estimates,Russian Federation,643,Country/Area,923,2011,143256,1940
+11010,Estimates,Russian Federation,643,Country/Area,923,2012,143473,1926
+11011,Estimates,Russian Federation,643,Country/Area,923,2013,143785,1895
+11012,Estimates,Russian Federation,643,Country/Area,923,2014,144128,1903
+11013,Estimates,Russian Federation,643,Country/Area,923,2015,144442,1873
+11014,Estimates,Russian Federation,643,Country/Area,923,2016,144895,1835
+11015,Estimates,Russian Federation,643,Country/Area,923,2017,145323,1781
+11016,Estimates,Russian Federation,643,Country/Area,923,2018,145582,1801
+11017,Estimates,Russian Federation,643,Country/Area,923,2019,145723,1781
+11018,Estimates,Russian Federation,643,Country/Area,923,2020,145762,2067
+11019,Estimates,Russian Federation,643,Country/Area,923,2021,145473,2459
+11080,Estimates,Slovakia,703,Country/Area,923,2010,5394,53
+11081,Estimates,Slovakia,703,Country/Area,923,2011,5399,52
+11082,Estimates,Slovakia,703,Country/Area,923,2012,5406,52
+11083,Estimates,Slovakia,703,Country/Area,923,2013,5412,52
+11084,Estimates,Slovakia,703,Country/Area,923,2014,5417,51
+11085,Estimates,Slovakia,703,Country/Area,923,2015,5422,54
+11086,Estimates,Slovakia,703,Country/Area,923,2016,5427,52
+11087,Estimates,Slovakia,703,Country/Area,923,2017,5436,54
+11088,Estimates,Slovakia,703,Country/Area,923,2018,5443,54
+11089,Estimates,Slovakia,703,Country/Area,923,2019,5450,53
+11090,Estimates,Slovakia,703,Country/Area,923,2020,5458,59
+11091,Estimates,Slovakia,703,Country/Area,923,2021,5456,72
+11152,Estimates,Ukraine,804,Country/Area,923,2010,45778,698
+11153,Estimates,Ukraine,804,Country/Area,923,2011,45588,664
+11154,Estimates,Ukraine,804,Country/Area,923,2012,45444,663
+11155,Estimates,Ukraine,804,Country/Area,923,2013,45368,663
+11156,Estimates,Ukraine,804,Country/Area,923,2014,45246,625
+11157,Estimates,Ukraine,804,Country/Area,923,2015,45050,596
+11158,Estimates,Ukraine,804,Country/Area,923,2016,44915,568
+11159,Estimates,Ukraine,804,Country/Area,923,2017,44752,559
+11160,Estimates,Ukraine,804,Country/Area,923,2018,44562,583
+11161,Estimates,Ukraine,804,Country/Area,923,2019,44331,587
+11162,Estimates,Ukraine,804,Country/Area,923,2020,44091,699
+11163,Estimates,Ukraine,804,Country/Area,923,2021,43729,731
+11224,Estimates,Northern Europe,924,Subregion,908,2010,99314,921
+11225,Estimates,Northern Europe,924,Subregion,908,2011,99985,906
+11226,Estimates,Northern Europe,924,Subregion,908,2012,100675,927
+11227,Estimates,Northern Europe,924,Subregion,908,2013,101355,934
+11228,Estimates,Northern Europe,924,Subregion,908,2014,102003,924
+11229,Estimates,Northern Europe,924,Subregion,908,2015,102667,962
+11230,Estimates,Northern Europe,924,Subregion,908,2016,103300,958
+11231,Estimates,Northern Europe,924,Subregion,908,2017,103937,969
+11232,Estimates,Northern Europe,924,Subregion,908,2018,104537,982
+11233,Estimates,Northern Europe,924,Subregion,908,2019,105089,945
+11234,Estimates,Northern Europe,924,Subregion,908,2020,105645,1053
+11235,Estimates,Northern Europe,924,Subregion,908,2021,106016,1049
+11296,Estimates,Denmark,208,Country/Area,924,2010,5538,54
+11297,Estimates,Denmark,208,Country/Area,924,2011,5564,53
+11298,Estimates,Denmark,208,Country/Area,924,2012,5588,52
+11299,Estimates,Denmark,208,Country/Area,924,2013,5614,53
+11300,Estimates,Denmark,208,Country/Area,924,2014,5637,52
+11301,Estimates,Denmark,208,Country/Area,924,2015,5664,53
+11302,Estimates,Denmark,208,Country/Area,924,2016,5692,53
+11303,Estimates,Denmark,208,Country/Area,924,2017,5722,53
+11304,Estimates,Denmark,208,Country/Area,924,2018,5752,55
+11305,Estimates,Denmark,208,Country/Area,924,2019,5781,54
+11306,Estimates,Denmark,208,Country/Area,924,2020,5811,55
+11307,Estimates,Denmark,208,Country/Area,924,2021,5841,58
+11368,Estimates,Estonia,233,Country/Area,924,2010,1333,16
+11369,Estimates,Estonia,233,Country/Area,924,2011,1330,15
+11370,Estimates,Estonia,233,Country/Area,924,2012,1325,15
+11371,Estimates,Estonia,233,Country/Area,924,2013,1320,15
+11372,Estimates,Estonia,233,Country/Area,924,2014,1316,16
+11373,Estimates,Estonia,233,Country/Area,924,2015,1313,15
+11374,Estimates,Estonia,233,Country/Area,924,2016,1316,15
+11375,Estimates,Estonia,233,Country/Area,924,2017,1316,16
+11376,Estimates,Estonia,233,Country/Area,924,2018,1319,16
+11377,Estimates,Estonia,233,Country/Area,924,2019,1325,15
+11378,Estimates,Estonia,233,Country/Area,924,2020,1329,16
+11379,Estimates,Estonia,233,Country/Area,924,2021,1330,19
+11440,Estimates,Faroe Islands,234,Country/Area,924,2010,48,1
+11441,Estimates,Faroe Islands,234,Country/Area,924,2011,48,1
+11442,Estimates,Faroe Islands,234,Country/Area,924,2012,48,0
+11443,Estimates,Faroe Islands,234,Country/Area,924,2013,48,0
+11444,Estimates,Faroe Islands,234,Country/Area,924,2014,48,0
+11445,Estimates,Faroe Islands,234,Country/Area,924,2015,48,0
+11446,Estimates,Faroe Islands,234,Country/Area,924,2016,49,0
+11447,Estimates,Faroe Islands,234,Country/Area,924,2017,50,1
+11448,Estimates,Faroe Islands,234,Country/Area,924,2018,51,1
+11449,Estimates,Faroe Islands,234,Country/Area,924,2019,51,1
+11450,Estimates,Faroe Islands,234,Country/Area,924,2020,52,1
+11451,Estimates,Faroe Islands,234,Country/Area,924,2021,53,1
+11512,Estimates,Finland,246,Country/Area,924,2010,5351,51
+11513,Estimates,Finland,246,Country/Area,924,2011,5375,51
+11514,Estimates,Finland,246,Country/Area,924,2012,5401,52
+11515,Estimates,Finland,246,Country/Area,924,2013,5427,51
+11516,Estimates,Finland,246,Country/Area,924,2014,5451,52
+11517,Estimates,Finland,246,Country/Area,924,2015,5472,52
+11518,Estimates,Finland,246,Country/Area,924,2016,5487,54
+11519,Estimates,Finland,246,Country/Area,924,2017,5503,54
+11520,Estimates,Finland,246,Country/Area,924,2018,5513,54
+11521,Estimates,Finland,246,Country/Area,924,2019,5518,54
+11522,Estimates,Finland,246,Country/Area,924,2020,5525,55
+11523,Estimates,Finland,246,Country/Area,924,2021,5534,57
+11584,Estimates,Guernsey,831,Country/Area,924,2010,61,0
+11585,Estimates,Guernsey,831,Country/Area,924,2011,61,0
+11586,Estimates,Guernsey,831,Country/Area,924,2012,61,1
+11587,Estimates,Guernsey,831,Country/Area,924,2013,61,1
+11588,Estimates,Guernsey,831,Country/Area,924,2014,61,1
+11589,Estimates,Guernsey,831,Country/Area,924,2015,62,1
+11590,Estimates,Guernsey,831,Country/Area,924,2016,62,1
+11591,Estimates,Guernsey,831,Country/Area,924,2017,62,1
+11592,Estimates,Guernsey,831,Country/Area,924,2018,62,1
+11593,Estimates,Guernsey,831,Country/Area,924,2019,62,1
+11594,Estimates,Guernsey,831,Country/Area,924,2020,63,1
+11595,Estimates,Guernsey,831,Country/Area,924,2021,63,1
+11656,Estimates,Iceland,352,Country/Area,924,2010,318,2
+11657,Estimates,Iceland,352,Country/Area,924,2011,319,2
+11658,Estimates,Iceland,352,Country/Area,924,2012,320,2
+11659,Estimates,Iceland,352,Country/Area,924,2013,322,2
+11660,Estimates,Iceland,352,Country/Area,924,2014,326,2
+11661,Estimates,Iceland,352,Country/Area,924,2015,329,2
+11662,Estimates,Iceland,352,Country/Area,924,2016,333,2
+11663,Estimates,Iceland,352,Country/Area,924,2017,339,2
+11664,Estimates,Iceland,352,Country/Area,924,2018,349,2
+11665,Estimates,Iceland,352,Country/Area,924,2019,357,2
+11666,Estimates,Iceland,352,Country/Area,924,2020,364,2
+11667,Estimates,Iceland,352,Country/Area,924,2021,369,3
+11728,Estimates,Ireland,372,Country/Area,924,2010,4514,28
+11729,Estimates,Ireland,372,Country/Area,924,2011,4535,28
+11730,Estimates,Ireland,372,Country/Area,924,2012,4554,29
+11731,Estimates,Ireland,372,Country/Area,924,2013,4575,29
+11732,Estimates,Ireland,372,Country/Area,924,2014,4603,29
+11733,Estimates,Ireland,372,Country/Area,924,2015,4642,30
+11734,Estimates,Ireland,372,Country/Area,924,2016,4690,30
+11735,Estimates,Ireland,372,Country/Area,924,2017,4742,30
+11736,Estimates,Ireland,372,Country/Area,924,2018,4802,31
+11737,Estimates,Ireland,372,Country/Area,924,2019,4867,31
+11738,Estimates,Ireland,372,Country/Area,924,2020,4925,33
+11739,Estimates,Ireland,372,Country/Area,924,2021,4967,35
+11800,Estimates,Isle of Man,833,Country/Area,924,2010,83,1
+11801,Estimates,Isle of Man,833,Country/Area,924,2011,84,1
+11802,Estimates,Isle of Man,833,Country/Area,924,2012,84,1
+11803,Estimates,Isle of Man,833,Country/Area,924,2013,84,1
+11804,Estimates,Isle of Man,833,Country/Area,924,2014,84,1
+11805,Estimates,Isle of Man,833,Country/Area,924,2015,84,1
+11806,Estimates,Isle of Man,833,Country/Area,924,2016,83,1
+11807,Estimates,Isle of Man,833,Country/Area,924,2017,83,1
+11808,Estimates,Isle of Man,833,Country/Area,924,2018,84,1
+11809,Estimates,Isle of Man,833,Country/Area,924,2019,84,1
+11810,Estimates,Isle of Man,833,Country/Area,924,2020,84,1
+11811,Estimates,Isle of Man,833,Country/Area,924,2021,84,1
+11872,Estimates,Jersey,832,Country/Area,924,2010,96,1
+11873,Estimates,Jersey,832,Country/Area,924,2011,97,1
+11874,Estimates,Jersey,832,Country/Area,924,2012,97,1
+11875,Estimates,Jersey,832,Country/Area,924,2013,98,1
+11876,Estimates,Jersey,832,Country/Area,924,2014,99,1
+11877,Estimates,Jersey,832,Country/Area,924,2015,100,1
+11878,Estimates,Jersey,832,Country/Area,924,2016,101,1
+11879,Estimates,Jersey,832,Country/Area,924,2017,103,1
+11880,Estimates,Jersey,832,Country/Area,924,2018,104,1
+11881,Estimates,Jersey,832,Country/Area,924,2019,106,1
+11882,Estimates,Jersey,832,Country/Area,924,2020,108,1
+11883,Estimates,Jersey,832,Country/Area,924,2021,109,1
+11944,Estimates,Latvia,428,Country/Area,924,2010,2114,31
+11945,Estimates,Latvia,428,Country/Area,924,2011,2089,30
+11946,Estimates,Latvia,428,Country/Area,924,2012,2065,30
+11947,Estimates,Latvia,428,Country/Area,924,2013,2042,30
+11948,Estimates,Latvia,428,Country/Area,924,2014,2021,30
+11949,Estimates,Latvia,428,Country/Area,924,2015,2001,30
+11950,Estimates,Latvia,428,Country/Area,924,2016,1983,30
+11951,Estimates,Latvia,428,Country/Area,924,2017,1964,30
+11952,Estimates,Latvia,428,Country/Area,924,2018,1945,30
+11953,Estimates,Latvia,428,Country/Area,924,2019,1926,29
+11954,Estimates,Latvia,428,Country/Area,924,2020,1907,31
+11955,Estimates,Latvia,428,Country/Area,924,2021,1887,36
+12016,Estimates,Lithuania,440,Country/Area,924,2010,3160,44
+12017,Estimates,Lithuania,440,Country/Area,924,2011,3119,43
+12018,Estimates,Lithuania,440,Country/Area,924,2012,3081,43
+12019,Estimates,Lithuania,440,Country/Area,924,2013,3046,43
+12020,Estimates,Lithuania,440,Country/Area,924,2014,3011,42
+12021,Estimates,Lithuania,440,Country/Area,924,2015,2979,44
+12022,Estimates,Lithuania,440,Country/Area,924,2016,2948,43
+12023,Estimates,Lithuania,440,Country/Area,924,2017,2919,43
+12024,Estimates,Lithuania,440,Country/Area,924,2018,2890,42
+12025,Estimates,Lithuania,440,Country/Area,924,2019,2862,41
+12026,Estimates,Lithuania,440,Country/Area,924,2020,2836,46
+12027,Estimates,Lithuania,440,Country/Area,924,2021,2805,51
+12088,Estimates,Norway,578,Country/Area,924,2010,4859,41
+12089,Estimates,Norway,578,Country/Area,924,2011,4921,41
+12090,Estimates,Norway,578,Country/Area,924,2012,4986,42
+12091,Estimates,Norway,578,Country/Area,924,2013,5052,41
+12092,Estimates,Norway,578,Country/Area,924,2014,5110,40
+12093,Estimates,Norway,578,Country/Area,924,2015,5166,41
+12094,Estimates,Norway,578,Country/Area,924,2016,5214,41
+12095,Estimates,Norway,578,Country/Area,924,2017,5259,41
+12096,Estimates,Norway,578,Country/Area,924,2018,5296,41
+12097,Estimates,Norway,578,Country/Area,924,2019,5329,41
+12098,Estimates,Norway,578,Country/Area,924,2020,5368,41
+12099,Estimates,Norway,578,Country/Area,924,2021,5392,42
+12160,Estimates,Sweden,752,Country/Area,924,2010,9340,91
+12161,Estimates,Sweden,752,Country/Area,924,2011,9424,90
+12162,Estimates,Sweden,752,Country/Area,924,2012,9511,92
+12163,Estimates,Sweden,752,Country/Area,924,2013,9601,90
+12164,Estimates,Sweden,752,Country/Area,924,2014,9697,89
+12165,Estimates,Sweden,752,Country/Area,924,2015,9798,91
+12166,Estimates,Sweden,752,Country/Area,924,2016,9900,91
+12167,Estimates,Sweden,752,Country/Area,924,2017,10006,92
+12168,Estimates,Sweden,752,Country/Area,924,2018,10110,92
+12169,Estimates,Sweden,752,Country/Area,924,2019,10214,89
+12170,Estimates,Sweden,752,Country/Area,924,2020,10321,98
+12171,Estimates,Sweden,752,Country/Area,924,2021,10417,92
+12232,Estimates,United Kingdom,826,Country/Area,924,2010,62499,561
+12233,Estimates,United Kingdom,826,Country/Area,924,2011,63021,551
+12234,Estimates,United Kingdom,826,Country/Area,924,2012,63552,568
+12235,Estimates,United Kingdom,826,Country/Area,924,2013,64066,576
+12236,Estimates,United Kingdom,826,Country/Area,924,2014,64539,570
+12237,Estimates,United Kingdom,826,Country/Area,924,2015,65008,602
+12238,Estimates,United Kingdom,826,Country/Area,924,2016,65441,596
+12239,Estimates,United Kingdom,826,Country/Area,924,2017,65870,606
+12240,Estimates,United Kingdom,826,Country/Area,924,2018,66260,616
+12241,Estimates,United Kingdom,826,Country/Area,924,2019,66606,585
+12242,Estimates,United Kingdom,826,Country/Area,924,2020,66951,673
+12243,Estimates,United Kingdom,826,Country/Area,924,2021,67168,653
+12304,Estimates,Southern Europe,925,Subregion,908,2010,153760,1447
+12305,Estimates,Southern Europe,925,Subregion,908,2011,154025,1461
+12306,Estimates,Southern Europe,925,Subregion,908,2012,154162,1507
+12307,Estimates,Southern Europe,925,Subregion,908,2013,154041,1474
+12308,Estimates,Southern Europe,925,Subregion,908,2014,153689,1486
+12309,Estimates,Southern Europe,925,Subregion,908,2015,153349,1576
+12310,Estimates,Southern Europe,925,Subregion,908,2016,153040,1528
+12311,Estimates,Southern Europe,925,Subregion,908,2017,152850,1592
+12312,Estimates,Southern Europe,925,Subregion,908,2018,152670,1572
+12313,Estimates,Southern Europe,925,Subregion,908,2019,152648,1551
+12314,Estimates,Southern Europe,925,Subregion,908,2020,152713,1793
+12315,Estimates,Southern Europe,925,Subregion,908,2021,152295,1755
+12376,Estimates,Albania,8,Country/Area,925,2010,2921,21
+12377,Estimates,Albania,8,Country/Area,925,2011,2906,21
+12378,Estimates,Albania,8,Country/Area,925,2012,2895,22
+12379,Estimates,Albania,8,Country/Area,925,2013,2889,23
+12380,Estimates,Albania,8,Country/Area,925,2014,2885,23
+12381,Estimates,Albania,8,Country/Area,925,2015,2883,23
+12382,Estimates,Albania,8,Country/Area,925,2016,2882,23
+12383,Estimates,Albania,8,Country/Area,925,2017,2880,24
+12384,Estimates,Albania,8,Country/Area,925,2018,2878,24
+12385,Estimates,Albania,8,Country/Area,925,2019,2876,24
+12386,Estimates,Albania,8,Country/Area,925,2020,2872,31
+12387,Estimates,Albania,8,Country/Area,925,2021,2862,32
+12448,Estimates,Andorra,20,Country/Area,925,2010,73,0
+12449,Estimates,Andorra,20,Country/Area,925,2011,70,0
+12450,Estimates,Andorra,20,Country/Area,925,2012,71,0
+12451,Estimates,Andorra,20,Country/Area,925,2013,71,0
+12452,Estimates,Andorra,20,Country/Area,925,2014,72,0
+12453,Estimates,Andorra,20,Country/Area,925,2015,72,0
+12454,Estimates,Andorra,20,Country/Area,925,2016,72,0
+12455,Estimates,Andorra,20,Country/Area,925,2017,73,0
+12456,Estimates,Andorra,20,Country/Area,925,2018,74,0
+12457,Estimates,Andorra,20,Country/Area,925,2019,76,0
+12458,Estimates,Andorra,20,Country/Area,925,2020,77,1
+12459,Estimates,Andorra,20,Country/Area,925,2021,78,1
+12520,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2010,3845,37
+12521,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2011,3777,37
+12522,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2012,3709,37
+12523,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2013,3640,40
+12524,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2014,3595,44
+12525,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2015,3547,43
+12526,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2016,3502,41
+12527,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2017,3460,41
+12528,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2018,3420,41
+12529,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2019,3380,41
+12530,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2020,3341,47
+12531,Estimates,Bosnia and Herzegovina,70,Country/Area,925,2021,3296,52
+12592,Estimates,Croatia,191,Country/Area,925,2010,4376,54
+12593,Estimates,Croatia,191,Country/Area,925,2011,4361,53
+12594,Estimates,Croatia,191,Country/Area,925,2012,4342,54
+12595,Estimates,Croatia,191,Country/Area,925,2013,4321,53
+12596,Estimates,Croatia,191,Country/Area,925,2014,4297,53
+12597,Estimates,Croatia,191,Country/Area,925,2015,4271,57
+12598,Estimates,Croatia,191,Country/Area,925,2016,4239,54
+12599,Estimates,Croatia,191,Country/Area,925,2017,4209,56
+12600,Estimates,Croatia,191,Country/Area,925,2018,4176,55
+12601,Estimates,Croatia,191,Country/Area,925,2019,4145,54
+12602,Estimates,Croatia,191,Country/Area,925,2020,4115,60
+12603,Estimates,Croatia,191,Country/Area,925,2021,4079,62
+12664,Estimates,Gibraltar,292,Country/Area,925,2010,31,0
+12665,Estimates,Gibraltar,292,Country/Area,925,2011,31,0
+12666,Estimates,Gibraltar,292,Country/Area,925,2012,32,0
+12667,Estimates,Gibraltar,292,Country/Area,925,2013,32,0
+12668,Estimates,Gibraltar,292,Country/Area,925,2014,32,0
+12669,Estimates,Gibraltar,292,Country/Area,925,2015,32,0
+12670,Estimates,Gibraltar,292,Country/Area,925,2016,33,0
+12671,Estimates,Gibraltar,292,Country/Area,925,2017,33,0
+12672,Estimates,Gibraltar,292,Country/Area,925,2018,33,0
+12673,Estimates,Gibraltar,292,Country/Area,925,2019,33,0
+12674,Estimates,Gibraltar,292,Country/Area,925,2020,33,0
+12675,Estimates,Gibraltar,292,Country/Area,925,2021,33,0
+12736,Estimates,Greece,300,Country/Area,925,2010,11046,110
+12737,Estimates,Greece,300,Country/Area,925,2011,11022,112
+12738,Estimates,Greece,300,Country/Area,925,2012,10988,117
+12739,Estimates,Greece,300,Country/Area,925,2013,10939,112
+12740,Estimates,Greece,300,Country/Area,925,2014,10890,113
+12741,Estimates,Greece,300,Country/Area,925,2015,10836,120
+12742,Estimates,Greece,300,Country/Area,925,2016,10777,116
+12743,Estimates,Greece,300,Country/Area,925,2017,10723,122
+12744,Estimates,Greece,300,Country/Area,925,2018,10662,117
+12745,Estimates,Greece,300,Country/Area,925,2019,10605,121
+12746,Estimates,Greece,300,Country/Area,925,2020,10543,125
+12747,Estimates,Greece,300,Country/Area,925,2021,10481,136
+12880,Estimates,Italy,380,Country/Area,925,2010,59696,580
+12881,Estimates,Italy,380,Country/Area,925,2011,59949,590
+12882,Estimates,Italy,380,Country/Area,925,2012,60103,609
+12883,Estimates,Italy,380,Country/Area,925,2013,60277,595
+12884,Estimates,Italy,380,Country/Area,925,2014,60348,595
+12885,Estimates,Italy,380,Country/Area,925,2015,60298,642
+12886,Estimates,Italy,380,Country/Area,925,2016,60168,614
+12887,Estimates,Italy,380,Country/Area,925,2017,60069,652
+12888,Estimates,Italy,380,Country/Area,925,2018,59939,631
+12889,Estimates,Italy,380,Country/Area,925,2019,59816,616
+12890,Estimates,Italy,380,Country/Area,925,2020,59640,717
+12891,Estimates,Italy,380,Country/Area,925,2021,59361,680
+12952,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2010,1795,8
+12953,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2011,1790,8
+12954,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2012,1808,8
+12955,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2013,1815,8
+12956,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2014,1797,8
+12957,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2015,1759,9
+12958,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2016,1759,9
+12959,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2017,1742,9
+12960,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2018,1721,10
+12961,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2019,1699,9
+12962,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2020,1675,13
+12963,Estimates,Kosovo (under UNSC res. 1244),412,Country/Area,925,2021,1666,12
+13024,Estimates,Malta,470,Country/Area,925,2010,417,3
+13025,Estimates,Malta,470,Country/Area,925,2011,421,3
+13026,Estimates,Malta,470,Country/Area,925,2012,426,3
+13027,Estimates,Malta,470,Country/Area,925,2013,433,3
+13028,Estimates,Malta,470,Country/Area,925,2014,442,3
+13029,Estimates,Malta,470,Country/Area,925,2015,451,3
+13030,Estimates,Malta,470,Country/Area,925,2016,462,3
+13031,Estimates,Malta,470,Country/Area,925,2017,473,3
+13032,Estimates,Malta,470,Country/Area,925,2018,485,3
+13033,Estimates,Malta,470,Country/Area,925,2019,498,4
+13034,Estimates,Malta,470,Country/Area,925,2020,510,4
+13035,Estimates,Malta,470,Country/Area,925,2021,521,4
+13096,Estimates,Montenegro,499,Country/Area,925,2010,631,6
+13097,Estimates,Montenegro,499,Country/Area,925,2011,631,6
+13098,Estimates,Montenegro,499,Country/Area,925,2012,633,6
+13099,Estimates,Montenegro,499,Country/Area,925,2013,634,6
+13100,Estimates,Montenegro,499,Country/Area,925,2014,634,6
+13101,Estimates,Montenegro,499,Country/Area,925,2015,634,6
+13102,Estimates,Montenegro,499,Country/Area,925,2016,634,7
+13103,Estimates,Montenegro,499,Country/Area,925,2017,633,7
+13104,Estimates,Montenegro,499,Country/Area,925,2018,632,7
+13105,Estimates,Montenegro,499,Country/Area,925,2019,631,7
+13106,Estimates,Montenegro,499,Country/Area,925,2020,630,7
+13107,Estimates,Montenegro,499,Country/Area,925,2021,628,8
+13168,Estimates,North Macedonia,807,Country/Area,925,2010,2092,19
+13169,Estimates,North Macedonia,807,Country/Area,925,2011,2096,19
+13170,Estimates,North Macedonia,807,Country/Area,925,2012,2098,20
+13171,Estimates,North Macedonia,807,Country/Area,925,2013,2101,19
+13172,Estimates,North Macedonia,807,Country/Area,925,2014,2104,19
+13173,Estimates,North Macedonia,807,Country/Area,925,2015,2107,20
+13174,Estimates,North Macedonia,807,Country/Area,925,2016,2109,20
+13175,Estimates,North Macedonia,807,Country/Area,925,2017,2111,20
+13176,Estimates,North Macedonia,807,Country/Area,925,2018,2113,19
+13177,Estimates,North Macedonia,807,Country/Area,925,2019,2114,20
+13178,Estimates,North Macedonia,807,Country/Area,925,2020,2114,26
+13179,Estimates,North Macedonia,807,Country/Area,925,2021,2108,29
+13240,Estimates,Portugal,620,Country/Area,925,2010,10597,106
+13241,Estimates,Portugal,620,Country/Area,925,2011,10580,103
+13242,Estimates,Portugal,620,Country/Area,925,2012,10550,108
+13243,Estimates,Portugal,620,Country/Area,925,2013,10495,106
+13244,Estimates,Portugal,620,Country/Area,925,2014,10435,105
+13245,Estimates,Portugal,620,Country/Area,925,2015,10382,109
+13246,Estimates,Portugal,620,Country/Area,925,2016,10349,111
+13247,Estimates,Portugal,620,Country/Area,925,2017,10317,110
+13248,Estimates,Portugal,620,Country/Area,925,2018,10298,113
+13249,Estimates,Portugal,620,Country/Area,925,2019,10281,112
+13250,Estimates,Portugal,620,Country/Area,925,2020,10298,124
+13251,Estimates,Portugal,620,Country/Area,925,2021,10298,124
+13312,Estimates,San Marino,674,Country/Area,925,2010,31,0
+13313,Estimates,San Marino,674,Country/Area,925,2011,32,0
+13314,Estimates,San Marino,674,Country/Area,925,2012,33,0
+13315,Estimates,San Marino,674,Country/Area,925,2013,33,0
+13316,Estimates,San Marino,674,Country/Area,925,2014,33,0
+13317,Estimates,San Marino,674,Country/Area,925,2015,33,0
+13318,Estimates,San Marino,674,Country/Area,925,2016,34,0
+13319,Estimates,San Marino,674,Country/Area,925,2017,34,0
+13320,Estimates,San Marino,674,Country/Area,925,2018,34,0
+13321,Estimates,San Marino,674,Country/Area,925,2019,34,0
+13322,Estimates,San Marino,674,Country/Area,925,2020,34,0
+13323,Estimates,San Marino,674,Country/Area,925,2021,34,0
+13384,Estimates,Serbia,688,Country/Area,925,2010,7670,104
+13385,Estimates,Serbia,688,Country/Area,925,2011,7637,103
+13386,Estimates,Serbia,688,Country/Area,925,2012,7605,103
+13387,Estimates,Serbia,688,Country/Area,925,2013,7578,101
+13388,Estimates,Serbia,688,Country/Area,925,2014,7555,102
+13389,Estimates,Serbia,688,Country/Area,925,2015,7533,104
+13390,Estimates,Serbia,688,Country/Area,925,2016,7506,102
+13391,Estimates,Serbia,688,Country/Area,925,2017,7480,105
+13392,Estimates,Serbia,688,Country/Area,925,2018,7450,104
+13393,Estimates,Serbia,688,Country/Area,925,2019,7418,104
+13394,Estimates,Serbia,688,Country/Area,925,2020,7384,121
+13395,Estimates,Serbia,688,Country/Area,925,2021,7332,138
+13456,Estimates,Slovenia,705,Country/Area,925,2010,2051,18
+13457,Estimates,Slovenia,705,Country/Area,925,2011,2063,18
+13458,Estimates,Slovenia,705,Country/Area,925,2012,2068,19
+13459,Estimates,Slovenia,705,Country/Area,925,2013,2071,19
+13460,Estimates,Slovenia,705,Country/Area,925,2014,2074,19
+13461,Estimates,Slovenia,705,Country/Area,925,2015,2076,20
+13462,Estimates,Slovenia,705,Country/Area,925,2016,2086,20
+13463,Estimates,Slovenia,705,Country/Area,925,2017,2094,20
+13464,Estimates,Slovenia,705,Country/Area,925,2018,2102,21
+13465,Estimates,Slovenia,705,Country/Area,925,2019,2110,21
+13466,Estimates,Slovenia,705,Country/Area,925,2020,2116,24
+13467,Estimates,Slovenia,705,Country/Area,925,2021,2119,23
+13528,Estimates,Spain,724,Country/Area,925,2010,46488,380
+13529,Estimates,Spain,724,Country/Area,925,2011,46657,385
+13530,Estimates,Spain,724,Country/Area,925,2012,46801,401
+13531,Estimates,Spain,724,Country/Area,925,2013,46711,389
+13532,Estimates,Spain,724,Country/Area,925,2014,46496,394
+13533,Estimates,Spain,724,Country/Area,925,2015,46433,420
+13534,Estimates,Spain,724,Country/Area,925,2016,46430,409
+13535,Estimates,Spain,724,Country/Area,925,2017,46517,422
+13536,Estimates,Spain,724,Country/Area,925,2018,46651,425
+13537,Estimates,Spain,724,Country/Area,925,2019,46933,416
+13538,Estimates,Spain,724,Country/Area,925,2020,47330,493
+13539,Estimates,Spain,724,Country/Area,925,2021,47398,454
+13600,Estimates,Western Europe,926,Subregion,908,2010,187669,1786
+13601,Estimates,Western Europe,926,Subregion,908,2011,188383,1771
+13602,Estimates,Western Europe,926,Subregion,908,2012,189109,1827
+13603,Estimates,Western Europe,926,Subregion,908,2013,189812,1853
+13604,Estimates,Western Europe,926,Subregion,908,2014,190527,1809
+13605,Estimates,Western Europe,926,Subregion,908,2015,191355,1922
+13606,Estimates,Western Europe,926,Subregion,908,2016,192125,1900
+13607,Estimates,Western Europe,926,Subregion,908,2017,192934,1944
+13608,Estimates,Western Europe,926,Subregion,908,2018,193627,1926
+13609,Estimates,Western Europe,926,Subregion,908,2019,194267,1914
+13610,Estimates,Western Europe,926,Subregion,908,2020,194878,2094
+13611,Estimates,Western Europe,926,Subregion,908,2021,195237,2122
+13672,Estimates,Austria,40,Country/Area,926,2010,8351,77
+13673,Estimates,Austria,40,Country/Area,926,2011,8375,76
+13674,Estimates,Austria,40,Country/Area,926,2012,8408,79
+13675,Estimates,Austria,40,Country/Area,926,2013,8452,79
+13676,Estimates,Austria,40,Country/Area,926,2014,8508,78
+13677,Estimates,Austria,40,Country/Area,926,2015,8585,83
+13678,Estimates,Austria,40,Country/Area,926,2016,8700,81
+13679,Estimates,Austria,40,Country/Area,926,2017,8773,83
+13680,Estimates,Austria,40,Country/Area,926,2018,8822,84
+13681,Estimates,Austria,40,Country/Area,926,2019,8859,84
+13682,Estimates,Austria,40,Country/Area,926,2020,8901,90
+13683,Estimates,Austria,40,Country/Area,926,2021,8914,90
+13744,Estimates,Belgium,56,Country/Area,926,2010,10839,105
+13745,Estimates,Belgium,56,Country/Area,926,2011,10917,104
+13746,Estimates,Belgium,56,Country/Area,926,2012,10995,109
+13747,Estimates,Belgium,56,Country/Area,926,2013,11068,109
+13748,Estimates,Belgium,56,Country/Area,926,2014,11139,105
+13749,Estimates,Belgium,56,Country/Area,926,2015,11215,111
+13750,Estimates,Belgium,56,Country/Area,926,2016,11282,108
+13751,Estimates,Belgium,56,Country/Area,926,2017,11352,110
+13752,Estimates,Belgium,56,Country/Area,926,2018,11417,111
+13753,Estimates,Belgium,56,Country/Area,926,2019,11480,109
+13754,Estimates,Belgium,56,Country/Area,926,2020,11541,127
+13755,Estimates,Belgium,56,Country/Area,926,2021,11582,110
+13816,Estimates,France,250,Country/Area,926,2010,62273,541
+13817,Estimates,France,250,Country/Area,926,2011,62616,535
+13818,Estimates,France,250,Country/Area,926,2012,62934,559
+13819,Estimates,France,250,Country/Area,926,2013,63209,559
+13820,Estimates,France,250,Country/Area,926,2014,63462,547
+13821,Estimates,France,250,Country/Area,926,2015,63715,582
+13822,Estimates,France,250,Country/Area,926,2016,63904,581
+13823,Estimates,France,250,Country/Area,926,2017,64074,595
+13824,Estimates,France,250,Country/Area,926,2018,64214,597
+13825,Estimates,France,250,Country/Area,926,2019,64342,603
+13826,Estimates,France,250,Country/Area,926,2020,64458,656
+13827,Estimates,France,250,Country/Area,926,2021,64502,640
+13888,Estimates,Germany,276,Country/Area,926,2010,81283,859
+13889,Estimates,Germany,276,Country/Area,926,2011,81367,853
+13890,Estimates,Germany,276,Country/Area,926,2012,81480,870
+13891,Estimates,Germany,276,Country/Area,926,2013,81611,895
+13892,Estimates,Germany,276,Country/Area,926,2014,81750,872
+13893,Estimates,Germany,276,Country/Area,926,2015,81968,927
+13894,Estimates,Germany,276,Country/Area,926,2016,82179,911
+13895,Estimates,Germany,276,Country/Area,926,2017,82484,933
+13896,Estimates,Germany,276,Country/Area,926,2018,82765,908
+13897,Estimates,Germany,276,Country/Area,926,2019,83029,893
+13898,Estimates,Germany,276,Country/Area,926,2020,83268,972
+13899,Estimates,Germany,276,Country/Area,926,2021,83390,1039
+13960,Estimates,Liechtenstein,438,Country/Area,926,2010,36,0
+13961,Estimates,Liechtenstein,438,Country/Area,926,2011,36,0
+13962,Estimates,Liechtenstein,438,Country/Area,926,2012,36,0
+13963,Estimates,Liechtenstein,438,Country/Area,926,2013,37,0
+13964,Estimates,Liechtenstein,438,Country/Area,926,2014,37,0
+13965,Estimates,Liechtenstein,438,Country/Area,926,2015,37,0
+13966,Estimates,Liechtenstein,438,Country/Area,926,2016,37,0
+13967,Estimates,Liechtenstein,438,Country/Area,926,2017,38,0
+13968,Estimates,Liechtenstein,438,Country/Area,926,2018,38,0
+13969,Estimates,Liechtenstein,438,Country/Area,926,2019,38,0
+13970,Estimates,Liechtenstein,438,Country/Area,926,2020,39,0
+13971,Estimates,Liechtenstein,438,Country/Area,926,2021,39,0
+14032,Estimates,Luxembourg,442,Country/Area,926,2010,502,4
+14033,Estimates,Luxembourg,442,Country/Area,926,2011,512,4
+14034,Estimates,Luxembourg,442,Country/Area,926,2012,524,4
+14035,Estimates,Luxembourg,442,Country/Area,926,2013,537,4
+14036,Estimates,Luxembourg,442,Country/Area,926,2014,549,4
+14037,Estimates,Luxembourg,442,Country/Area,926,2015,563,4
+14038,Estimates,Luxembourg,442,Country/Area,926,2016,576,4
+14039,Estimates,Luxembourg,442,Country/Area,926,2017,591,4
+14040,Estimates,Luxembourg,442,Country/Area,926,2018,602,4
+14041,Estimates,Luxembourg,442,Country/Area,926,2019,614,4
+14042,Estimates,Luxembourg,442,Country/Area,926,2020,626,5
+14043,Estimates,Luxembourg,442,Country/Area,926,2021,635,4
+14104,Estimates,Monaco,492,Country/Area,926,2010,33,0
+14105,Estimates,Monaco,492,Country/Area,926,2011,34,0
+14106,Estimates,Monaco,492,Country/Area,926,2012,34,1
+14107,Estimates,Monaco,492,Country/Area,926,2013,35,1
+14108,Estimates,Monaco,492,Country/Area,926,2014,36,1
+14109,Estimates,Monaco,492,Country/Area,926,2015,36,1
+14110,Estimates,Monaco,492,Country/Area,926,2016,37,1
+14111,Estimates,Monaco,492,Country/Area,926,2017,37,1
+14112,Estimates,Monaco,492,Country/Area,926,2018,37,1
+14113,Estimates,Monaco,492,Country/Area,926,2019,37,1
+14114,Estimates,Monaco,492,Country/Area,926,2020,37,1
+14115,Estimates,Monaco,492,Country/Area,926,2021,37,1
+14176,Estimates,Netherlands,528,Country/Area,926,2010,16576,136
+14177,Estimates,Netherlands,528,Country/Area,926,2011,16659,136
+14178,Estimates,Netherlands,528,Country/Area,926,2012,16744,141
+14179,Estimates,Netherlands,528,Country/Area,926,2013,16826,141
+14180,Estimates,Netherlands,528,Country/Area,926,2014,16908,139
+14181,Estimates,Netherlands,528,Country/Area,926,2015,17000,147
+14182,Estimates,Netherlands,528,Country/Area,926,2016,17082,149
+14183,Estimates,Netherlands,528,Country/Area,926,2017,17167,150
+14184,Estimates,Netherlands,528,Country/Area,926,2018,17248,154
+14185,Estimates,Netherlands,528,Country/Area,926,2019,17324,152
+14186,Estimates,Netherlands,528,Country/Area,926,2020,17402,167
+14187,Estimates,Netherlands,528,Country/Area,926,2021,17467,168
+14248,Estimates,Switzerland,756,Country/Area,926,2010,7776,63
+14249,Estimates,Switzerland,756,Country/Area,926,2011,7869,62
+14250,Estimates,Switzerland,756,Country/Area,926,2012,7953,64
+14251,Estimates,Switzerland,756,Country/Area,926,2013,8038,65
+14252,Estimates,Switzerland,756,Country/Area,926,2014,8139,64
+14253,Estimates,Switzerland,756,Country/Area,926,2015,8237,68
+14254,Estimates,Switzerland,756,Country/Area,926,2016,8327,65
+14255,Estimates,Switzerland,756,Country/Area,926,2017,8419,67
+14256,Estimates,Switzerland,756,Country/Area,926,2018,8484,67
+14257,Estimates,Switzerland,756,Country/Area,926,2019,8545,68
+14258,Estimates,Switzerland,756,Country/Area,926,2020,8606,76
+14259,Estimates,Switzerland,756,Country/Area,926,2021,8671,70
+14320,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2010,587264,3695
+14321,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2011,593830,3653
+14322,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2012,600530,3708
+14323,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2013,607108,3750
+14324,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2014,613539,3806
+14325,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2015,619929,3906
+14326,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2016,626224,4038
+14327,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2017,632458,4104
+14328,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2018,638438,4191
+14329,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2019,644170,4257
+14330,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2020,649524,5066
+14331,Estimates,LATIN AMERICA AND THE CARIBBEAN,904,Region,1840,2021,654148,5535
+14392,Estimates,Caribbean,915,Subregion,904,2010,41297,402
+14393,Estimates,Caribbean,915,Subregion,904,2011,41512,317
+14394,Estimates,Caribbean,915,Subregion,904,2012,41809,318
+14395,Estimates,Caribbean,915,Subregion,904,2013,42101,321
+14396,Estimates,Caribbean,915,Subregion,904,2014,42376,326
+14397,Estimates,Caribbean,915,Subregion,904,2015,42632,331
+14398,Estimates,Caribbean,915,Subregion,904,2016,42877,338
+14399,Estimates,Caribbean,915,Subregion,904,2017,43102,345
+14400,Estimates,Caribbean,915,Subregion,904,2018,43316,352
+14401,Estimates,Caribbean,915,Subregion,904,2019,43623,357
+14402,Estimates,Caribbean,915,Subregion,904,2020,43832,373
+14403,Estimates,Caribbean,915,Subregion,904,2021,44092,437
+14464,Estimates,Anguilla,660,Country/Area,915,2010,13,0
+14465,Estimates,Anguilla,660,Country/Area,915,2011,13,0
+14466,Estimates,Anguilla,660,Country/Area,915,2012,13,0
+14467,Estimates,Anguilla,660,Country/Area,915,2013,14,0
+14468,Estimates,Anguilla,660,Country/Area,915,2014,14,0
+14469,Estimates,Anguilla,660,Country/Area,915,2015,14,0
+14470,Estimates,Anguilla,660,Country/Area,915,2016,15,0
+14471,Estimates,Anguilla,660,Country/Area,915,2017,15,0
+14472,Estimates,Anguilla,660,Country/Area,915,2018,15,0
+14473,Estimates,Anguilla,660,Country/Area,915,2019,15,0
+14474,Estimates,Anguilla,660,Country/Area,915,2020,15,0
+14475,Estimates,Anguilla,660,Country/Area,915,2021,16,0
+14536,Estimates,Antigua and Barbuda,28,Country/Area,915,2010,85,0
+14537,Estimates,Antigua and Barbuda,28,Country/Area,915,2011,86,0
+14538,Estimates,Antigua and Barbuda,28,Country/Area,915,2012,87,0
+14539,Estimates,Antigua and Barbuda,28,Country/Area,915,2013,88,0
+14540,Estimates,Antigua and Barbuda,28,Country/Area,915,2014,89,0
+14541,Estimates,Antigua and Barbuda,28,Country/Area,915,2015,90,1
+14542,Estimates,Antigua and Barbuda,28,Country/Area,915,2016,90,1
+14543,Estimates,Antigua and Barbuda,28,Country/Area,915,2017,91,1
+14544,Estimates,Antigua and Barbuda,28,Country/Area,915,2018,91,1
+14545,Estimates,Antigua and Barbuda,28,Country/Area,915,2019,92,1
+14546,Estimates,Antigua and Barbuda,28,Country/Area,915,2020,92,1
+14547,Estimates,Antigua and Barbuda,28,Country/Area,915,2021,93,1
+14608,Estimates,Aruba,533,Country/Area,915,2010,100,1
+14609,Estimates,Aruba,533,Country/Area,915,2011,101,1
+14610,Estimates,Aruba,533,Country/Area,915,2012,102,1
+14611,Estimates,Aruba,533,Country/Area,915,2013,103,1
+14612,Estimates,Aruba,533,Country/Area,915,2014,103,1
+14613,Estimates,Aruba,533,Country/Area,915,2015,104,1
+14614,Estimates,Aruba,533,Country/Area,915,2016,105,1
+14615,Estimates,Aruba,533,Country/Area,915,2017,105,1
+14616,Estimates,Aruba,533,Country/Area,915,2018,106,1
+14617,Estimates,Aruba,533,Country/Area,915,2019,106,1
+14618,Estimates,Aruba,533,Country/Area,915,2020,107,1
+14619,Estimates,Aruba,533,Country/Area,915,2021,107,1
+14680,Estimates,Bahamas,44,Country/Area,915,2010,371,2
+14681,Estimates,Bahamas,44,Country/Area,915,2011,376,2
+14682,Estimates,Bahamas,44,Country/Area,915,2012,380,2
+14683,Estimates,Bahamas,44,Country/Area,915,2013,384,2
+14684,Estimates,Bahamas,44,Country/Area,915,2014,387,3
+14685,Estimates,Bahamas,44,Country/Area,915,2015,391,3
+14686,Estimates,Bahamas,44,Country/Area,915,2016,394,3
+14687,Estimates,Bahamas,44,Country/Area,915,2017,398,3
+14688,Estimates,Bahamas,44,Country/Area,915,2018,400,3
+14689,Estimates,Bahamas,44,Country/Area,915,2019,403,3
+14690,Estimates,Bahamas,44,Country/Area,915,2020,406,3
+14691,Estimates,Bahamas,44,Country/Area,915,2021,407,4
+14752,Estimates,Barbados,52,Country/Area,915,2010,274,2
+14753,Estimates,Barbados,52,Country/Area,915,2011,275,2
+14754,Estimates,Barbados,52,Country/Area,915,2012,276,2
+14755,Estimates,Barbados,52,Country/Area,915,2013,277,2
+14756,Estimates,Barbados,52,Country/Area,915,2014,277,2
+14757,Estimates,Barbados,52,Country/Area,915,2015,278,2
+14758,Estimates,Barbados,52,Country/Area,915,2016,278,2
+14759,Estimates,Barbados,52,Country/Area,915,2017,279,2
+14760,Estimates,Barbados,52,Country/Area,915,2018,279,2
+14761,Estimates,Barbados,52,Country/Area,915,2019,280,2
+14762,Estimates,Barbados,52,Country/Area,915,2020,280,3
+14763,Estimates,Barbados,52,Country/Area,915,2021,281,3
+14824,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2010,20,0
+14825,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2011,21,0
+14826,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2012,21,0
+14827,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2013,22,0
+14828,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2014,22,0
+14829,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2015,23,0
+14830,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2016,23,0
+14831,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2017,24,0
+14832,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2018,25,0
+14833,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2019,25,0
+14834,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2020,26,0
+14835,Estimates,"Bonaire, Sint Eustatius and Saba",535,Country/Area,915,2021,26,0
+14896,Estimates,British Virgin Islands,92,Country/Area,915,2010,27,0
+14897,Estimates,British Virgin Islands,92,Country/Area,915,2011,28,0
+14898,Estimates,British Virgin Islands,92,Country/Area,915,2012,28,0
+14899,Estimates,British Virgin Islands,92,Country/Area,915,2013,29,0
+14900,Estimates,British Virgin Islands,92,Country/Area,915,2014,29,0
+14901,Estimates,British Virgin Islands,92,Country/Area,915,2015,29,0
+14902,Estimates,British Virgin Islands,92,Country/Area,915,2016,30,0
+14903,Estimates,British Virgin Islands,92,Country/Area,915,2017,30,0
+14904,Estimates,British Virgin Islands,92,Country/Area,915,2018,30,0
+14905,Estimates,British Virgin Islands,92,Country/Area,915,2019,30,0
+14906,Estimates,British Virgin Islands,92,Country/Area,915,2020,31,0
+14907,Estimates,British Virgin Islands,92,Country/Area,915,2021,31,0
+14968,Estimates,Cayman Islands,136,Country/Area,915,2010,53,0
+14969,Estimates,Cayman Islands,136,Country/Area,915,2011,55,0
+14970,Estimates,Cayman Islands,136,Country/Area,915,2012,56,0
+14971,Estimates,Cayman Islands,136,Country/Area,915,2013,58,0
+14972,Estimates,Cayman Islands,136,Country/Area,915,2014,59,0
+14973,Estimates,Cayman Islands,136,Country/Area,915,2015,60,0
+14974,Estimates,Cayman Islands,136,Country/Area,915,2016,62,0
+14975,Estimates,Cayman Islands,136,Country/Area,915,2017,63,0
+14976,Estimates,Cayman Islands,136,Country/Area,915,2018,64,0
+14977,Estimates,Cayman Islands,136,Country/Area,915,2019,66,0
+14978,Estimates,Cayman Islands,136,Country/Area,915,2020,67,0
+14979,Estimates,Cayman Islands,136,Country/Area,915,2021,68,0
+15040,Estimates,Cuba,192,Country/Area,915,2010,11287,94
+15041,Estimates,Cuba,192,Country/Area,915,2011,11294,95
+15042,Estimates,Cuba,192,Country/Area,915,2012,11303,97
+15043,Estimates,Cuba,192,Country/Area,915,2013,11315,98
+15044,Estimates,Cuba,192,Country/Area,915,2014,11328,100
+15045,Estimates,Cuba,192,Country/Area,915,2015,11336,103
+15046,Estimates,Cuba,192,Country/Area,915,2016,11344,106
+15047,Estimates,Cuba,192,Country/Area,915,2017,11340,109
+15048,Estimates,Cuba,192,Country/Area,915,2018,11332,111
+15049,Estimates,Cuba,192,Country/Area,915,2019,11324,112
+15050,Estimates,Cuba,192,Country/Area,915,2020,11309,116
+15051,Estimates,Cuba,192,Country/Area,915,2021,11292,165
+15112,Estimates,Curaçao,531,Country/Area,915,2010,158,1
+15113,Estimates,Curaçao,531,Country/Area,915,2011,161,1
+15114,Estimates,Curaçao,531,Country/Area,915,2012,163,1
+15115,Estimates,Curaçao,531,Country/Area,915,2013,165,1
+15116,Estimates,Curaçao,531,Country/Area,915,2014,167,1
+15117,Estimates,Curaçao,531,Country/Area,915,2015,169,1
+15118,Estimates,Curaçao,531,Country/Area,915,2016,170,2
+15119,Estimates,Curaçao,531,Country/Area,915,2017,171,2
+15120,Estimates,Curaçao,531,Country/Area,915,2018,172,2
+15121,Estimates,Curaçao,531,Country/Area,915,2019,198,2
+15122,Estimates,Curaçao,531,Country/Area,915,2020,189,2
+15123,Estimates,Curaçao,531,Country/Area,915,2021,190,2
+15184,Estimates,Dominica,212,Country/Area,915,2010,69,1
+15185,Estimates,Dominica,212,Country/Area,915,2011,69,1
+15186,Estimates,Dominica,212,Country/Area,915,2012,69,1
+15187,Estimates,Dominica,212,Country/Area,915,2013,69,1
+15188,Estimates,Dominica,212,Country/Area,915,2014,69,1
+15189,Estimates,Dominica,212,Country/Area,915,2015,70,1
+15190,Estimates,Dominica,212,Country/Area,915,2016,70,1
+15191,Estimates,Dominica,212,Country/Area,915,2017,70,1
+15192,Estimates,Dominica,212,Country/Area,915,2018,71,1
+15193,Estimates,Dominica,212,Country/Area,915,2019,71,1
+15194,Estimates,Dominica,212,Country/Area,915,2020,72,1
+15195,Estimates,Dominica,212,Country/Area,915,2021,72,1
+15256,Estimates,Dominican Republic,214,Country/Area,915,2010,9712,57
+15257,Estimates,Dominican Republic,214,Country/Area,915,2011,9840,58
+15258,Estimates,Dominican Republic,214,Country/Area,915,2012,9968,58
+15259,Estimates,Dominican Republic,214,Country/Area,915,2013,10094,59
+15260,Estimates,Dominican Republic,214,Country/Area,915,2014,10220,60
+15261,Estimates,Dominican Republic,214,Country/Area,915,2015,10344,61
+15262,Estimates,Dominican Republic,214,Country/Area,915,2016,10467,63
+15263,Estimates,Dominican Republic,214,Country/Area,915,2017,10588,64
+15264,Estimates,Dominican Republic,214,Country/Area,915,2018,10707,65
+15265,Estimates,Dominican Republic,214,Country/Area,915,2019,10824,65
+15266,Estimates,Dominican Republic,214,Country/Area,915,2020,10939,71
+15267,Estimates,Dominican Republic,214,Country/Area,915,2021,11060,74
+15328,Estimates,Grenada,308,Country/Area,915,2010,114,1
+15329,Estimates,Grenada,308,Country/Area,915,2011,114,1
+15330,Estimates,Grenada,308,Country/Area,915,2012,115,1
+15331,Estimates,Grenada,308,Country/Area,915,2013,116,1
+15332,Estimates,Grenada,308,Country/Area,915,2014,117,1
+15333,Estimates,Grenada,308,Country/Area,915,2015,118,1
+15334,Estimates,Grenada,308,Country/Area,915,2016,119,1
+15335,Estimates,Grenada,308,Country/Area,915,2017,120,1
+15336,Estimates,Grenada,308,Country/Area,915,2018,121,1
+15337,Estimates,Grenada,308,Country/Area,915,2019,122,1
+15338,Estimates,Grenada,308,Country/Area,915,2020,123,1
+15339,Estimates,Grenada,308,Country/Area,915,2021,124,1
+15400,Estimates,Guadeloupe,312,Country/Area,915,2010,403,3
+15401,Estimates,Guadeloupe,312,Country/Area,915,2011,403,3
+15402,Estimates,Guadeloupe,312,Country/Area,915,2012,403,3
+15403,Estimates,Guadeloupe,312,Country/Area,915,2013,403,3
+15404,Estimates,Guadeloupe,312,Country/Area,915,2014,402,3
+15405,Estimates,Guadeloupe,312,Country/Area,915,2015,400,3
+15406,Estimates,Guadeloupe,312,Country/Area,915,2016,398,3
+15407,Estimates,Guadeloupe,312,Country/Area,915,2017,397,3
+15408,Estimates,Guadeloupe,312,Country/Area,915,2018,397,3
+15409,Estimates,Guadeloupe,312,Country/Area,915,2019,396,3
+15410,Estimates,Guadeloupe,312,Country/Area,915,2020,395,3
+15411,Estimates,Guadeloupe,312,Country/Area,915,2021,396,4
+15472,Estimates,Haiti,332,Country/Area,915,2010,9809,175
+15473,Estimates,Haiti,332,Country/Area,915,2011,9877,87
+15474,Estimates,Haiti,332,Country/Area,915,2012,10032,86
+15475,Estimates,Haiti,332,Country/Area,915,2013,10185,86
+15476,Estimates,Haiti,332,Country/Area,915,2014,10337,86
+15477,Estimates,Haiti,332,Country/Area,915,2015,10488,87
+15478,Estimates,Haiti,332,Country/Area,915,2016,10639,88
+15479,Estimates,Haiti,332,Country/Area,915,2017,10789,87
+15480,Estimates,Haiti,332,Country/Area,915,2018,10938,88
+15481,Estimates,Haiti,332,Country/Area,915,2019,11086,89
+15482,Estimates,Haiti,332,Country/Area,915,2020,11235,93
+15483,Estimates,Haiti,332,Country/Area,915,2021,11379,99
+15544,Estimates,Jamaica,388,Country/Area,915,2010,2728,16
+15545,Estimates,Jamaica,388,Country/Area,915,2011,2740,16
+15546,Estimates,Jamaica,388,Country/Area,915,2012,2753,16
+15547,Estimates,Jamaica,388,Country/Area,915,2013,2767,16
+15548,Estimates,Jamaica,388,Country/Area,915,2014,2779,17
+15549,Estimates,Jamaica,388,Country/Area,915,2015,2790,19
+15550,Estimates,Jamaica,388,Country/Area,915,2016,2799,20
+15551,Estimates,Jamaica,388,Country/Area,915,2017,2806,20
+15552,Estimates,Jamaica,388,Country/Area,915,2018,2811,21
+15553,Estimates,Jamaica,388,Country/Area,915,2019,2813,21
+15554,Estimates,Jamaica,388,Country/Area,915,2020,2814,21
+15555,Estimates,Jamaica,388,Country/Area,915,2021,2826,25
+15616,Estimates,Martinique,474,Country/Area,915,2010,393,3
+15617,Estimates,Martinique,474,Country/Area,915,2011,391,3
+15618,Estimates,Martinique,474,Country/Area,915,2012,388,3
+15619,Estimates,Martinique,474,Country/Area,915,2013,386,3
+15620,Estimates,Martinique,474,Country/Area,915,2014,384,3
+15621,Estimates,Martinique,474,Country/Area,915,2015,385,3
+15622,Estimates,Martinique,474,Country/Area,915,2016,382,3
+15623,Estimates,Martinique,474,Country/Area,915,2017,379,3
+15624,Estimates,Martinique,474,Country/Area,915,2018,376,3
+15625,Estimates,Martinique,474,Country/Area,915,2019,374,3
+15626,Estimates,Martinique,474,Country/Area,915,2020,371,3
+15627,Estimates,Martinique,474,Country/Area,915,2021,370,4
+15688,Estimates,Montserrat,500,Country/Area,915,2010,5,0
+15689,Estimates,Montserrat,500,Country/Area,915,2011,5,0
+15690,Estimates,Montserrat,500,Country/Area,915,2012,5,0
+15691,Estimates,Montserrat,500,Country/Area,915,2013,5,0
+15692,Estimates,Montserrat,500,Country/Area,915,2014,5,0
+15693,Estimates,Montserrat,500,Country/Area,915,2015,5,0
+15694,Estimates,Montserrat,500,Country/Area,915,2016,5,0
+15695,Estimates,Montserrat,500,Country/Area,915,2017,5,0
+15696,Estimates,Montserrat,500,Country/Area,915,2018,4,0
+15697,Estimates,Montserrat,500,Country/Area,915,2019,4,0
+15698,Estimates,Montserrat,500,Country/Area,915,2020,5,0
+15699,Estimates,Montserrat,500,Country/Area,915,2021,4,0
+15760,Estimates,Puerto Rico,630,Country/Area,915,2010,3730,32
+15761,Estimates,Puerto Rico,630,Country/Area,915,2011,3706,32
+15762,Estimates,Puerto Rico,630,Country/Area,915,2012,3677,32
+15763,Estimates,Puerto Rico,630,Country/Area,915,2013,3639,32
+15764,Estimates,Puerto Rico,630,Country/Area,915,2014,3591,32
+15765,Estimates,Puerto Rico,630,Country/Area,915,2015,3529,31
+15766,Estimates,Puerto Rico,630,Country/Area,915,2016,3466,30
+15767,Estimates,Puerto Rico,630,Country/Area,915,2017,3400,32
+15768,Estimates,Puerto Rico,630,Country/Area,915,2018,3333,33
+15769,Estimates,Puerto Rico,630,Country/Area,915,2019,3306,35
+15770,Estimates,Puerto Rico,630,Country/Area,915,2020,3280,37
+15771,Estimates,Puerto Rico,630,Country/Area,915,2021,3263,33
+15832,Estimates,Saint Barthélemy,652,Country/Area,915,2010,9,0
+15833,Estimates,Saint Barthélemy,652,Country/Area,915,2011,9,0
+15834,Estimates,Saint Barthélemy,652,Country/Area,915,2012,9,0
+15835,Estimates,Saint Barthélemy,652,Country/Area,915,2013,9,0
+15836,Estimates,Saint Barthélemy,652,Country/Area,915,2014,9,0
+15837,Estimates,Saint Barthélemy,652,Country/Area,915,2015,10,0
+15838,Estimates,Saint Barthélemy,652,Country/Area,915,2016,10,0
+15839,Estimates,Saint Barthélemy,652,Country/Area,915,2017,10,0
+15840,Estimates,Saint Barthélemy,652,Country/Area,915,2018,10,0
+15841,Estimates,Saint Barthélemy,652,Country/Area,915,2019,10,0
+15842,Estimates,Saint Barthélemy,652,Country/Area,915,2020,11,0
+15843,Estimates,Saint Barthélemy,652,Country/Area,915,2021,11,0
+15904,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2010,47,0
+15905,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2011,47,0
+15906,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2012,48,0
+15907,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2013,48,0
+15908,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2014,48,0
+15909,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2015,48,0
+15910,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2016,48,0
+15911,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2017,48,0
+15912,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2018,48,0
+15913,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2019,48,0
+15914,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2020,48,0
+15915,Estimates,Saint Kitts and Nevis,659,Country/Area,915,2021,48,0
+15976,Estimates,Saint Lucia,662,Country/Area,915,2010,170,1
+15977,Estimates,Saint Lucia,662,Country/Area,915,2011,172,1
+15978,Estimates,Saint Lucia,662,Country/Area,915,2012,173,1
+15979,Estimates,Saint Lucia,662,Country/Area,915,2013,174,1
+15980,Estimates,Saint Lucia,662,Country/Area,915,2014,174,1
+15981,Estimates,Saint Lucia,662,Country/Area,915,2015,175,1
+15982,Estimates,Saint Lucia,662,Country/Area,915,2016,176,1
+15983,Estimates,Saint Lucia,662,Country/Area,915,2017,177,1
+15984,Estimates,Saint Lucia,662,Country/Area,915,2018,178,1
+15985,Estimates,Saint Lucia,662,Country/Area,915,2019,178,1
+15986,Estimates,Saint Lucia,662,Country/Area,915,2020,179,1
+15987,Estimates,Saint Lucia,662,Country/Area,915,2021,180,2
+16048,Estimates,Saint Martin (French part),663,Country/Area,915,2010,36,0
+16049,Estimates,Saint Martin (French part),663,Country/Area,915,2011,37,0
+16050,Estimates,Saint Martin (French part),663,Country/Area,915,2012,36,0
+16051,Estimates,Saint Martin (French part),663,Country/Area,915,2013,36,0
+16052,Estimates,Saint Martin (French part),663,Country/Area,915,2014,35,0
+16053,Estimates,Saint Martin (French part),663,Country/Area,915,2015,35,0
+16054,Estimates,Saint Martin (French part),663,Country/Area,915,2016,35,0
+16055,Estimates,Saint Martin (French part),663,Country/Area,915,2017,35,0
+16056,Estimates,Saint Martin (French part),663,Country/Area,915,2018,34,0
+16057,Estimates,Saint Martin (French part),663,Country/Area,915,2019,33,0
+16058,Estimates,Saint Martin (French part),663,Country/Area,915,2020,33,0
+16059,Estimates,Saint Martin (French part),663,Country/Area,915,2021,32,0
+16120,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2010,110,1
+16121,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2011,109,1
+16122,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2012,108,1
+16123,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2013,108,1
+16124,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2014,107,1
+16125,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2015,107,1
+16126,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2016,106,1
+16127,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2017,106,1
+16128,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2018,105,1
+16129,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2019,105,1
+16130,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2020,105,1
+16131,Estimates,Saint Vincent and the Grenadines,670,Country/Area,915,2021,105,1
+16192,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2010,33,0
+16193,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2011,33,0
+16194,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2012,33,0
+16195,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2013,37,0
+16196,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2014,39,0
+16197,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2015,40,0
+16198,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2016,41,0
+16199,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2017,42,0
+16200,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2018,42,0
+16201,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2019,43,0
+16202,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2020,43,0
+16203,Estimates,Sint Maarten (Dutch part),534,Country/Area,915,2021,44,0
+16264,Estimates,Trinidad and Tobago,780,Country/Area,915,2010,1406,9
+16265,Estimates,Trinidad and Tobago,780,Country/Area,915,2011,1415,9
+16266,Estimates,Trinidad and Tobago,780,Country/Area,915,2012,1425,9
+16267,Estimates,Trinidad and Tobago,780,Country/Area,915,2013,1436,10
+16268,Estimates,Trinidad and Tobago,780,Country/Area,915,2014,1446,10
+16269,Estimates,Trinidad and Tobago,780,Country/Area,915,2015,1456,10
+16270,Estimates,Trinidad and Tobago,780,Country/Area,915,2016,1465,10
+16271,Estimates,Trinidad and Tobago,780,Country/Area,915,2017,1474,11
+16272,Estimates,Trinidad and Tobago,780,Country/Area,915,2018,1483,12
+16273,Estimates,Trinidad and Tobago,780,Country/Area,915,2019,1526,12
+16274,Estimates,Trinidad and Tobago,780,Country/Area,915,2020,1514,12
+16275,Estimates,Trinidad and Tobago,780,Country/Area,915,2021,1522,14
+16336,Estimates,Turks and Caicos Islands,796,Country/Area,915,2010,29,0
+16337,Estimates,Turks and Caicos Islands,796,Country/Area,915,2011,30,0
+16338,Estimates,Turks and Caicos Islands,796,Country/Area,915,2012,31,0
+16339,Estimates,Turks and Caicos Islands,796,Country/Area,915,2013,33,0
+16340,Estimates,Turks and Caicos Islands,796,Country/Area,915,2014,34,0
+16341,Estimates,Turks and Caicos Islands,796,Country/Area,915,2015,36,0
+16342,Estimates,Turks and Caicos Islands,796,Country/Area,915,2016,37,0
+16343,Estimates,Turks and Caicos Islands,796,Country/Area,915,2017,39,0
+16344,Estimates,Turks and Caicos Islands,796,Country/Area,915,2018,41,0
+16345,Estimates,Turks and Caicos Islands,796,Country/Area,915,2019,42,0
+16346,Estimates,Turks and Caicos Islands,796,Country/Area,915,2020,44,0
+16347,Estimates,Turks and Caicos Islands,796,Country/Area,915,2021,45,0
+16408,Estimates,United States Virgin Islands,850,Country/Area,915,2010,106,1
+16409,Estimates,United States Virgin Islands,850,Country/Area,915,2011,106,1
+16410,Estimates,United States Virgin Islands,850,Country/Area,915,2012,105,1
+16411,Estimates,United States Virgin Islands,850,Country/Area,915,2013,104,1
+16412,Estimates,United States Virgin Islands,850,Country/Area,915,2014,104,1
+16413,Estimates,United States Virgin Islands,850,Country/Area,915,2015,103,1
+16414,Estimates,United States Virgin Islands,850,Country/Area,915,2016,103,1
+16415,Estimates,United States Virgin Islands,850,Country/Area,915,2017,102,1
+16416,Estimates,United States Virgin Islands,850,Country/Area,915,2018,102,1
+16417,Estimates,United States Virgin Islands,850,Country/Area,915,2019,101,1
+16418,Estimates,United States Virgin Islands,850,Country/Area,915,2020,101,1
+16419,Estimates,United States Virgin Islands,850,Country/Area,915,2021,100,1
+16480,Estimates,Central America,916,Subregion,904,2010,154916,851
+16481,Estimates,Central America,916,Subregion,904,2011,157212,862
+16482,Estimates,Central America,916,Subregion,904,2012,159557,880
+16483,Estimates,Central America,916,Subregion,904,2013,161837,899
+16484,Estimates,Central America,916,Subregion,904,2014,164036,926
+16485,Estimates,Central America,916,Subregion,904,2015,166166,961
+16486,Estimates,Central America,916,Subregion,904,2016,168209,1007
+16487,Estimates,Central America,916,Subregion,904,2017,170290,1057
+16488,Estimates,Central America,916,Subregion,904,2018,172223,1100
+16489,Estimates,Central America,916,Subregion,904,2019,173964,1123
+16490,Estimates,Central America,916,Subregion,904,2020,175637,1466
+16491,Estimates,Central America,916,Subregion,904,2021,177050,1518
+16552,Estimates,Belize,84,Country/Area,916,2010,318,1
+16553,Estimates,Belize,84,Country/Area,916,2011,326,2
+16554,Estimates,Belize,84,Country/Area,916,2012,333,1
+16555,Estimates,Belize,84,Country/Area,916,2013,341,2
+16556,Estimates,Belize,84,Country/Area,916,2014,349,2
+16557,Estimates,Belize,84,Country/Area,916,2015,356,2
+16558,Estimates,Belize,84,Country/Area,916,2016,364,2
+16559,Estimates,Belize,84,Country/Area,916,2017,371,2
+16560,Estimates,Belize,84,Country/Area,916,2018,378,2
+16561,Estimates,Belize,84,Country/Area,916,2019,386,2
+16562,Estimates,Belize,84,Country/Area,916,2020,392,2
+16563,Estimates,Belize,84,Country/Area,916,2021,397,3
+16624,Estimates,Costa Rica,188,Country/Area,916,2010,4593,21
+16625,Estimates,Costa Rica,188,Country/Area,916,2011,4651,20
+16626,Estimates,Costa Rica,188,Country/Area,916,2012,4709,21
+16627,Estimates,Costa Rica,188,Country/Area,916,2013,4764,22
+16628,Estimates,Costa Rica,188,Country/Area,916,2014,4819,24
+16629,Estimates,Costa Rica,188,Country/Area,916,2015,4870,25
+16630,Estimates,Costa Rica,188,Country/Area,916,2016,4920,25
+16631,Estimates,Costa Rica,188,Country/Area,916,2017,4970,26
+16632,Estimates,Costa Rica,188,Country/Area,916,2018,5018,27
+16633,Estimates,Costa Rica,188,Country/Area,916,2019,5064,28
+16634,Estimates,Costa Rica,188,Country/Area,916,2020,5105,29
+16635,Estimates,Costa Rica,188,Country/Area,916,2021,5141,37
+16696,Estimates,El Salvador,222,Country/Area,916,2010,6102,42
+16697,Estimates,El Salvador,222,Country/Area,916,2011,6126,42
+16698,Estimates,El Salvador,222,Country/Area,916,2012,6149,44
+16699,Estimates,El Salvador,222,Country/Area,916,2013,6173,44
+16700,Estimates,El Salvador,222,Country/Area,916,2014,6198,45
+16701,Estimates,El Salvador,222,Country/Area,916,2015,6221,44
+16702,Estimates,El Salvador,222,Country/Area,916,2016,6241,43
+16703,Estimates,El Salvador,222,Country/Area,916,2017,6260,43
+16704,Estimates,El Salvador,222,Country/Area,916,2018,6273,44
+16705,Estimates,El Salvador,222,Country/Area,916,2019,6280,47
+16706,Estimates,El Salvador,222,Country/Area,916,2020,6281,53
+16707,Estimates,El Salvador,222,Country/Area,916,2021,6305,55
+16768,Estimates,Guatemala,320,Country/Area,916,2010,14399,77
+16769,Estimates,Guatemala,320,Country/Area,916,2011,14687,78
+16770,Estimates,Guatemala,320,Country/Area,916,2012,14980,78
+16771,Estimates,Guatemala,320,Country/Area,916,2013,15277,79
+16772,Estimates,Guatemala,320,Country/Area,916,2014,15569,80
+16773,Estimates,Guatemala,320,Country/Area,916,2015,15859,81
+16774,Estimates,Guatemala,320,Country/Area,916,2016,16143,82
+16775,Estimates,Guatemala,320,Country/Area,916,2017,16439,83
+16776,Estimates,Guatemala,320,Country/Area,916,2018,16719,84
+16777,Estimates,Guatemala,320,Country/Area,916,2019,16982,84
+16778,Estimates,Guatemala,320,Country/Area,916,2020,17231,93
+16779,Estimates,Guatemala,320,Country/Area,916,2021,17494,115
+16840,Estimates,Honduras,340,Country/Area,916,2010,8365,37
+16841,Estimates,Honduras,340,Country/Area,916,2011,8537,37
+16842,Estimates,Honduras,340,Country/Area,916,2012,8708,37
+16843,Estimates,Honduras,340,Country/Area,916,2013,8877,38
+16844,Estimates,Honduras,340,Country/Area,916,2014,9044,38
+16845,Estimates,Honduras,340,Country/Area,916,2015,9211,39
+16846,Estimates,Honduras,340,Country/Area,916,2016,9378,40
+16847,Estimates,Honduras,340,Country/Area,916,2017,9544,41
+16848,Estimates,Honduras,340,Country/Area,916,2018,9710,42
+16849,Estimates,Honduras,340,Country/Area,916,2019,9876,43
+16850,Estimates,Honduras,340,Country/Area,916,2020,10042,50
+16851,Estimates,Honduras,340,Country/Area,916,2021,10202,58
+16912,Estimates,Mexico,484,Country/Area,916,2010,111734,630
+16913,Estimates,Mexico,484,Country/Area,916,2011,113331,639
+16914,Estimates,Mexico,484,Country/Area,916,2012,114970,653
+16915,Estimates,Mexico,484,Country/Area,916,2013,116542,668
+16916,Estimates,Mexico,484,Country/Area,916,2014,118039,690
+16917,Estimates,Mexico,484,Country/Area,916,2015,119472,722
+16918,Estimates,Mexico,484,Country/Area,916,2016,120827,766
+16919,Estimates,Mexico,484,Country/Area,916,2017,122211,812
+16920,Estimates,Mexico,484,Country/Area,916,2018,123468,850
+16921,Estimates,Mexico,484,Country/Area,916,2019,124560,867
+16922,Estimates,Mexico,484,Country/Area,916,2020,125610,1176
+16923,Estimates,Mexico,484,Country/Area,916,2021,126386,1192
+16984,Estimates,Nicaragua,558,Country/Area,916,2010,5813,26
+16985,Estimates,Nicaragua,558,Country/Area,916,2011,5899,26
+16986,Estimates,Nicaragua,558,Country/Area,916,2012,5986,27
+16987,Estimates,Nicaragua,558,Country/Area,916,2013,6075,28
+16988,Estimates,Nicaragua,558,Country/Area,916,2014,6164,29
+16989,Estimates,Nicaragua,558,Country/Area,916,2015,6253,29
+16990,Estimates,Nicaragua,558,Country/Area,916,2016,6344,30
+16991,Estimates,Nicaragua,558,Country/Area,916,2017,6435,30
+16992,Estimates,Nicaragua,558,Country/Area,916,2018,6526,30
+16993,Estimates,Nicaragua,558,Country/Area,916,2019,6618,31
+16994,Estimates,Nicaragua,558,Country/Area,916,2020,6710,39
+16995,Estimates,Nicaragua,558,Country/Area,916,2021,6802,33
+17056,Estimates,Panama,591,Country/Area,916,2010,3591,17
+17057,Estimates,Panama,591,Country/Area,916,2011,3656,18
+17058,Estimates,Panama,591,Country/Area,916,2012,3722,18
+17059,Estimates,Panama,591,Country/Area,916,2013,3788,18
+17060,Estimates,Panama,591,Country/Area,916,2014,3855,19
+17061,Estimates,Panama,591,Country/Area,916,2015,3923,19
+17062,Estimates,Panama,591,Country/Area,916,2016,3992,20
+17063,Estimates,Panama,591,Country/Area,916,2017,4061,20
+17064,Estimates,Panama,591,Country/Area,916,2018,4131,21
+17065,Estimates,Panama,591,Country/Area,916,2019,4200,22
+17066,Estimates,Panama,591,Country/Area,916,2020,4266,25
+17067,Estimates,Panama,591,Country/Area,916,2021,4323,26
+17128,Estimates,South America,931,Subregion,904,2010,391051,2441
+17129,Estimates,South America,931,Subregion,904,2011,395106,2474
+17130,Estimates,South America,931,Subregion,904,2012,399164,2509
+17131,Estimates,South America,931,Subregion,904,2013,403169,2530
+17132,Estimates,South America,931,Subregion,904,2014,407126,2555
+17133,Estimates,South America,931,Subregion,904,2015,411131,2614
+17134,Estimates,South America,931,Subregion,904,2016,415138,2694
+17135,Estimates,South America,931,Subregion,904,2017,419066,2702
+17136,Estimates,South America,931,Subregion,904,2018,422899,2740
+17137,Estimates,South America,931,Subregion,904,2019,426582,2777
+17138,Estimates,South America,931,Subregion,904,2020,430054,3227
+17139,Estimates,South America,931,Subregion,904,2021,433006,3579
+17200,Estimates,Argentina,32,Country/Area,931,2010,40893,315
+17201,Estimates,Argentina,32,Country/Area,931,2011,41307,312
+17202,Estimates,Argentina,32,Country/Area,931,2012,41734,310
+17203,Estimates,Argentina,32,Country/Area,931,2013,42171,318
+17204,Estimates,Argentina,32,Country/Area,931,2014,42606,319
+17205,Estimates,Argentina,32,Country/Area,931,2015,43042,326
+17206,Estimates,Argentina,32,Country/Area,931,2016,43472,347
+17207,Estimates,Argentina,32,Country/Area,931,2017,43865,339
+17208,Estimates,Argentina,32,Country/Area,931,2018,44245,341
+17209,Estimates,Argentina,32,Country/Area,931,2019,44583,340
+17210,Estimates,Argentina,32,Country/Area,931,2020,44908,383
+17211,Estimates,Argentina,32,Country/Area,931,2021,45164,405
+17272,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2010,10137,78
+17273,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2011,10310,78
+17274,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2012,10483,79
+17275,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2013,10656,79
+17276,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2014,10830,79
+17277,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2015,11004,80
+17278,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2016,11176,80
+17279,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2017,11350,81
+17280,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2018,11522,83
+17281,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2019,11692,84
+17282,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2020,11862,111
+17283,Estimates,Bolivia (Plurinational State of),68,Country/Area,931,2021,12010,120
+17344,Estimates,Brazil,76,Country/Area,931,2010,195433,1217
+17345,Estimates,Brazil,76,Country/Area,931,2011,197274,1245
+17346,Estimates,Brazil,76,Country/Area,931,2012,199096,1268
+17347,Estimates,Brazil,76,Country/Area,931,2013,200859,1273
+17348,Estimates,Brazil,76,Country/Area,931,2014,202584,1276
+17349,Estimates,Brazil,76,Country/Area,931,2015,204335,1320
+17350,Estimates,Brazil,76,Country/Area,931,2016,206042,1352
+17351,Estimates,Brazil,76,Country/Area,931,2017,207678,1354
+17352,Estimates,Brazil,76,Country/Area,931,2018,209332,1369
+17353,Estimates,Brazil,76,Country/Area,931,2019,211001,1391
+17354,Estimates,Brazil,76,Country/Area,931,2020,212565,1581
+17355,Estimates,Brazil,76,Country/Area,931,2021,213828,1784
+17416,Estimates,Chile,152,Country/Area,931,2010,16920,101
+17417,Estimates,Chile,152,Country/Area,931,2011,17088,100
+17418,Estimates,Chile,152,Country/Area,931,2012,17259,105
+17419,Estimates,Chile,152,Country/Area,931,2013,17425,106
+17420,Estimates,Chile,152,Country/Area,931,2014,17595,108
+17421,Estimates,Chile,152,Country/Area,931,2015,17779,109
+17422,Estimates,Chile,152,Country/Area,931,2016,17961,110
+17423,Estimates,Chile,152,Country/Area,931,2017,18207,112
+17424,Estimates,Chile,152,Country/Area,931,2018,18531,118
+17425,Estimates,Chile,152,Country/Area,931,2019,18872,120
+17426,Estimates,Chile,152,Country/Area,931,2020,19207,139
+17427,Estimates,Chile,152,Country/Area,931,2021,19394,144
+17488,Estimates,Colombia,170,Country/Area,931,2010,44565,221
+17489,Estimates,Colombia,170,Country/Area,931,2011,45068,224
+17490,Estimates,Colombia,170,Country/Area,931,2012,45550,228
+17491,Estimates,Colombia,170,Country/Area,931,2013,46015,233
+17492,Estimates,Colombia,170,Country/Area,931,2014,46461,238
+17493,Estimates,Colombia,170,Country/Area,931,2015,46895,244
+17494,Estimates,Colombia,170,Country/Area,931,2016,47345,248
+17495,Estimates,Colombia,170,Country/Area,931,2017,47907,253
+17496,Estimates,Colombia,170,Country/Area,931,2018,48796,260
+17497,Estimates,Colombia,170,Country/Area,931,2019,49758,271
+17498,Estimates,Colombia,170,Country/Area,931,2020,50617,336
+17499,Estimates,Colombia,170,Country/Area,931,2021,51244,398
+17560,Estimates,Ecuador,218,Country/Area,931,2010,14866,73
+17561,Estimates,Ecuador,218,Country/Area,931,2011,15113,74
+17562,Estimates,Ecuador,218,Country/Area,931,2012,15362,74
+17563,Estimates,Ecuador,218,Country/Area,931,2013,15605,75
+17564,Estimates,Ecuador,218,Country/Area,931,2014,15840,76
+17565,Estimates,Ecuador,218,Country/Area,931,2015,16075,77
+17566,Estimates,Ecuador,218,Country/Area,931,2016,16316,80
+17567,Estimates,Ecuador,218,Country/Area,931,2017,16563,81
+17568,Estimates,Ecuador,218,Country/Area,931,2018,16831,83
+17569,Estimates,Ecuador,218,Country/Area,931,2019,17200,85
+17570,Estimates,Ecuador,218,Country/Area,931,2020,17487,132
+17571,Estimates,Ecuador,218,Country/Area,931,2021,17690,119
+17632,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2010,3,0
+17633,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2011,3,0
+17634,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2012,3,0
+17635,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2013,3,0
+17636,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2014,3,0
+17637,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2015,3,0
+17638,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2016,3,0
+17639,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2017,4,0
+17640,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2018,4,0
+17641,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2019,4,0
+17642,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2020,4,0
+17643,Estimates,Falkland Islands (Malvinas),238,Country/Area,931,2021,4,0
+17704,Estimates,French Guiana,254,Country/Area,931,2010,226,1
+17705,Estimates,French Guiana,254,Country/Area,931,2011,231,1
+17706,Estimates,French Guiana,254,Country/Area,931,2012,236,1
+17707,Estimates,French Guiana,254,Country/Area,931,2013,242,1
+17708,Estimates,French Guiana,254,Country/Area,931,2014,249,1
+17709,Estimates,French Guiana,254,Country/Area,931,2015,254,1
+17710,Estimates,French Guiana,254,Country/Area,931,2016,260,1
+17711,Estimates,French Guiana,254,Country/Area,931,2017,266,1
+17712,Estimates,French Guiana,254,Country/Area,931,2018,273,1
+17713,Estimates,French Guiana,254,Country/Area,931,2019,280,1
+17714,Estimates,French Guiana,254,Country/Area,931,2020,288,1
+17715,Estimates,French Guiana,254,Country/Area,931,2021,294,1
+17776,Estimates,Guyana,328,Country/Area,931,2010,750,6
+17777,Estimates,Guyana,328,Country/Area,931,2011,746,6
+17778,Estimates,Guyana,328,Country/Area,931,2012,742,6
+17779,Estimates,Guyana,328,Country/Area,931,2013,746,6
+17780,Estimates,Guyana,328,Country/Area,931,2014,749,6
+17781,Estimates,Guyana,328,Country/Area,931,2015,753,6
+17782,Estimates,Guyana,328,Country/Area,931,2016,757,6
+17783,Estimates,Guyana,328,Country/Area,931,2017,761,6
+17784,Estimates,Guyana,328,Country/Area,931,2018,765,6
+17785,Estimates,Guyana,328,Country/Area,931,2019,806,6
+17786,Estimates,Guyana,328,Country/Area,931,2020,792,6
+17787,Estimates,Guyana,328,Country/Area,931,2021,803,8
+17848,Estimates,Paraguay,600,Country/Area,931,2010,5732,32
+17849,Estimates,Paraguay,600,Country/Area,931,2011,5805,32
+17850,Estimates,Paraguay,600,Country/Area,931,2012,5883,32
+17851,Estimates,Paraguay,600,Country/Area,931,2013,5964,33
+17852,Estimates,Paraguay,600,Country/Area,931,2014,6048,33
+17853,Estimates,Paraguay,600,Country/Area,931,2015,6134,34
+17854,Estimates,Paraguay,600,Country/Area,931,2016,6222,34
+17855,Estimates,Paraguay,600,Country/Area,931,2017,6311,35
+17856,Estimates,Paraguay,600,Country/Area,931,2018,6400,36
+17857,Estimates,Paraguay,600,Country/Area,931,2019,6487,37
+17858,Estimates,Paraguay,600,Country/Area,931,2020,6573,39
+17859,Estimates,Paraguay,600,Country/Area,931,2021,6664,51
+17920,Estimates,Peru,604,Country/Area,931,2010,29112,202
+17921,Estimates,Peru,604,Country/Area,931,2011,29347,203
+17922,Estimates,Peru,604,Country/Area,931,2012,29609,202
+17923,Estimates,Peru,604,Country/Area,931,2013,29890,201
+17924,Estimates,Peru,604,Country/Area,931,2014,30187,201
+17925,Estimates,Peru,604,Country/Area,931,2015,30521,198
+17926,Estimates,Peru,604,Country/Area,931,2016,30903,196
+17927,Estimates,Peru,604,Country/Area,931,2017,31363,195
+17928,Estimates,Peru,604,Country/Area,931,2018,31848,196
+17929,Estimates,Peru,604,Country/Area,931,2019,32559,197
+17930,Estimates,Peru,604,Country/Area,931,2020,33090,244
+17931,Estimates,Peru,604,Country/Area,931,2021,33519,269
+17992,Estimates,Suriname,740,Country/Area,931,2010,543,4
+17993,Estimates,Suriname,740,Country/Area,931,2011,549,4
+17994,Estimates,Suriname,740,Country/Area,931,2012,555,4
+17995,Estimates,Suriname,740,Country/Area,931,2013,561,4
+17996,Estimates,Suriname,740,Country/Area,931,2014,567,4
+17997,Estimates,Suriname,740,Country/Area,931,2015,573,4
+17998,Estimates,Suriname,740,Country/Area,931,2016,578,4
+17999,Estimates,Suriname,740,Country/Area,931,2017,584,4
+18000,Estimates,Suriname,740,Country/Area,931,2018,591,4
+18001,Estimates,Suriname,740,Country/Area,931,2019,597,4
+18002,Estimates,Suriname,740,Country/Area,931,2020,604,4
+18003,Estimates,Suriname,740,Country/Area,931,2021,610,5
+18064,Estimates,Uruguay,858,Country/Area,931,2010,3348,31
+18065,Estimates,Uruguay,858,Country/Area,931,2011,3357,32
+18066,Estimates,Uruguay,858,Country/Area,931,2012,3366,32
+18067,Estimates,Uruguay,858,Country/Area,931,2013,3376,32
+18068,Estimates,Uruguay,858,Country/Area,931,2014,3386,32
+18069,Estimates,Uruguay,858,Country/Area,931,2015,3397,33
+18070,Estimates,Uruguay,858,Country/Area,931,2016,3409,33
+18071,Estimates,Uruguay,858,Country/Area,931,2017,3419,33
+18072,Estimates,Uruguay,858,Country/Area,931,2018,3426,34
+18073,Estimates,Uruguay,858,Country/Area,931,2019,3429,34
+18074,Estimates,Uruguay,858,Country/Area,931,2020,3428,32
+18075,Estimates,Uruguay,858,Country/Area,931,2021,3430,42
+18136,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2010,28522,160
+18137,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2011,28908,165
+18138,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2012,29285,168
+18139,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2013,29656,171
+18140,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2014,30020,180
+18141,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2015,30367,183
+18142,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2016,30693,203
+18143,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2017,30790,209
+18144,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2018,30337,209
+18145,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2019,29315,207
+18146,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2020,28629,218
+18147,Estimates,Venezuela (Bolivarian Republic of),862,Country/Area,931,2021,28352,231
+18208,Estimates,NORTHERN AMERICA,905,Region,1840,2010,343793,2711
+18209,Estimates,NORTHERN AMERICA,905,Region,1840,2011,346751,2763
+18210,Estimates,NORTHERN AMERICA,905,Region,1840,2012,349901,2794
+18211,Estimates,NORTHERN AMERICA,905,Region,1840,2013,353037,2852
+18212,Estimates,NORTHERN AMERICA,905,Region,1840,2014,356092,2885
+18213,Estimates,NORTHERN AMERICA,905,Region,1840,2015,359036,2965
+18214,Estimates,NORTHERN AMERICA,905,Region,1840,2016,361894,2988
+18215,Estimates,NORTHERN AMERICA,905,Region,1840,2017,365004,3050
+18216,Estimates,NORTHERN AMERICA,905,Region,1840,2018,367938,3065
+18217,Estimates,NORTHERN AMERICA,905,Region,1840,2019,370664,3063
+18218,Estimates,NORTHERN AMERICA,905,Region,1840,2020,373272,3544
+18219,Estimates,NORTHERN AMERICA,905,Region,1840,2021,374641,3579
+18280,Estimates,Bermuda,60,Country/Area,905,2010,63,0
+18281,Estimates,Bermuda,60,Country/Area,905,2011,64,0
+18282,Estimates,Bermuda,60,Country/Area,905,2012,64,0
+18283,Estimates,Bermuda,60,Country/Area,905,2013,64,1
+18284,Estimates,Bermuda,60,Country/Area,905,2014,63,1
+18285,Estimates,Bermuda,60,Country/Area,905,2015,63,1
+18286,Estimates,Bermuda,60,Country/Area,905,2016,63,1
+18287,Estimates,Bermuda,60,Country/Area,905,2017,63,0
+18288,Estimates,Bermuda,60,Country/Area,905,2018,63,1
+18289,Estimates,Bermuda,60,Country/Area,905,2019,64,1
+18290,Estimates,Bermuda,60,Country/Area,905,2020,64,1
+18291,Estimates,Bermuda,60,Country/Area,905,2021,64,1
+18352,Estimates,Canada,124,Country/Area,905,2010,33783,240
+18353,Estimates,Canada,124,Country/Area,905,2011,34144,243
+18354,Estimates,Canada,124,Country/Area,905,2012,34503,246
+18355,Estimates,Canada,124,Country/Area,905,2013,34880,252
+18356,Estimates,Canada,124,Country/Area,905,2014,35247,259
+18357,Estimates,Canada,124,Country/Area,905,2015,35562,264
+18358,Estimates,Canada,124,Country/Area,905,2016,35902,267
+18359,Estimates,Canada,124,Country/Area,905,2017,36325,276
+18360,Estimates,Canada,124,Country/Area,905,2018,36784,284
+18361,Estimates,Canada,124,Country/Area,905,2019,37287,284
+18362,Estimates,Canada,124,Country/Area,905,2020,37758,305
+18363,Estimates,Canada,124,Country/Area,905,2021,38019,297
+18424,Estimates,Greenland,304,Country/Area,905,2010,56,0
+18425,Estimates,Greenland,304,Country/Area,905,2011,56,0
+18426,Estimates,Greenland,304,Country/Area,905,2012,56,0
+18427,Estimates,Greenland,304,Country/Area,905,2013,56,0
+18428,Estimates,Greenland,304,Country/Area,905,2014,56,0
+18429,Estimates,Greenland,304,Country/Area,905,2015,56,0
+18430,Estimates,Greenland,304,Country/Area,905,2016,56,0
+18431,Estimates,Greenland,304,Country/Area,905,2017,56,0
+18432,Estimates,Greenland,304,Country/Area,905,2018,56,0
+18433,Estimates,Greenland,304,Country/Area,905,2019,56,0
+18434,Estimates,Greenland,304,Country/Area,905,2020,56,0
+18435,Estimates,Greenland,304,Country/Area,905,2021,56,0
+18496,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2010,6,0
+18497,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2011,6,0
+18498,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2012,6,0
+18499,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2013,6,0
+18500,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2014,6,0
+18501,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2015,6,0
+18502,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2016,6,0
+18503,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2017,6,0
+18504,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2018,6,0
+18505,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2019,6,0
+18506,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2020,6,0
+18507,Estimates,Saint Pierre and Miquelon,666,Country/Area,905,2021,6,0
+18568,Estimates,United States of America,840,Country/Area,905,2010,309884,2470
+18569,Estimates,United States of America,840,Country/Area,905,2011,312482,2519
+18570,Estimates,United States of America,840,Country/Area,905,2012,315272,2546
+18571,Estimates,United States of America,840,Country/Area,905,2013,318031,2599
+18572,Estimates,United States of America,840,Country/Area,905,2014,320719,2625
+18573,Estimates,United States of America,840,Country/Area,905,2015,323349,2700
+18574,Estimates,United States of America,840,Country/Area,905,2016,325867,2720
+18575,Estimates,United States of America,840,Country/Area,905,2017,328553,2772
+18576,Estimates,United States of America,840,Country/Area,905,2018,331029,2780
+18577,Estimates,United States of America,840,Country/Area,905,2019,333251,2778
+18578,Estimates,United States of America,840,Country/Area,905,2020,335388,3239
+18579,Estimates,United States of America,840,Country/Area,905,2021,336496,3281
+18640,Estimates,OCEANIA,909,Region,1840,2010,36792,243
+18641,Estimates,OCEANIA,909,Region,1840,2011,37414,249
+18642,Estimates,OCEANIA,909,Region,1840,2012,38047,253
+18643,Estimates,OCEANIA,909,Region,1840,2013,38720,253
+18644,Estimates,OCEANIA,909,Region,1840,2014,39395,260
+18645,Estimates,OCEANIA,909,Region,1840,2015,40063,264
+18646,Estimates,OCEANIA,909,Region,1840,2016,40743,268
+18647,Estimates,OCEANIA,909,Region,1840,2017,41459,271
+18648,Estimates,OCEANIA,909,Region,1840,2018,42175,271
+18649,Estimates,OCEANIA,909,Region,1840,2019,42904,281
+18650,Estimates,OCEANIA,909,Region,1840,2020,43652,278
+18651,Estimates,OCEANIA,909,Region,1840,2021,44215,289
+18712,Estimates,Australia/New Zealand,927,Subregion,909,2010,26183,171
+18713,Estimates,Australia/New Zealand,927,Subregion,909,2011,26548,177
+18714,Estimates,Australia/New Zealand,927,Subregion,909,2012,26928,179
+18715,Estimates,Australia/New Zealand,927,Subregion,909,2013,27351,178
+18716,Estimates,Australia/New Zealand,927,Subregion,909,2014,27774,184
+18717,Estimates,Australia/New Zealand,927,Subregion,909,2015,28193,187
+18718,Estimates,Australia/New Zealand,927,Subregion,909,2016,28628,189
+18719,Estimates,Australia/New Zealand,927,Subregion,909,2017,29099,192
+18720,Estimates,Australia/New Zealand,927,Subregion,909,2018,29574,190
+18721,Estimates,Australia/New Zealand,927,Subregion,909,2019,30062,199
+18722,Estimates,Australia/New Zealand,927,Subregion,909,2020,30571,195
+18723,Estimates,Australia/New Zealand,927,Subregion,909,2021,30892,200
+18784,Estimates,Australia,36,Country/Area,927,2010,21857,143
+18785,Estimates,Australia,36,Country/Area,927,2011,22181,146
+18786,Estimates,Australia,36,Country/Area,927,2012,22533,149
+18787,Estimates,Australia,36,Country/Area,927,2013,22926,148
+18788,Estimates,Australia,36,Country/Area,927,2014,23298,154
+18789,Estimates,Australia,36,Country/Area,927,2015,23641,157
+18790,Estimates,Australia,36,Country/Area,927,2016,23999,158
+18791,Estimates,Australia,36,Country/Area,927,2017,24392,161
+18792,Estimates,Australia,36,Country/Area,927,2018,24788,159
+18793,Estimates,Australia,36,Country/Area,927,2019,25170,167
+18794,Estimates,Australia,36,Country/Area,927,2020,25544,163
+18795,Estimates,Australia,36,Country/Area,927,2021,25796,166
+18856,Estimates,New Zealand,554,Country/Area,927,2010,4326,28
+18857,Estimates,New Zealand,554,Country/Area,927,2011,4367,30
+18858,Estimates,New Zealand,554,Country/Area,927,2012,4396,30
+18859,Estimates,New Zealand,554,Country/Area,927,2013,4425,29
+18860,Estimates,New Zealand,554,Country/Area,927,2014,4476,30
+18861,Estimates,New Zealand,554,Country/Area,927,2015,4552,30
+18862,Estimates,New Zealand,554,Country/Area,927,2016,4629,31
+18863,Estimates,New Zealand,554,Country/Area,927,2017,4707,31
+18864,Estimates,New Zealand,554,Country/Area,927,2018,4785,31
+18865,Estimates,New Zealand,554,Country/Area,927,2019,4892,32
+18866,Estimates,New Zealand,554,Country/Area,927,2020,5026,32
+18867,Estimates,New Zealand,554,Country/Area,927,2021,5096,34
+18928,Estimates,Melanesia,928,Subregion,909,2010,9409,66
+18929,Estimates,Melanesia,928,Subregion,909,2011,9662,66
+18930,Estimates,Melanesia,928,Subregion,909,2012,9910,68
+18931,Estimates,Melanesia,928,Subregion,909,2013,10158,69
+18932,Estimates,Melanesia,928,Subregion,909,2014,10405,70
+18933,Estimates,Melanesia,928,Subregion,909,2015,10651,71
+18934,Estimates,Melanesia,928,Subregion,909,2016,10892,72
+18935,Estimates,Melanesia,928,Subregion,909,2017,11133,73
+18936,Estimates,Melanesia,928,Subregion,909,2018,11371,75
+18937,Estimates,Melanesia,928,Subregion,909,2019,11608,76
+18938,Estimates,Melanesia,928,Subregion,909,2020,11843,77
+18939,Estimates,Melanesia,928,Subregion,909,2021,12075,82
+19000,Estimates,Fiji,242,Country/Area,928,2010,903,6
+19001,Estimates,Fiji,242,Country/Area,928,2011,907,7
+19002,Estimates,Fiji,242,Country/Area,928,2012,910,7
+19003,Estimates,Fiji,242,Country/Area,928,2013,912,7
+19004,Estimates,Fiji,242,Country/Area,928,2014,915,7
+19005,Estimates,Fiji,242,Country/Area,928,2015,917,7
+19006,Estimates,Fiji,242,Country/Area,928,2016,918,7
+19007,Estimates,Fiji,242,Country/Area,928,2017,919,7
+19008,Estimates,Fiji,242,Country/Area,928,2018,919,7
+19009,Estimates,Fiji,242,Country/Area,928,2019,919,7
+19010,Estimates,Fiji,242,Country/Area,928,2020,918,7
+19011,Estimates,Fiji,242,Country/Area,928,2021,923,8
+19072,Estimates,New Caledonia,540,Country/Area,928,2010,259,1
+19073,Estimates,New Caledonia,540,Country/Area,928,2011,264,1
+19074,Estimates,New Caledonia,540,Country/Area,928,2012,269,1
+19075,Estimates,New Caledonia,540,Country/Area,928,2013,274,1
+19076,Estimates,New Caledonia,540,Country/Area,928,2014,279,1
+19077,Estimates,New Caledonia,540,Country/Area,928,2015,283,1
+19078,Estimates,New Caledonia,540,Country/Area,928,2016,283,1
+19079,Estimates,New Caledonia,540,Country/Area,928,2017,284,1
+19080,Estimates,New Caledonia,540,Country/Area,928,2018,285,1
+19081,Estimates,New Caledonia,540,Country/Area,928,2019,285,1
+19082,Estimates,New Caledonia,540,Country/Area,928,2020,286,1
+19083,Estimates,New Caledonia,540,Country/Area,928,2021,287,2
+19144,Estimates,Papua New Guinea,598,Country/Area,928,2010,7470,54
+19145,Estimates,Papua New Guinea,598,Country/Area,928,2011,7696,54
+19146,Estimates,Papua New Guinea,598,Country/Area,928,2012,7917,55
+19147,Estimates,Papua New Guinea,598,Country/Area,928,2013,8136,56
+19148,Estimates,Papua New Guinea,598,Country/Area,928,2014,8355,57
+19149,Estimates,Papua New Guinea,598,Country/Area,928,2015,8573,57
+19150,Estimates,Papua New Guinea,598,Country/Area,928,2016,8791,58
+19151,Estimates,Papua New Guinea,598,Country/Area,928,2017,9007,59
+19152,Estimates,Papua New Guinea,598,Country/Area,928,2018,9222,61
+19153,Estimates,Papua New Guinea,598,Country/Area,928,2019,9436,62
+19154,Estimates,Papua New Guinea,598,Country/Area,928,2020,9649,62
+19155,Estimates,Papua New Guinea,598,Country/Area,928,2021,9850,66
+19216,Estimates,Solomon Islands,90,Country/Area,928,2010,534,3
+19217,Estimates,Solomon Islands,90,Country/Area,928,2011,547,3
+19218,Estimates,Solomon Islands,90,Country/Area,928,2012,561,3
+19219,Estimates,Solomon Islands,90,Country/Area,928,2013,575,3
+19220,Estimates,Solomon Islands,90,Country/Area,928,2014,590,3
+19221,Estimates,Solomon Islands,90,Country/Area,928,2015,605,3
+19222,Estimates,Solomon Islands,90,Country/Area,928,2016,620,3
+19223,Estimates,Solomon Islands,90,Country/Area,928,2017,636,3
+19224,Estimates,Solomon Islands,90,Country/Area,928,2018,651,3
+19225,Estimates,Solomon Islands,90,Country/Area,928,2019,667,3
+19226,Estimates,Solomon Islands,90,Country/Area,928,2020,683,4
+19227,Estimates,Solomon Islands,90,Country/Area,928,2021,699,4
+19288,Estimates,Vanuatu,548,Country/Area,928,2010,243,1
+19289,Estimates,Vanuatu,548,Country/Area,928,2011,248,2
+19290,Estimates,Vanuatu,548,Country/Area,928,2012,254,2
+19291,Estimates,Vanuatu,548,Country/Area,928,2013,260,2
+19292,Estimates,Vanuatu,548,Country/Area,928,2014,267,2
+19293,Estimates,Vanuatu,548,Country/Area,928,2015,273,2
+19294,Estimates,Vanuatu,548,Country/Area,928,2016,280,2
+19295,Estimates,Vanuatu,548,Country/Area,928,2017,287,2
+19296,Estimates,Vanuatu,548,Country/Area,928,2018,294,2
+19297,Estimates,Vanuatu,548,Country/Area,928,2019,301,2
+19298,Estimates,Vanuatu,548,Country/Area,928,2020,308,2
+19299,Estimates,Vanuatu,548,Country/Area,928,2021,315,2
+19360,Estimates,Micronesia,954,Subregion,909,2010,517,3
+19361,Estimates,Micronesia,954,Subregion,909,2011,517,3
+19362,Estimates,Micronesia,954,Subregion,909,2012,518,3
+19363,Estimates,Micronesia,954,Subregion,909,2013,520,3
+19364,Estimates,Micronesia,954,Subregion,909,2014,522,3
+19365,Estimates,Micronesia,954,Subregion,909,2015,523,3
+19366,Estimates,Micronesia,954,Subregion,909,2016,525,3
+19367,Estimates,Micronesia,954,Subregion,909,2017,526,3
+19368,Estimates,Micronesia,954,Subregion,909,2018,527,3
+19369,Estimates,Micronesia,954,Subregion,909,2019,528,3
+19370,Estimates,Micronesia,954,Subregion,909,2020,529,4
+19371,Estimates,Micronesia,954,Subregion,909,2021,533,4
+19432,Estimates,Guam,316,Country/Area,954,2010,164,1
+19433,Estimates,Guam,316,Country/Area,954,2011,165,1
+19434,Estimates,Guam,316,Country/Area,954,2012,166,1
+19435,Estimates,Guam,316,Country/Area,954,2013,167,1
+19436,Estimates,Guam,316,Country/Area,954,2014,167,1
+19437,Estimates,Guam,316,Country/Area,954,2015,168,1
+19438,Estimates,Guam,316,Country/Area,954,2016,168,1
+19439,Estimates,Guam,316,Country/Area,954,2017,169,1
+19440,Estimates,Guam,316,Country/Area,954,2018,169,1
+19441,Estimates,Guam,316,Country/Area,954,2019,169,1
+19442,Estimates,Guam,316,Country/Area,954,2020,169,1
+19443,Estimates,Guam,316,Country/Area,954,2021,170,1
+19504,Estimates,Kiribati,296,Country/Area,954,2010,107,1
+19505,Estimates,Kiribati,296,Country/Area,954,2011,109,1
+19506,Estimates,Kiribati,296,Country/Area,954,2012,111,1
+19507,Estimates,Kiribati,296,Country/Area,954,2013,112,1
+19508,Estimates,Kiribati,296,Country/Area,954,2014,114,1
+19509,Estimates,Kiribati,296,Country/Area,954,2015,116,1
+19510,Estimates,Kiribati,296,Country/Area,954,2016,118,1
+19511,Estimates,Kiribati,296,Country/Area,954,2017,119,1
+19512,Estimates,Kiribati,296,Country/Area,954,2018,121,1
+19513,Estimates,Kiribati,296,Country/Area,954,2019,123,1
+19514,Estimates,Kiribati,296,Country/Area,954,2020,125,1
+19515,Estimates,Kiribati,296,Country/Area,954,2021,128,1
+19576,Estimates,Marshall Islands,584,Country/Area,954,2010,53,0
+19577,Estimates,Marshall Islands,584,Country/Area,954,2011,53,0
+19578,Estimates,Marshall Islands,584,Country/Area,954,2012,53,0
+19579,Estimates,Marshall Islands,584,Country/Area,954,2013,52,0
+19580,Estimates,Marshall Islands,584,Country/Area,954,2014,51,0
+19581,Estimates,Marshall Islands,584,Country/Area,954,2015,50,0
+19582,Estimates,Marshall Islands,584,Country/Area,954,2016,49,0
+19583,Estimates,Marshall Islands,584,Country/Area,954,2017,48,0
+19584,Estimates,Marshall Islands,584,Country/Area,954,2018,47,0
+19585,Estimates,Marshall Islands,584,Country/Area,954,2019,45,0
+19586,Estimates,Marshall Islands,584,Country/Area,954,2020,44,0
+19587,Estimates,Marshall Islands,584,Country/Area,954,2021,43,0
+19648,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2010,107,0
+19649,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2011,108,1
+19650,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2012,108,1
+19651,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2013,108,1
+19652,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2014,109,1
+19653,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2015,109,1
+19654,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2016,110,1
+19655,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2017,110,1
+19656,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2018,111,1
+19657,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2019,111,1
+19658,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2020,112,1
+19659,Estimates,Micronesia (Fed. States of),583,Country/Area,954,2021,113,1
+19720,Estimates,Nauru,520,Country/Area,954,2010,10,0
+19721,Estimates,Nauru,520,Country/Area,954,2011,10,0
+19722,Estimates,Nauru,520,Country/Area,954,2012,10,0
+19723,Estimates,Nauru,520,Country/Area,954,2013,11,0
+19724,Estimates,Nauru,520,Country/Area,954,2014,11,0
+19725,Estimates,Nauru,520,Country/Area,954,2015,11,0
+19726,Estimates,Nauru,520,Country/Area,954,2016,11,0
+19727,Estimates,Nauru,520,Country/Area,954,2017,12,0
+19728,Estimates,Nauru,520,Country/Area,954,2018,12,0
+19729,Estimates,Nauru,520,Country/Area,954,2019,12,0
+19730,Estimates,Nauru,520,Country/Area,954,2020,12,0
+19731,Estimates,Nauru,520,Country/Area,954,2021,12,0
+19792,Estimates,Northern Mariana Islands,580,Country/Area,954,2010,56,0
+19793,Estimates,Northern Mariana Islands,580,Country/Area,954,2011,53,0
+19794,Estimates,Northern Mariana Islands,580,Country/Area,954,2012,52,0
+19795,Estimates,Northern Mariana Islands,580,Country/Area,954,2013,52,0
+19796,Estimates,Northern Mariana Islands,580,Country/Area,954,2014,52,0
+19797,Estimates,Northern Mariana Islands,580,Country/Area,954,2015,52,0
+19798,Estimates,Northern Mariana Islands,580,Country/Area,954,2016,51,0
+19799,Estimates,Northern Mariana Islands,580,Country/Area,954,2017,51,0
+19800,Estimates,Northern Mariana Islands,580,Country/Area,954,2018,51,0
+19801,Estimates,Northern Mariana Islands,580,Country/Area,954,2019,50,0
+19802,Estimates,Northern Mariana Islands,580,Country/Area,954,2020,50,0
+19803,Estimates,Northern Mariana Islands,580,Country/Area,954,2021,50,0
+19864,Estimates,Palau,585,Country/Area,954,2010,19,0
+19865,Estimates,Palau,585,Country/Area,954,2011,18,0
+19866,Estimates,Palau,585,Country/Area,954,2012,18,0
+19867,Estimates,Palau,585,Country/Area,954,2013,18,0
+19868,Estimates,Palau,585,Country/Area,954,2014,18,0
+19869,Estimates,Palau,585,Country/Area,954,2015,18,0
+19870,Estimates,Palau,585,Country/Area,954,2016,18,0
+19871,Estimates,Palau,585,Country/Area,954,2017,18,0
+19872,Estimates,Palau,585,Country/Area,954,2018,18,0
+19873,Estimates,Palau,585,Country/Area,954,2019,18,0
+19874,Estimates,Palau,585,Country/Area,954,2020,18,0
+19875,Estimates,Palau,585,Country/Area,954,2021,18,0
+19936,Estimates,Polynesia,957,Subregion,909,2010,683,3
+19937,Estimates,Polynesia,957,Subregion,909,2011,686,3
+19938,Estimates,Polynesia,957,Subregion,909,2012,690,3
+19939,Estimates,Polynesia,957,Subregion,909,2013,692,3
+19940,Estimates,Polynesia,957,Subregion,909,2014,694,3
+19941,Estimates,Polynesia,957,Subregion,909,2015,696,3
+19942,Estimates,Polynesia,957,Subregion,909,2016,698,3
+19943,Estimates,Polynesia,957,Subregion,909,2017,700,3
+19944,Estimates,Polynesia,957,Subregion,909,2018,703,3
+19945,Estimates,Polynesia,957,Subregion,909,2019,706,4
+19946,Estimates,Polynesia,957,Subregion,909,2020,709,4
+19947,Estimates,Polynesia,957,Subregion,909,2021,715,4
+20008,Estimates,American Samoa,16,Country/Area,957,2010,55,0
+20009,Estimates,American Samoa,16,Country/Area,957,2011,55,0
+20010,Estimates,American Samoa,16,Country/Area,957,2012,54,0
+20011,Estimates,American Samoa,16,Country/Area,957,2013,53,0
+20012,Estimates,American Samoa,16,Country/Area,957,2014,53,0
+20013,Estimates,American Samoa,16,Country/Area,957,2015,52,0
+20014,Estimates,American Samoa,16,Country/Area,957,2016,51,0
+20015,Estimates,American Samoa,16,Country/Area,957,2017,50,0
+20016,Estimates,American Samoa,16,Country/Area,957,2018,49,0
+20017,Estimates,American Samoa,16,Country/Area,957,2019,48,0
+20018,Estimates,American Samoa,16,Country/Area,957,2020,47,0
+20019,Estimates,American Samoa,16,Country/Area,957,2021,46,0
+20080,Estimates,Cook Islands,184,Country/Area,957,2010,17,0
+20081,Estimates,Cook Islands,184,Country/Area,957,2011,18,0
+20082,Estimates,Cook Islands,184,Country/Area,957,2012,18,0
+20083,Estimates,Cook Islands,184,Country/Area,957,2013,18,0
+20084,Estimates,Cook Islands,184,Country/Area,957,2014,18,0
+20085,Estimates,Cook Islands,184,Country/Area,957,2015,18,0
+20086,Estimates,Cook Islands,184,Country/Area,957,2016,18,0
+20087,Estimates,Cook Islands,184,Country/Area,957,2017,17,0
+20088,Estimates,Cook Islands,184,Country/Area,957,2018,17,0
+20089,Estimates,Cook Islands,184,Country/Area,957,2019,17,0
+20090,Estimates,Cook Islands,184,Country/Area,957,2020,17,0
+20091,Estimates,Cook Islands,184,Country/Area,957,2021,17,0
+20152,Estimates,French Polynesia,258,Country/Area,957,2010,283,1
+20153,Estimates,French Polynesia,258,Country/Area,957,2011,285,1
+20154,Estimates,French Polynesia,258,Country/Area,957,2012,286,1
+20155,Estimates,French Polynesia,258,Country/Area,957,2013,287,1
+20156,Estimates,French Polynesia,258,Country/Area,957,2014,289,1
+20157,Estimates,French Polynesia,258,Country/Area,957,2015,291,1
+20158,Estimates,French Polynesia,258,Country/Area,957,2016,293,1
+20159,Estimates,French Polynesia,258,Country/Area,957,2017,294,1
+20160,Estimates,French Polynesia,258,Country/Area,957,2018,297,1
+20161,Estimates,French Polynesia,258,Country/Area,957,2019,299,1
+20162,Estimates,French Polynesia,258,Country/Area,957,2020,301,1
+20163,Estimates,French Polynesia,258,Country/Area,957,2021,303,2
+20224,Estimates,Niue,570,Country/Area,957,2010,2,0
+20225,Estimates,Niue,570,Country/Area,957,2011,2,0
+20226,Estimates,Niue,570,Country/Area,957,2012,2,0
+20227,Estimates,Niue,570,Country/Area,957,2013,2,0
+20228,Estimates,Niue,570,Country/Area,957,2014,2,0
+20229,Estimates,Niue,570,Country/Area,957,2015,2,0
+20230,Estimates,Niue,570,Country/Area,957,2016,2,0
+20231,Estimates,Niue,570,Country/Area,957,2017,2,0
+20232,Estimates,Niue,570,Country/Area,957,2018,2,0
+20233,Estimates,Niue,570,Country/Area,957,2019,2,0
+20234,Estimates,Niue,570,Country/Area,957,2020,2,0
+20235,Estimates,Niue,570,Country/Area,957,2021,2,0
+20296,Estimates,Samoa,882,Country/Area,957,2010,194,1
+20297,Estimates,Samoa,882,Country/Area,957,2011,195,1
+20298,Estimates,Samoa,882,Country/Area,957,2012,197,1
+20299,Estimates,Samoa,882,Country/Area,957,2013,199,1
+20300,Estimates,Samoa,882,Country/Area,957,2014,201,1
+20301,Estimates,Samoa,882,Country/Area,957,2015,203,1
+20302,Estimates,Samoa,882,Country/Area,957,2016,204,1
+20303,Estimates,Samoa,882,Country/Area,957,2017,207,1
+20304,Estimates,Samoa,882,Country/Area,957,2018,209,1
+20305,Estimates,Samoa,882,Country/Area,957,2019,211,1
+20306,Estimates,Samoa,882,Country/Area,957,2020,213,1
+20307,Estimates,Samoa,882,Country/Area,957,2021,217,1
+20368,Estimates,Tokelau,772,Country/Area,957,2010,1,0
+20369,Estimates,Tokelau,772,Country/Area,957,2011,1,0
+20370,Estimates,Tokelau,772,Country/Area,957,2012,1,0
+20371,Estimates,Tokelau,772,Country/Area,957,2013,1,0
+20372,Estimates,Tokelau,772,Country/Area,957,2014,2,0
+20373,Estimates,Tokelau,772,Country/Area,957,2015,1,0
+20374,Estimates,Tokelau,772,Country/Area,957,2016,1,0
+20375,Estimates,Tokelau,772,Country/Area,957,2017,1,0
+20376,Estimates,Tokelau,772,Country/Area,957,2018,2,0
+20377,Estimates,Tokelau,772,Country/Area,957,2019,2,0
+20378,Estimates,Tokelau,772,Country/Area,957,2020,2,0
+20379,Estimates,Tokelau,772,Country/Area,957,2021,2,0
+20440,Estimates,Tonga,776,Country/Area,957,2010,107,1
+20441,Estimates,Tonga,776,Country/Area,957,2011,108,1
+20442,Estimates,Tonga,776,Country/Area,957,2012,108,1
+20443,Estimates,Tonga,776,Country/Area,957,2013,107,1
+20444,Estimates,Tonga,776,Country/Area,957,2014,107,1
+20445,Estimates,Tonga,776,Country/Area,957,2015,106,1
+20446,Estimates,Tonga,776,Country/Area,957,2016,106,1
+20447,Estimates,Tonga,776,Country/Area,957,2017,106,1
+20448,Estimates,Tonga,776,Country/Area,957,2018,105,1
+20449,Estimates,Tonga,776,Country/Area,957,2019,105,1
+20450,Estimates,Tonga,776,Country/Area,957,2020,105,1
+20451,Estimates,Tonga,776,Country/Area,957,2021,106,1
+20512,Estimates,Tuvalu,798,Country/Area,957,2010,10,0
+20513,Estimates,Tuvalu,798,Country/Area,957,2011,11,0
+20514,Estimates,Tuvalu,798,Country/Area,957,2012,11,0
+20515,Estimates,Tuvalu,798,Country/Area,957,2013,11,0
+20516,Estimates,Tuvalu,798,Country/Area,957,2014,11,0
+20517,Estimates,Tuvalu,798,Country/Area,957,2015,11,0
+20518,Estimates,Tuvalu,798,Country/Area,957,2016,11,0
+20519,Estimates,Tuvalu,798,Country/Area,957,2017,11,0
+20520,Estimates,Tuvalu,798,Country/Area,957,2018,11,0
+20521,Estimates,Tuvalu,798,Country/Area,957,2019,11,0
+20522,Estimates,Tuvalu,798,Country/Area,957,2020,11,0
+20523,Estimates,Tuvalu,798,Country/Area,957,2021,11,0
+20584,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2010,13,0
+20585,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2011,13,0
+20586,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2012,13,0
+20587,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2013,13,0
+20588,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2014,12,0
+20589,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2015,12,0
+20590,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2016,12,0
+20591,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2017,12,0
+20592,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2018,12,0
+20593,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2019,12,0
+20594,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2020,12,0
+20595,Estimates,Wallis and Futuna Islands,876,Country/Area,957,2021,12,0
