@@ -53,6 +53,8 @@ function loadScene3(data) {
         .data(countries)
         .enter()
         .append("circle")
+        .transition()
+        .duration(3000)
         .attr("cx", function(d) {
             return x(d.deaths*1000);
         })
@@ -73,7 +75,7 @@ function loadScene3(data) {
 
     // Adds mouse events
     d3.selectAll("circle")
-        .on("mouseover", handleMouseOver3)
+        .on("mouseover", handleMouseOver)
         .on("mouseout", handleMouseOut);
 }
 
@@ -128,42 +130,10 @@ function loadScene2(d) {
     
     // Adds mouse events
     d3.selectAll("rect")
-        .on("mouseover", handleMouseOver2)
+        .on("mouseover", handleMouseOver)
         .on("mouseout", handleMouseOut)
         .on("click", loadScene3);
 }   
-
-function handleMouseOver3(d) {
-    d3.select(this)
-        .style("fill", "blue");
-
-    d3.select(".tooltip")
-        .transition()
-        .duration(200)
-        .style("opacity", 0.9)
-        .style("visibility", "visible");
-
-    d3.select(".tooltip")
-        .html(`<strong>Region:</strong> ${d.region}<br><strong>Total Population:</strong> ${d.population*1000}<br><strong>Total Deaths:</strong> ${d.deaths*1000}<br>`)
-        .style("left", `${d3.event.pageX}px`)
-        .style("top", `${d3.event.pageY}px`);
-}
-
-function handleMouseOver2(d) {
-    d3.select(this)
-        .style("fill", "blue");
-
-    d3.select(".tooltip")
-        .transition()
-        .duration(200)
-        .style("opacity", 0.9)
-        .style("visibility", "visible");
-
-    d3.select(".tooltip")
-        .html(`<strong>Region:</strong> ${d.region}<br><strong>Total Population:</strong> ${d.population*1000}<br>`)
-        .style("left", `${d3.event.pageX}px`)
-        .style("top", `${d3.event.pageY}px`);
-}
 
 function handleMouseOver(d) {
     d3.select(this)
@@ -176,7 +146,7 @@ function handleMouseOver(d) {
         .style("visibility", "visible");
 
     d3.select(".tooltip")
-        .html(`<strong>Year:</strong> ${d.year}<br><strong>Total Population:</strong> ${d.population*1000}<br>`)
+        .html(`<strong>Year:</strong> ${d.year}<br><strong>Region:</strong> ${d.region}<br><strong>Total Population:</strong> ${d.population*1000}<br><strong>Total Deaths:</strong> ${d.deaths*1000}<br>`)
         .style("left", `${d3.event.pageX}px`)
         .style("top", `${d3.event.pageY}px`);
 }
@@ -236,10 +206,26 @@ function loadScene1() {
         .on("mouseover", handleMouseOver)
         .on("mouseout", handleMouseOut)
         .on("click", loadScene2);
+    
+    // Add annotations
+    const annotations = [
+        {
+            "note": { "label": "hi"},
+            "x": 150,
+            "y": 545,
+            "dx": 100,
+            "dy": 50,
+            "type": d3.annotationCalloutElbow,
+            "connector": { "end": "arrow" },
+            "color": "red"
+        }
+    ];
+
+    d3.select("svg").append("g").call(d3.annotation().annotations(annotations));
 }
 
 async function init() {
-    // Fetch cars data
+    // Fetch world population data
     worldpop = await d3.csv("pop_deaths.csv");
 
     // Load scene 1
