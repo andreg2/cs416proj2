@@ -11,26 +11,33 @@ function handleDropdownChange() {
       
     plotBarChart(xDomain, null, loadScene2, "year");
 
-    let annotation = {
-        "note": { 
-            "label": "Click for detailed information for the specific year"
-        },
-        "x": 150,
-        "y": 545,
-        "dx": 100,
-        "dy": 50,
-        "type": d3.annotationCalloutElbow,
-        "connector": { "end": "arrow" },
-        "color": "red"
-    };
+    let annotations = [
+        {
+            "note": { 
+                "label": "Year-by-year the world " + selectedOption + " gets bigger"
+            },
+            "x": x(2016)+150,
+            "y": 545,
+            "dx": 10,
+            "dy": 40,
+            "type": d3.annotationCalloutElbow,
+            "color": "red"
+        }
+    ];
 
-    createAnnotation(annotation);
+    createAnnotations(annotations);
 }
 
 function handleDropdownChange2(year) {
-    let annotation = {
+    selectedOption = document.getElementById("options").value;
+
+    let annotationText = "Asia is by far the most populous region of the world"
+    if (selectedOption == "deaths") 
+        annotationText = "Asia is by far region of the world with most deaths"
+
+    let annotations = [{
         "note": { 
-            "label": "Asia is by far the most populous region of the world"
+            "label": annotationText
         },
         "x": x("ASIA")+180,
         "y": 545,
@@ -39,16 +46,15 @@ function handleDropdownChange2(year) {
         "type": d3.annotationCalloutElbow,
         "connector": { "end": "arrow" },
         "color": "red"
-    };
+    }];
 
-    selectedOption = document.getElementById("options").value;
     d3.select("h2")
       .html("World " + selectedOption + " by Region for year " + year);
 
     let maxY = Math.max(...worldpopFiltered.map(region => region[selectedOption]));
     plotBarChart(xDomain, [0,maxY*1000], loadScene3, "region");
 
-    createAnnotation(annotation);
+    createAnnotations(annotations);
 }
 
 function getRegionsData(year) {
@@ -83,8 +89,10 @@ function loadScene3(data) {
     d3.select("h2")
         .html("World Population x Deaths of " + data.region + " for " + data.year);
     
-    // clean chart
+    // clean scene
     d3.selectAll("g").remove();
+
+    d3.select("select").remove();
 
     // update chart
     let deathsDomain = [0,Math.max(...countries.map((country) => country.deaths))*1000];
@@ -92,6 +100,43 @@ function loadScene3(data) {
 
     x = d3.scaleLinear().domain(deathsDomain).range([0,1000]);
     y = d3.scaleLinear().domain(populationDomain).range([500,0]);
+
+    const annotations = [];
+    if (data.region == "ASIA") {
+        annotations.push({
+            note: {
+                label: "Interestingly Asia is also the only region of the world that the most populous country is not the one that has most deaths"
+            },
+            x: x(deathsDomain[1])+70,
+            y: y(populationDomain[1])+70,
+            dy: 137,
+            dx: -162,
+            subject: {
+                radius: 50,
+                radiusPadding: 5
+            },
+            color: "red",
+            type: d3.annotationCalloutCircle
+        });
+    } else {
+        annotations.push({
+            note: {
+                label: "Another fun fact of about the data"
+            },
+            x: x(0)+160,
+            y: y(0),
+            dy: 137,
+            dx: 162,
+            subject: {
+                radius: 50,
+                radiusPadding: 5
+            },
+            color: "red",
+            type: d3.annotationCalloutCircle
+        });
+    }
+
+    createAnnotations(annotations);
 
     d3.select("svg")
         .append("g")
@@ -113,26 +158,6 @@ function loadScene3(data) {
     createAxis(x, y);
 
     createMouseEvents("circle");
-
-    if (data.region == "ASIA") {
-        const annotation = {
-            note: {
-                label: "More interestingly is that Asia is also the only region of the world that the most populous country is not the one that has most deaths"
-            },
-            x: x(deathsDomain[1])+70,
-            y: y(populationDomain[1])+70,
-            dy: 137,
-            dx: -162,
-            subject: {
-                radius: 50,
-                radiusPadding: 5
-            },
-            color: "red",
-            type: d3.annotationCalloutCircle
-        }
-    
-        createAnnotation(annotation);
-    }
 }
 
 function loadScene2(data) {
@@ -146,7 +171,7 @@ function loadScene2(data) {
 
     plotBarChart(xDomain, [0,maxY*1000], loadScene3, "region");
 
-    let annotation = {
+    let annotations = [{
         "note": { 
             "label": "Asia is by far the most populous region of the world"
         },
@@ -157,9 +182,9 @@ function loadScene2(data) {
         "type": d3.annotationCalloutElbow,
         "connector": { "end": "arrow" },
         "color": "red"
-    };
+    }];
 
-    createAnnotation(annotation);
+    createAnnotations(annotations);
 
     d3.select("select")
       .on("change", () => handleDropdownChange2(data.year));
@@ -203,12 +228,12 @@ function handleMouseOut() {
         .style("opacity", 0);
 }
 
-function createAnnotation(annotation) {
+function createAnnotations(annotations) {
     d3.select("svg")
       .append("g")
       .call(
           d3.annotation()
-            .annotations([annotation])
+            .annotations(annotations)
       );
 }
 
@@ -264,20 +289,21 @@ function loadScene1() {
 
     plotBarChart(xDomain, null, loadScene2, "year");
 
-    let annotation = {
-        "note": { 
-            "label": "Click for detailed information for the specific year"
-        },
-        "x": 150,
-        "y": 545,
-        "dx": 100,
-        "dy": 50,
-        "type": d3.annotationCalloutElbow,
-        "connector": { "end": "arrow" },
-        "color": "red"
-    };
+    let annotations = [
+        {
+            "note": { 
+                "label": "Year-by-year the world " + selectedOption + " gets bigger"
+            },
+            "x": x(2016)+150,
+            "y": 545,
+            "dx": 10,
+            "dy": 40,
+            "type": d3.annotationCalloutElbow,
+            "color": "red"
+        }
+    ];
 
-    createAnnotation(annotation);
+    createAnnotations(annotations);
 
     d3.select("select")
       .on("change", handleDropdownChange);
