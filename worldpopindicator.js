@@ -1,7 +1,55 @@
 var worldpop = new Array();
 var worldpopFiltered = new Array();
 
-var x, y;
+var x, y, xDomain, yDomain;
+var selectedOption = "population";
+
+function handleDropdownChange() {
+    selectedOption = document.getElementById("options").value;
+    d3.select("h2")
+      .html("World " + selectedOption + " from 2010 to 2021");
+      
+    plotBarChart(xDomain, null, loadScene2, "year");
+
+    let annotation = {
+        "note": { 
+            "label": "Click for detailed information for the specific year"
+        },
+        "x": 150,
+        "y": 545,
+        "dx": 100,
+        "dy": 50,
+        "type": d3.annotationCalloutElbow,
+        "connector": { "end": "arrow" },
+        "color": "red"
+    };
+
+    createAnnotation(annotation);
+}
+
+function handleDropdownChange2(year) {
+    let annotation = {
+        "note": { 
+            "label": "Asia is by far the most populous region of the world"
+        },
+        "x": x("ASIA")+180,
+        "y": 545,
+        "dx": 100,
+        "dy": 50,
+        "type": d3.annotationCalloutElbow,
+        "connector": { "end": "arrow" },
+        "color": "red"
+    };
+
+    selectedOption = document.getElementById("options").value;
+    d3.select("h2")
+      .html("World " + selectedOption + " by Region for year " + year);
+
+    let maxY = Math.max(...worldpopFiltered.map(region => region[selectedOption]));
+    plotBarChart(xDomain, [0,maxY*1000], loadScene3, "region");
+
+    createAnnotation(annotation);
+}
 
 function getRegionsData(year) {
     return worldpop.filter((entry) => entry.type == "Region" && entry.year == year);
@@ -31,7 +79,6 @@ function getCountriesData(data) {
 
 function loadScene3(data) {
     let countries = getCountriesData(data);
-    // console.log(countries);
 
     d3.select("h2")
         .html("World Population x Deaths of " + data.region + " for " + data.year);
@@ -63,76 +110,59 @@ function loadScene3(data) {
         })
         .attr("r", 5);
     
-    d3.select("svg")
-        .append("g")
-        .attr("transform", "translate(100,50)")
-        .call(d3.axisLeft(y));
+    createAxis(x, y);
 
-    d3.select("svg")
-        .append("g")
-        .attr("transform", "translate(100,550)")
-        .call(d3.axisBottom(x));
+    createMouseEvents("circle");
 
-    // Adds mouse events
-    d3.selectAll("circle")
-        .on("mouseover", handleMouseOver)
-        .on("mouseout", handleMouseOut);
+    if (data.region == "ASIA") {
+        const annotation = {
+            note: {
+                label: "More interestingly is that Asia is also the only region of the world that the most populous country is not the one that has most deaths"
+            },
+            x: x(deathsDomain[1])+70,
+            y: y(populationDomain[1])+70,
+            dy: 137,
+            dx: -162,
+            subject: {
+                radius: 50,
+                radiusPadding: 5
+            },
+            color: "red",
+            type: d3.annotationCalloutCircle
+        }
+    
+        createAnnotation(annotation);
+    }
 }
 
-function loadScene2(d) {
-    worldpopFiltered = getRegionsData(d.year);
+function loadScene2(data) {
+    worldpopFiltered = getRegionsData(data.year);
 
-    let maxPop = Math.max(...worldpopFiltered.map(region => region.population));
-
-    d3.select("h2")
-        .html("World Population by Region for year " + d.year);
-
-    // clean chart
-    d3.selectAll("g").remove();
+    let maxY = Math.max(...worldpopFiltered.map(region => region[selectedOption]));
 
     // Repopulate barchart
-    let regions = [...worldpopFiltered.map((entry) => entry.region)];
+    xDomain = [...worldpopFiltered.map((entry) => entry.region)];
+    yDomain = [0,maxY*1000];
 
-    x = d3.scaleBand().domain(regions).range([0,1000]);
-    y = d3.scaleLinear().domain([0,maxPop*1000]).range([500,0]);
+    plotBarChart(xDomain, [0,maxY*1000], loadScene3, "region");
 
-    d3.select("svg")
-        .append("g")
-        .attr("transform", "translate(100,50)")
-        .selectAll()
-        .data(worldpopFiltered)
-        .enter()
-        .append("rect")
-        .attr("height", "20")
-        .attr("y", 200)
-        .transition()
-        .duration(3000)
-        .attr("x", function(d) { 
-            return x(d.region)+5; 
-        })
-        .attr("y", function(d) {
-            return y(d.population*1000); 
-        })
-        .attr("width", x.bandwidth()-5)
-        .attr("height", function(d) { 
-            return 500 - y(d.population*1000)
-        });
-    
-    d3.select("svg")
-        .append("g")
-        .attr("transform", "translate(100,50)")
-        .call(d3.axisLeft(y));
+    let annotation = {
+        "note": { 
+            "label": "Asia is by far the most populous region of the world"
+        },
+        "x": x("ASIA")+180,
+        "y": 545,
+        "dx": 100,
+        "dy": 50,
+        "type": d3.annotationCalloutElbow,
+        "connector": { "end": "arrow" },
+        "color": "red"
+    };
 
-    d3.select("svg")
-        .append("g")
-        .attr("transform", "translate(100,550)")
-        .call(d3.axisBottom(x));
-    
-    // Adds mouse events
-    d3.selectAll("rect")
-        .on("mouseover", handleMouseOver)
-        .on("mouseout", handleMouseOut)
-        .on("click", loadScene3);
+    createAnnotation(annotation);
+
+    d3.select("select")
+      .on("change", () => handleDropdownChange2(data.year));
 }   
 
 function handleMouseOver(d) {
@@ -151,6 +181,18 @@ function handleMouseOver(d) {
         .style("top", `${d3.event.pageY}px`);
 }
 
+function createAxis(x, y) {
+    d3.select("svg")
+        .append("g")
+        .attr("transform", "translate(100,50)")
+        .call(d3.axisLeft(y));
+
+    d3.select("svg")
+        .append("g")
+        .attr("transform", "translate(100,550)")
+        .call(d3.axisBottom(x));
+}
+
 function handleMouseOut() {
     d3.select(this)
         .style("fill", "steelblue");
@@ -161,13 +203,32 @@ function handleMouseOut() {
         .style("opacity", 0);
 }
 
-function loadScene1() {
-    worldpopFiltered = worldpop.filter((entry) => entry.type == 'World');
+function createAnnotation(annotation) {
+    d3.select("svg")
+      .append("g")
+      .call(
+          d3.annotation()
+            .annotations([annotation])
+      );
+}
 
-    let xDomain = [2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021]
+function createMouseEvents(element, clickFunc) {
+    // Adds mouse events
+    d3.selectAll(element)
+        .on("mouseover", handleMouseOver)
+        .on("mouseout", handleMouseOut)
+        .on("click", clickFunc);
+}
+
+function plotBarChart(xDomain, yDomain, eventFunc, xType) {
+    if (yDomain) yDomain = yDomain;
+    else yDomain = [0, Math.max(...worldpopFiltered.map((entry) => entry[selectedOption]))*1000];
 
     x = d3.scaleBand().domain(xDomain).range([0,1000]);
-    y = d3.scaleLinear().domain([0,8000000000]).range([500,0]);
+    y = d3.scaleLinear().domain(yDomain).range([500,0]);
+
+    // clean chart
+    d3.selectAll("g").remove();
 
     d3.select("svg")
         .append("g")
@@ -181,47 +242,45 @@ function loadScene1() {
         .transition()
         .duration(3000)
         .attr("x", function(d) { 
-            return x(d.year)+5; 
+            return x(d[xType])+5; 
         })
         .attr("y", function(d) {
-            return y(d.population*1000); 
+            return y(d[selectedOption]*1000); 
         })
         .attr("width", x.bandwidth()-5)
         .attr("height", function(d) { 
-            return 500 - y(d.population*1000)
+            return 500 - y(d[selectedOption]*1000)
         });
 
-    d3.select("svg")
-        .append("g")
-        .attr("transform", "translate(100,50)")
-        .call(d3.axisLeft(y));
+    createAxis(x, y);
 
-    d3.select("svg")
-        .append("g")
-        .attr("transform", "translate(100,550)")
-        .call(d3.axisBottom(x));
+    createMouseEvents("rect", eventFunc);
+}
 
-    // Adds mouse events
-    d3.selectAll("rect")
-        .on("mouseover", handleMouseOver)
-        .on("mouseout", handleMouseOut)
-        .on("click", loadScene2);
-    
-    // Add annotations
-    const annotations = [
-        {
-            "note": { "label": "hi"},
-            "x": 150,
-            "y": 545,
-            "dx": 100,
-            "dy": 50,
-            "type": d3.annotationCalloutElbow,
-            "connector": { "end": "arrow" },
-            "color": "red"
-        }
-    ];
+function loadScene1() {
+    worldpopFiltered = worldpop.filter((entry) => entry.type == 'World');
 
-    d3.select("svg").append("g").call(d3.annotation().annotations(annotations));
+    xDomain = [2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021];
+
+    plotBarChart(xDomain, null, loadScene2, "year");
+
+    let annotation = {
+        "note": { 
+            "label": "Click for detailed information for the specific year"
+        },
+        "x": 150,
+        "y": 545,
+        "dx": 100,
+        "dy": 50,
+        "type": d3.annotationCalloutElbow,
+        "connector": { "end": "arrow" },
+        "color": "red"
+    };
+
+    createAnnotation(annotation);
+
+    d3.select("select")
+      .on("change", handleDropdownChange);
 }
 
 async function init() {
