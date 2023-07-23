@@ -1,7 +1,7 @@
 var worldpop = new Array();
 var worldpopFiltered = new Array();
 
-var x, y, xDomain, yDomain;
+var x, y, xDomain, yDomain, color;
 var selectedOption = "population";
 
 function handleDropdownChangeScene1() {
@@ -97,7 +97,7 @@ function loadScene3(data) {
     // update chart
     let deathsDomain = [0,Math.max(...countries.map((country) => country.deaths))*1000];
     let populationDomain = [0,Math.max(...countries.map((country) => country.population))*1000];
-    let color = d3.scaleOrdinal(d3.schemePaired).domain([...countries.map(country => country.region).sort()]);
+    color = d3.scaleOrdinal(d3.schemePaired).domain([...countries.map(country => country.region).sort()]);
 
     x = d3.scaleLinear().domain(deathsDomain).range([0,1000]);
     y = d3.scaleLinear().domain(populationDomain).range([500,0]);
@@ -228,9 +228,10 @@ function createAxis(x, y, xLabel, yLabel) {
         .text(xLabel);
 }
 
-function handleMouseOut() {
+function handleMouseOut(data) {
+    let selectedColor = color ? color(data.region) : "steelblue";
     d3.select(this)
-        .style("fill", "steelblue");
+        .style("fill", selectedColor);
 
     d3.select(".tooltip")
         .transition()
