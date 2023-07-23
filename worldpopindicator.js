@@ -9,7 +9,7 @@ function handleDropdownChange() {
     d3.select("h2")
       .html("World " + selectedOption + " from 2010 to 2021");
       
-    plotBarChart(xDomain, null, loadScene2, "year");
+    plotBarChart(xDomain, null, loadScene2, "year", selectedOption);
 
     let annotations = [
         {
@@ -52,7 +52,7 @@ function handleDropdownChange2(year) {
       .html("World " + selectedOption + " by Region for year " + year);
 
     let maxY = Math.max(...worldpopFiltered.map(region => region[selectedOption]));
-    plotBarChart(xDomain, [0,maxY*1000], loadScene3, "region");
+    plotBarChart(xDomain, [0,maxY*1000], loadScene3, "region", selectedOption);
 
     createAnnotations(annotations);
 }
@@ -91,8 +91,8 @@ function loadScene3(data) {
     
     // clean scene
     d3.selectAll("g").remove();
-
     d3.select("select").remove();
+    d3.selectAll("text").remove();
 
     // update chart
     let deathsDomain = [0,Math.max(...countries.map((country) => country.deaths))*1000];
@@ -155,7 +155,7 @@ function loadScene3(data) {
         })
         .attr("r", 5);
     
-    createAxis(x, y);
+    createAxis(x, y, "deaths", "population");
 
     createMouseEvents("circle");
 }
@@ -169,7 +169,7 @@ function loadScene2(data) {
     xDomain = [...worldpopFiltered.map((entry) => entry.region)];
     yDomain = [0,maxY*1000];
 
-    plotBarChart(xDomain, [0,maxY*1000], loadScene3, "region");
+    plotBarChart(xDomain, [0,maxY*1000], loadScene3, "region", selectedOption);
 
     let annotations = [{
         "note": { 
@@ -206,16 +206,34 @@ function handleMouseOver(d) {
         .style("top", `${d3.event.pageY}px`);
 }
 
-function createAxis(x, y) {
+function createAxis(x, y, xLabel, yLabel) {    
     d3.select("svg")
         .append("g")
         .attr("transform", "translate(100,50)")
         .call(d3.axisLeft(y));
 
     d3.select("svg")
+        .append("text")
+        .attr("class", "y label")
+        .attr("text-anchor", "end")
+        .attr("y", 6)
+        .attr("dy", ".75em")
+        .attr("transform", "rotate(-90)")
+        .attr("x", -250)
+        .text(yLabel);
+
+    d3.select("svg")
         .append("g")
         .attr("transform", "translate(100,550)")
         .call(d3.axisBottom(x));
+
+    d3.select("svg")
+        .append("text")
+        .attr("class", "x label")
+        .attr("text-anchor", "end")
+        .attr("x", 620)
+        .attr("y", y(0)+200)
+        .text(xLabel);
 }
 
 function handleMouseOut() {
@@ -245,7 +263,7 @@ function createMouseEvents(element, clickFunc) {
         .on("click", clickFunc);
 }
 
-function plotBarChart(xDomain, yDomain, eventFunc, xType) {
+function plotBarChart(xDomain, yDomain, eventFunc, xType, yType) {
     if (yDomain) yDomain = yDomain;
     else yDomain = [0, Math.max(...worldpopFiltered.map((entry) => entry[selectedOption]))*1000];
 
@@ -254,6 +272,7 @@ function plotBarChart(xDomain, yDomain, eventFunc, xType) {
 
     // clean chart
     d3.selectAll("g").remove();
+    d3.selectAll("text").remove();
 
     d3.select("svg")
         .append("g")
@@ -277,7 +296,7 @@ function plotBarChart(xDomain, yDomain, eventFunc, xType) {
             return 500 - y(d[selectedOption]*1000)
         });
 
-    createAxis(x, y);
+    createAxis(x, y, xType, yType);
 
     createMouseEvents("rect", eventFunc);
 }
@@ -287,7 +306,7 @@ function loadScene1() {
 
     xDomain = [2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021];
 
-    plotBarChart(xDomain, null, loadScene2, "year");
+    plotBarChart(xDomain, null, loadScene2, "year", selectedOption);
 
     let annotations = [
         {
