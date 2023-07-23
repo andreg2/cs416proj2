@@ -4,7 +4,7 @@ var worldpopFiltered = new Array();
 var x, y, xDomain, yDomain;
 var selectedOption = "population";
 
-function handleDropdownChange() {
+function handleDropdownChangeScene1() {
     selectedOption = document.getElementById("options").value;
     d3.select("h2")
       .html("World " + selectedOption + " from 2010 to 2021");
@@ -28,7 +28,7 @@ function handleDropdownChange() {
     createAnnotations(annotations);
 }
 
-function handleDropdownChange2(year) {
+function handleDropdownChangeScene2(year) {
     selectedOption = document.getElementById("options").value;
 
     let annotationText = "Asia is by far the most populous region of the world"
@@ -100,7 +100,7 @@ function loadScene3(data) {
 
     x = d3.scaleLinear().domain(deathsDomain).range([0,1000]);
     y = d3.scaleLinear().domain(populationDomain).range([500,0]);
-
+        
     const annotations = [];
     if (data.region == "ASIA") {
         annotations.push({
@@ -111,22 +111,6 @@ function loadScene3(data) {
             y: y(populationDomain[1])+70,
             dy: 137,
             dx: -162,
-            subject: {
-                radius: 50,
-                radiusPadding: 5
-            },
-            color: "red",
-            type: d3.annotationCalloutCircle
-        });
-    } else {
-        annotations.push({
-            note: {
-                label: "Another fun fact of about the data"
-            },
-            x: x(0)+160,
-            y: y(0),
-            dy: 137,
-            dx: 162,
             subject: {
                 radius: 50,
                 radiusPadding: 5
@@ -171,9 +155,13 @@ function loadScene2(data) {
 
     plotBarChart(xDomain, [0,maxY*1000], loadScene3, "region", selectedOption);
 
+    let annotationText = "Asia is by far the most populous region of the world"
+    if (selectedOption == "deaths") 
+        annotationText = "Asia is by far region of the world with most deaths"
+
     let annotations = [{
         "note": { 
-            "label": "Asia is by far the most populous region of the world"
+            "label": annotationText
         },
         "x": x("ASIA")+180,
         "y": 545,
@@ -187,7 +175,7 @@ function loadScene2(data) {
     createAnnotations(annotations);
 
     d3.select("select")
-      .on("change", () => handleDropdownChange2(data.year));
+      .on("change", () => handleDropdownChangeScene2(data.year));
 }   
 
 function handleMouseOver(d) {
@@ -325,7 +313,7 @@ function loadScene1() {
     createAnnotations(annotations);
 
     d3.select("select")
-      .on("change", handleDropdownChange);
+      .on("change", handleDropdownChangeScene1);
 }
 
 async function init() {
