@@ -97,6 +97,7 @@ function loadScene3(data) {
     // update chart
     let deathsDomain = [0,Math.max(...countries.map((country) => country.deaths))*1000];
     let populationDomain = [0,Math.max(...countries.map((country) => country.population))*1000];
+    let color = d3.scaleOrdinal(d3.schemePaired).domain([...countries.map(country => country.region).sort()]);
 
     x = d3.scaleLinear().domain(deathsDomain).range([0,1000]);
     y = d3.scaleLinear().domain(populationDomain).range([500,0]);
@@ -136,6 +137,9 @@ function loadScene3(data) {
         })
         .attr("cy", function(d) {
             return y(d.population*1000);
+        })
+        .attr("fill", function(d) {
+            return color(d.region);
         })
         .attr("r", 5);
     
