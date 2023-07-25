@@ -93,6 +93,7 @@ function loadScene3(data) {
     d3.selectAll("g").remove();
     d3.select("select").remove();
     d3.selectAll("text").remove();
+    cleanTooltip();
 
     // update chart
     let deathsDomain = [0,Math.max(...countries.map((country) => country.deaths))*1000];
@@ -130,14 +131,15 @@ function loadScene3(data) {
         .data(countries)
         .enter()
         .append("circle")
-        .transition()
-        .duration(3000)
         .attr("cx", function(d) {
             return x(d.deaths*1000);
         })
         .attr("cy", function(d) {
             return y(d.population*1000);
         })
+        .attr("r", 0)
+        .transition()
+        .duration(3000)
         .attr("fill", function(d) {
             return color(d.region);
         })
@@ -233,10 +235,7 @@ function handleMouseOut(data) {
     d3.select(this)
         .style("fill", selectedColor);
 
-    d3.select(".tooltip")
-        .transition()
-        .duration(200)
-        .style("opacity", 0);
+    cleanTooltip();
 }
 
 function createAnnotations(annotations) {
@@ -256,6 +255,13 @@ function createMouseEvents(element, clickFunc) {
         .on("click", clickFunc);
 }
 
+function cleanTooltip() {
+    d3.select(".tooltip")
+        .transition()
+        .duration(200)
+        .style("opacity", 0);
+}
+
 function plotBarChart(xDomain, yDomain, eventFunc, xType, yType) {
     if (yDomain) yDomain = yDomain;
     else yDomain = [0, Math.max(...worldpopFiltered.map((entry) => entry[selectedOption]))*1000];
@@ -266,6 +272,7 @@ function plotBarChart(xDomain, yDomain, eventFunc, xType, yType) {
     // clean chart
     d3.selectAll("g").remove();
     d3.selectAll("text").remove();
+    cleanTooltip();
 
     d3.select("svg")
         .append("g")
@@ -274,17 +281,17 @@ function plotBarChart(xDomain, yDomain, eventFunc, xType, yType) {
         .data(worldpopFiltered)
         .enter()
         .append("rect")
-        .attr("height", "20")
-        .attr("y", 200)
-        .transition()
-        .duration(3000)
+        .attr("height", 0)
+        .attr("y", 450)
         .attr("x", function(d) { 
             return x(d[xType])+5; 
         })
+        .attr("width", x.bandwidth()-5)
+        .transition()
+        .duration(3000)
         .attr("y", function(d) {
             return y(d[selectedOption]*1000); 
         })
-        .attr("width", x.bandwidth()-5)
         .attr("height", function(d) { 
             return 500 - y(d[selectedOption]*1000)
         });
