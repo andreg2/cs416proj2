@@ -3,12 +3,16 @@
     <script src="worldpopindicator.js"></script>
     <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
     <style> 
-        h2 {
-            align-content: center;
-        }
-
         rect {
             fill: steelblue;
+        }
+
+        #drilldown {
+            text-align: center;
+        }
+
+        #scenario {
+            text-align: center;
         }
 
         .tooltip {
@@ -23,13 +27,22 @@
         }
     </style>
     <body>
-        <h2>World Population from 2010 to 2021 </h2>
-        <select name="options" id="options">
-            <option value="population">Population</option>
-            <option value="deaths">Deaths</option>
-        </select>
-        <svg width=1200 height=1200></svg>
-        <div class="tooltip"></div>
+        <div id="page">
+            <div id="scenario">
+                context
+            </div>
+            <div id="drilldown">
+                <div id="graph-title">
+                    <h2>World Population from 2010 to 2021 </h2>
+                    <select name="options" id="options">
+                        <option value="population">Population</option>
+                        <option value="deaths">Deaths</option>
+                    </select>
+                </div>
+                <svg width=1200 height=1200></svg>
+                <div class="tooltip"></div>
+            </div>
+        </div>
     </body>
 </html>
 

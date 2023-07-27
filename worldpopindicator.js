@@ -3,6 +3,7 @@ var worldpopFiltered = new Array();
 
 var x, y, xDomain, yDomain, color;
 var selectedOption = "population";
+var currentScene = 1;
 
 function handleDropdownChangeScene1() {
     selectedOption = document.getElementById("options").value;
@@ -24,6 +25,26 @@ function handleDropdownChangeScene1() {
             "color": "red"
         }
     ];
+
+    if (selectedOption == "deaths") {
+        annotations.push(
+            {
+                note: {
+                    label: "COVID19 crisis effect?"
+                },
+                x: x(2020)+190,
+                y: y(60000000)+25,
+                dy: -10,
+                dx: -162,
+                subject: {
+                    radius: 90,
+                    radiusPadding: 5
+                },
+                color: "red",
+                type: d3.annotationCalloutCircle
+            }
+        );
+    }
 
     createAnnotations(annotations);
 }
@@ -86,6 +107,8 @@ function getCountriesData(data) {
 function loadScene3(data) {
     let countries = getCountriesData(data);
 
+    currentScene = 3;
+
     d3.select("h2")
         .html("World Population x Deaths of " + data.region + " for " + data.year);
     
@@ -104,10 +127,10 @@ function loadScene3(data) {
     y = d3.scaleLinear().domain(populationDomain).range([500,0]);
         
     const annotations = [];
-    if (data.region == "ASIA") {
+    if (data.region == "ASIA" && data.year <= 2012) {
         annotations.push({
             note: {
-                label: "Interestingly Asia is also the only region of the world that the most populous country is not the one that has most deaths"
+                label: "Interestingly Asia is also the only region of the world that the most populous country is not the one that has most deaths before 2013"
             },
             x: x(deathsDomain[1])+70,
             y: y(populationDomain[1])+70,
@@ -120,9 +143,9 @@ function loadScene3(data) {
             color: "red",
             type: d3.annotationCalloutCircle
         });
-    }
 
-    createAnnotations(annotations);
+        createAnnotations(annotations);
+    }
 
     d3.select("svg")
         .append("g")
@@ -131,15 +154,17 @@ function loadScene3(data) {
         .data(countries)
         .enter()
         .append("circle")
+        .attr("cx", 0)
+        .attr("cy", 500)
+        .attr("r", 0)
+        .transition()
+        .duration(3000)
         .attr("cx", function(d) {
             return x(d.deaths*1000);
         })
         .attr("cy", function(d) {
             return y(d.population*1000);
         })
-        .attr("r", 0)
-        .transition()
-        .duration(3000)
         .attr("fill", function(d) {
             return color(d.region);
         })
@@ -147,13 +172,18 @@ function loadScene3(data) {
     
     createAxis(x, y, "deaths", "population");
 
-    createMouseEvents("circle");
+    createMouseEventsScene3();
 }
 
 function loadScene2(data) {
     worldpopFiltered = getRegionsData(data.year);
 
+    currentScene = 2;
+
     let maxY = Math.max(...worldpopFiltered.map(region => region[selectedOption]));
+
+    d3.select("h2")
+        .html(selectedOption + " by Region for year " + data.year);
 
     // Repopulate barchart
     xDomain = [...worldpopFiltered.map((entry) => entry.region)];
@@ -200,9 +230,47 @@ function handleMouseOver(d) {
         .style("top", `${d3.event.pageY}px`);
 }
 
+function handleMouseOverScene3(d) {
+    d3.select(this)
+        .style("fill", "blue");
+
+    d3.select(".tooltip")
+        .transition()
+        .duration(200)
+        .style("opacity", 0.9)
+        .style("visibility", "visible");
+
+    d3.select(".tooltip")
+        .html(`<strong>Year:</strong> ${d.year}<br><strong>Region:</strong> ${d.region}<br><strong>Total Population:</strong> ${d.population*1000}<br><strong>Total Deaths:</strong> ${d.deaths*1000}<br>`)
+        .style("left", `${d3.event.pageX}px`)
+        .style("top", `${d3.event.pageY}px`);
+
+    d3.select("svg")
+        .append('line')
+        .attr("transform", "translate(100,50)")
+        .attr("stroke", "red")
+        .attr("class", "scatter-line")
+        .attr('x1',x(d.deaths*1000))
+        .attr('y1',y(d.population*1000))
+        .attr('x2',x(d.deaths*1000))
+        .attr('y2',y(0));
+    
+    d3.select("svg")
+        .append('line')
+        .attr("transform", "translate(100,50)")
+        .attr("stroke", "red")
+        .attr("class", "scatter-line")
+        .attr('x1',x(d.deaths*1000))
+        .attr('y1',y(d.population*1000))
+        .attr('x2',x(0))
+        .attr('y2',y(d.population*1000));
+}
+
 function createAxis(x, y, xLabel, yLabel) {    
     d3.select("svg")
         .append("g")
+        .transition(d3.easeLinear)
+        .duration(3000)
         .attr("transform", "translate(100,50)")
         .call(d3.axisLeft(y));
 
@@ -218,6 +286,8 @@ function createAxis(x, y, xLabel, yLabel) {
 
     d3.select("svg")
         .append("g")
+        .transition(d3.easeLinear)
+        .duration(3000)
         .attr("transform", "translate(100,550)")
         .call(d3.axisBottom(x));
 
@@ -226,8 +296,17 @@ function createAxis(x, y, xLabel, yLabel) {
         .attr("class", "x label")
         .attr("text-anchor", "end")
         .attr("x", 620)
-        .attr("y", y(0)+200)
+        .attr("y", y(0)+100)
         .text(xLabel);
+}
+
+function handleMouseOutScene3(data) {
+    let selectedColor = color ? color(data.region) : "steelblue";
+    d3.select(this)
+        .style("fill", selectedColor);
+
+    cleanTooltip();
+    d3.selectAll(".scatter-line").remove();
 }
 
 function handleMouseOut(data) {
@@ -241,15 +320,19 @@ function handleMouseOut(data) {
 function createAnnotations(annotations) {
     d3.select("svg")
       .append("g")
-      .call(
-          d3.annotation()
-            .annotations(annotations)
-      );
+      .call(d3.annotation().annotations(annotations));
 }
 
-function createMouseEvents(element, clickFunc) {
+function createMouseEventsScene3() {
     // Adds mouse events
-    d3.selectAll(element)
+    d3.selectAll("circle")
+        .on("mouseover", handleMouseOverScene3)
+        .on("mouseout", handleMouseOutScene3);
+}
+
+function createMouseEvents(clickFunc) {
+    // Adds mouse events
+    d3.selectAll("rect")
         .on("mouseover", handleMouseOver)
         .on("mouseout", handleMouseOut)
         .on("click", clickFunc);
@@ -298,7 +381,7 @@ function plotBarChart(xDomain, yDomain, eventFunc, xType, yType) {
 
     createAxis(x, y, xType, yType);
 
-    createMouseEvents("rect", eventFunc);
+    createMouseEvents(eventFunc);
 }
 
 function loadScene1() {
