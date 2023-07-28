@@ -3,16 +3,39 @@
     <script src="worldpopindicator.js"></script>
     <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
     <style> 
-        rect {
-            fill: steelblue;
+        html {
+            scroll-behavior: smooth;
         }
 
-        #drilldown {
-            text-align: center;
+        rect {
+            fill: steelblue;
+            cursor: pointer;
+        }
+
+        #header {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
         }
 
         #scenario {
             text-align: center;
+            height: 100%;
+        }
+
+        #drilldown {
+            text-align: center;
+            background-color: rgb(238, 238, 238);
+            padding: 2.5%;
+        }
+
+        .scatter-line {
+            stroke-dasharray: 5,5;
         }
 
         .tooltip {
@@ -29,20 +52,26 @@
     <body>
         <div id="page">
             <div id="scenario">
-                <h1>World Population and Deaths Drill-Down</h1>
-                <h4>Graphs and interaction made using d3.js</h3>
-                <h4>Andre Goncalves - UIUC CS416 Data Visualization</h3>
-                <h4>Data Source: gapmider.org Population</h3>
-                <p>Analyzing world population data we can see that the world population increases year-by-year even though the number of yearly deaths also increases.</p>
-                <p>In the visualization below you will be able to explore the data from 2010 and 2021 to understand how this growth happened and how it is divided across the regions and countries of the world.</p>
+                <div id="header">
+                    <h1>World Population and Deaths Drill-Down</h1>
+                    <h4>Graphs and interaction made using d3.js</h3>
+                    <h4>Andre Goncalves - UIUC CS416 Data Visualization</h3>
+                    <h4>Data Source: gapmider.org Population</h3>
+                    <p>Analyzing world population data we can see that the world population increases year-by-year even though the number of yearly deaths also increases.</p>
+                    <p>In the visualization below you will be able to explore the data from 2010 and 2021 to understand how this growth happened and how it is divided across the regions and countries of the world.</p>
+                    <a href="#drilldown">Go to drilldown</a>
+                </div>
             </div>
             <div id="drilldown">
-                <div id="graph-title">
-                    <h2>World Population from 2010 to 2021 </h2>
+                <div id="graph">
+                    <h2>World population from 2010 to 2021 </h2>
                     <select name="options" id="options">
                         <option value="population">Population</option>
                         <option value="deaths">Deaths</option>
                     </select>
+                    <p class="p1"></p>
+                    <p class="p2"></p>
+                    <p class="p3"></p>
                 </div>
                 <svg width=1200 height=1200>
                 </svg>

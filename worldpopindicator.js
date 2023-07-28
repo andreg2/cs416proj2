@@ -105,12 +105,19 @@ function getCountriesData(data) {
 }
 
 function loadScene3(data) {
+    d3.select("#graph .p1")
+      .text("In the visualization below we can notice that generally bigger population relates to more deaths. But for some years this isn't true like before 2013 and 2021.")
+    d3.select("#graph .p2")
+      .text("So this could make people believe that those specifc countries can have a major health problem, but we have to take into consideration that smaller countries would most likely have a bigger number of deaths, so the first assumption isn't a rule.")
+    d3.select("#graph .p3")
+      .text("So as its seen for most of the regions in the world the countries with biggest population relates to having more deaths even in underdeveloped countries and also in rich countries.")
+
     let countries = getCountriesData(data);
 
     currentScene = 3;
 
     d3.select("h2")
-        .html("World Population x Deaths of " + data.region + " for " + data.year);
+        .html("World population x deaths of " + data.region + " for " + data.year);
     
     // clean scene
     d3.selectAll("g").remove();
@@ -176,6 +183,11 @@ function loadScene3(data) {
 }
 
 function loadScene2(data) {
+    d3.select("#graph .p1")
+      .text("Asia, alongside being the biggest region of the world and the most populous one also has the biggest amount of deaths.");
+    d3.select("#graph .p2")
+      .text("Do a relation exists between number of population and deaths or does this simply means that with more population more people dies each year for the same reasons?");
+
     worldpopFiltered = getRegionsData(data.year);
 
     currentScene = 2;
@@ -183,7 +195,7 @@ function loadScene2(data) {
     let maxY = Math.max(...worldpopFiltered.map(region => region[selectedOption]));
 
     d3.select("h2")
-        .html(selectedOption + " by Region for year " + data.year);
+        .html("World " + selectedOption + " by region for year " + data.year);
 
     // Repopulate barchart
     xDomain = [...worldpopFiltered.map((entry) => entry.region)];
@@ -216,88 +228,88 @@ function loadScene2(data) {
 
 function handleMouseOver(d) {
     d3.select(this)
-        .style("fill", "blue");
+      .style("fill", "blue");
 
     d3.select(".tooltip")
-        .transition()
-        .duration(200)
-        .style("opacity", 0.9)
-        .style("visibility", "visible");
+      .transition()
+      .duration(200)
+      .style("opacity", 0.9)
+      .style("visibility", "visible");
 
     d3.select(".tooltip")
-        .html(`<strong>Year:</strong> ${d.year}<br><strong>Region:</strong> ${d.region}<br><strong>Total Population:</strong> ${d.population*1000}<br><strong>Total Deaths:</strong> ${d.deaths*1000}<br>`)
-        .style("left", `${d3.event.pageX}px`)
-        .style("top", `${d3.event.pageY}px`);
+      .html(`<strong>Year:</strong> ${d.year}<br><strong>Region:</strong> ${d.region}<br><strong>Total Population:</strong> ${d.population*1000}<br><strong>Total Deaths:</strong> ${d.deaths*1000}<br>`)
+      .style("left", `${d3.event.pageX}px`)
+      .style("top", `${d3.event.pageY}px`);
 }
 
 function handleMouseOverScene3(d) {
     d3.select(this)
-        .style("fill", "blue");
+      .style("fill", "blue");
 
     d3.select(".tooltip")
-        .transition()
-        .duration(200)
-        .style("opacity", 0.9)
-        .style("visibility", "visible");
+      .transition()
+      .duration(200)
+      .style("opacity", 0.9)
+      .style("visibility", "visible");
 
     d3.select(".tooltip")
-        .html(`<strong>Year:</strong> ${d.year}<br><strong>Region:</strong> ${d.region}<br><strong>Total Population:</strong> ${d.population*1000}<br><strong>Total Deaths:</strong> ${d.deaths*1000}<br>`)
-        .style("left", `${d3.event.pageX}px`)
-        .style("top", `${d3.event.pageY}px`);
+      .html(`<strong>Year:</strong> ${d.year}<br><strong>Region:</strong> ${d.region}<br><strong>Total Population:</strong> ${d.population*1000}<br><strong>Total Deaths:</strong> ${d.deaths*1000}<br>`)
+      .style("left", `${d3.event.pageX}px`)
+      .style("top", `${d3.event.pageY}px`);
 
     d3.select("svg")
-        .append('line')
-        .attr("transform", "translate(100,50)")
-        .attr("stroke", "red")
-        .attr("class", "scatter-line")
-        .attr('x1',x(d.deaths*1000))
-        .attr('y1',y(d.population*1000))
-        .attr('x2',x(d.deaths*1000))
-        .attr('y2',y(0));
+      .append('line')
+      .attr("transform", "translate(100,50)")
+      .attr("stroke", "red")
+      .attr("class", "scatter-line")
+      .attr('x1',x(d.deaths*1000))
+      .attr('y1',y(d.population*1000))
+      .attr('x2',x(d.deaths*1000))
+      .attr('y2',y(0));
     
     d3.select("svg")
-        .append('line')
-        .attr("transform", "translate(100,50)")
-        .attr("stroke", "red")
-        .attr("class", "scatter-line")
-        .attr('x1',x(d.deaths*1000))
-        .attr('y1',y(d.population*1000))
-        .attr('x2',x(0))
-        .attr('y2',y(d.population*1000));
+      .append('line')
+      .attr("transform", "translate(100,50)")
+      .attr("stroke", "red")
+      .attr("class", "scatter-line")
+      .attr('x1',x(d.deaths*1000))
+      .attr('y1',y(d.population*1000))
+      .attr('x2',x(0))
+      .attr('y2',y(d.population*1000));
 }
 
 function createAxis(x, y, xLabel, yLabel) {    
     d3.select("svg")
-        .append("g")
-        .transition(d3.easeLinear)
-        .duration(3000)
-        .attr("transform", "translate(100,50)")
-        .call(d3.axisLeft(y));
+      .append("g")
+      .transition(d3.easeLinear)
+      .duration(3000)
+      .attr("transform", "translate(100,50)")
+      .call(d3.axisLeft(y));
 
     d3.select("svg")
-        .append("text")
-        .attr("class", "y label")
-        .attr("text-anchor", "end")
-        .attr("y", 6)
-        .attr("dy", ".75em")
-        .attr("transform", "rotate(-90)")
-        .attr("x", -250)
-        .text(yLabel);
+      .append("text")
+      .attr("class", "y label")
+      .attr("text-anchor", "end")
+      .attr("y", 6)
+      .attr("dy", ".75em")
+      .attr("transform", "rotate(-90)")
+      .attr("x", -250)
+      .text(yLabel);
 
     d3.select("svg")
-        .append("g")
-        .transition(d3.easeLinear)
-        .duration(3000)
-        .attr("transform", "translate(100,550)")
-        .call(d3.axisBottom(x));
+      .append("g")
+      .transition(d3.easeLinear)
+      .duration(3000)
+      .attr("transform", "translate(100,550)")
+      .call(d3.axisBottom(x));
 
     d3.select("svg")
-        .append("text")
-        .attr("class", "x label")
-        .attr("text-anchor", "end")
-        .attr("x", 620)
-        .attr("y", y(0)+100)
-        .text(xLabel);
+      .append("text")
+      .attr("class", "x label")
+      .attr("text-anchor", "end")
+      .attr("x", 620)
+      .attr("y", y(0)+100)
+      .text(xLabel);
 }
 
 function handleMouseOutScene3(data) {
@@ -385,6 +397,11 @@ function plotBarChart(xDomain, yDomain, eventFunc, xType, yType) {
 }
 
 function loadScene1() {
+    d3.select("#graph .p1")
+      .text("Year by year the world population is getting bigger, but also the number of deaths is getting higher as the world population increases (Choose if you want to see yearly population or deaths in the dropdown above).")
+    d3.select("#graph .p2")
+      .text("It is also interesting to point out that the number of deaths for 2020 and 2021 had a sudden increase when compared to previous years, this might be related to the COVID19 pandemic.")
+
     worldpopFiltered = worldpop.filter((entry) => entry.type == 'World');
 
     xDomain = [2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021];
