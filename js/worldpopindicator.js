@@ -428,6 +428,10 @@ function loadScene1() {
       .on("change", handleDropdownChangeScene1);
 }
 
+function reset() {
+    window.location.reload();
+}
+
 async function init() {
     // Fetch world population data
     worldpop = await d3.csv("data/pop_deaths.csv");
