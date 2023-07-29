@@ -428,21 +428,9 @@ function loadScene1() {
       .on("change", handleDropdownChangeScene1);
 }
 
-function reset() {
-    worldpopFiltered = worldpop;
-
-    yDomain = [0, Math.max(...worldpopFiltered.map((entry) => entry[selectedOption]))*1000];
-    color = null;
-    
-    if (currentScene == 3)
-        d3.select("#graph-title").append(dropdown);
-
-    loadScene1();
-}
-
 async function init() {
     // Fetch world population data
-    worldpop = await d3.csv("pop_deaths.csv");
+    worldpop = await d3.csv("data/pop_deaths.csv");
 
     // Load scene 1
     loadScene1();

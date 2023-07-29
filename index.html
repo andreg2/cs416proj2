@@ -1,54 +1,8 @@
 <html>
     <script src='https://d3js.org/d3.v5.min.js'></script>
-    <script src="worldpopindicator.js"></script>
-    <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
-    <style> 
-        html {
-            scroll-behavior: smooth;
-        }
-
-        rect {
-            fill: steelblue;
-            cursor: pointer;
-        }
-
-        #header {
-            display: flex;
-            flex-direction: column;
-            width: 100%;
-            margin: 0;
-            position: absolute;
-            top: 50%;
-            -ms-transform: translateY(-50%);
-            transform: translateY(-50%);
-        }
-
-        #scenario {
-            text-align: center;
-            height: 100%;
-        }
-
-        #drilldown {
-            text-align: center;
-            background-color: rgb(238, 238, 238);
-            padding: 1.75%;
-        }
-
-        .scatter-line {
-            stroke-dasharray: 5,5;
-        }
-
-        .tooltip {
-            position: absolute;
-            padding: 6px;
-            background-color: rgba(0, 0, 0, 0.8);
-            color: #fff;
-            font-size: 12px;
-            pointer-events: none;
-            opacity: 0;
-            transition: opacity 0.3s ease;
-        }
-    </style>
+    <script src="js/worldpopindicator.js"></script>
+    <script src="js/d3-annotation.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
     <body>
         <div id="page">
             <div id="scenario">
